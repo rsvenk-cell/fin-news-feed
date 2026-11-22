@@ -31,6 +31,13 @@ IST = timezone(timedelta(hours=5, minutes=30))
 NOW = datetime.now(timezone.utc)
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 "
       "(KHTML, like Gecko) Version/17.0 Safari/605.1.15")
+BLOCKED = []          # filled from feeds.json "blocked_sources"
+INDIA_RX = re.compile("$^")
+STOPWORDS = set("""about above after again against also among amid ahead before being below between
+both could does doing during each from further have having here into itself just more most other over
+own same should some such than that their them then there these they this those through under until
+very what when where which while will with would your says said year years india indian new news
+report reports first last week today latest update updates over amid after details check""".split())
 CATEGORY_ORDER = ["Indirect Tax", "Direct Tax", "Accounting", "Regulatory",
                   "Markets", "Economy", "Business"]
 
@@ -206,7 +213,13 @@ def parse_feed_items(root, src, max_words, matchers):
             suffix = " - " + source
             if title.endswith(suffix):
                 title = title[: -len(suffix)].strip()
+        if src.get("strip_title_prefix"):
+            title = re.sub(r"^[^|]{3,40}\|\s*", "", title)
         if any(x in title.lower() for x in excludes):
+            continue
+        if len(title.split()) < 5 or re.search(r"\.(txt|pdf|docx?|xlsx?)\b", title, re.I):
+            continue                                   # junk / file-name titles
+        if any(b in source.lower() for b in BLOCKED):
             continue
 
         # Pick the best publisher excerpt: first one with 25+ words, else the longest.
@@ -228,6 +241,8 @@ def parse_feed_items(root, src, max_words, matchers):
         detected = detect_category(text, matchers)
         if src.get("filter") and not detected:
             continue                                   # mixed feed: keep finance/business only
+        if src.get("require_india") and not INDIA_RX.search(text.lower()):
+            continue                                   # search results: keep India-related only
         category = src.get("category") or detected or src.get("fallback", "Business")
 
         out.append({
@@ -239,6 +254,7 @@ def parse_feed_items(root, src, max_words, matchers):
             "published": published,
             "summary": summary,
             "_weight": src.get("weight", 1),
+            "_feed": src["name"],
         })
     return out
 
@@ -332,17 +348,20 @@ def select_daily(items, cfg):
         return i["_weight"] * 6 + max(0.0, 24 - age_h) / 2
 
     fresh.sort(key=score, reverse=True)
-    chosen, ids, per_cat = [], set(), {}
+    chosen, ids, per_cat, per_src = [], set(), {}, {}
     for i in fresh:
         if len(chosen) >= cfg["daily_max"]:
             break
         if per_cat.get(i["category"], 0) >= cfg["daily_per_category_max"]:
+            continue
+        if per_src.get(i["_feed"], 0) >= cfg.get("daily_per_source_max", 4):
             continue
         if is_duplicate(i, chosen, ids):
             continue
         chosen.append(i)
         ids.add(i["id"])
         per_cat[i["category"]] = per_cat.get(i["category"], 0) + 1
+        per_src[i["_feed"]] = per_src.get(i["_feed"], 0) + 1
     chosen.sort(key=lambda i: i["published"], reverse=True)
     return chosen
 
@@ -362,16 +381,142 @@ def select_breaking(items, cfg, daily):
     return chosen
 
 
-def select_trending(items, cfg):
+def tokens(title):
+    return {w for w in re.findall(r"[a-z0-9]+", title.lower()) if len(w) > 3 and w not in STOPWORDS}
+
+
+def most_covered(pool, min_sources):
+    """Group stories reported by several outlets; more outlets = more 'trending'."""
+    cutoff = NOW - timedelta(hours=24)
+    seen, items = set(), []
+    for i in sorted(pool, key=lambda i: (-i["_weight"], -i["published"].timestamp())):
+        if i["published"] >= cutoff and i["id"] not in seen:
+            seen.add(i["id"])
+            items.append(i)
+    clusters = []
+    for i in items:
+        tk = tokens(i["title"])
+        for c in clusters:
+            rep = c[0]
+            if len(tk & tokens(rep["title"])) >= 3 or difflib.SequenceMatcher(
+                    None, norm_title(i["title"]), norm_title(rep["title"])).ratio() > 0.6:
+                c.append(i)
+                break
+        else:
+            clusters.append([i])
+    out = []
+    for c in clusters:
+        sources = []
+        for i in c:
+            if i["source"] not in sources:
+                sources.append(i["source"])
+        if len(sources) < min_sources:
+            continue
+        rep = next((i for i in c if "news.google.com" not in i["link"]), c[0])
+        item = dict(rep)
+        item["_prefix"] = f"Covered by {len(sources)} sources ({', '.join(sources[:3])}{'…' if len(sources) > 3 else ''})."
+        item["_count"] = len(sources)
+        out.append(item)
+    out.sort(key=lambda i: (-i["_count"], -i["published"].timestamp()))
+    return out
+
+
+def select_trending(pool, trends, cfg):
+    covered = most_covered(pool, 3)
+    if len(covered) < 5:
+        covered = most_covered(pool, 2)
     chosen, ids = [], set()
-    # Business-related trends first, then the general top trends in India.
-    for i in sorted(items, key=lambda i: (i["category"] != "Business", i["_rank"])):
-        if len(chosen) >= cfg["trending_max"]:
-            break
-        if not is_duplicate(i, chosen, ids):
+
+    def add(i):
+        if len(chosen) < cfg["trending_max"] and not is_duplicate(i, chosen, ids):
             chosen.append(i)
             ids.add(i["id"])
+
+    for i in covered[: cfg.get("trending_covered_max", 10)]:
+        add(i)
+    for i in sorted((t for t in trends if t["category"] == "Business"), key=lambda t: t["_rank"]):
+        add(i)
+    general = sorted((t for t in trends if t["category"] != "Business"), key=lambda t: t["_rank"])
+    for i in general[: cfg.get("trending_general_max", 3)]:
+        add(i)
     return chosen
+
+
+# ---------------------------------------------------------------- summaries from article pages
+
+def decode_google_news(url):
+    """Turn a news.google.com redirect link into the publisher's real link."""
+    m = re.search(r"news\.google\.com/(?:rss/)?articles/([^?/]+)", url)
+    if not m:
+        return url
+    gid = m.group(1)
+    page = ""
+    for base in ("https://news.google.com/rss/articles/", "https://news.google.com/articles/"):
+        try:
+            page = fetch(base + gid, timeout=12).decode("utf-8", "replace")
+            if "data-n-a-sg" in page:
+                break
+        except Exception:
+            continue
+    sig = re.search(r'data-n-a-sg="([^"]+)"', page)
+    ts = re.search(r'data-n-a-ts="([^"]+)"', page)
+    if not (sig and ts):
+        return url
+    inner = ["garturlreq", [["X", "X", ["X", "X"], None, None, 1, 1, "US:en", None, 1, None, None,
+                             None, None, None, 0, 1], "X", "X", 1, [1, 1, 1], 1, 1, None, 0, 0, None, 0],
+             gid, int(ts.group(1)), sig.group(1)]
+    body = urllib.parse.urlencode(
+        {"f.req": json.dumps([[["Fbv4je", json.dumps(inner), None, "generic"]]])}).encode()
+    req = urllib.request.Request(
+        "https://news.google.com/_/DotsSplashUi/data/batchexecute", data=body,
+        headers={"User-Agent": UA, "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8"})
+    with urllib.request.urlopen(req, timeout=12) as resp:
+        text = resp.read().decode("utf-8", "replace")
+    data = json.loads(text.split("\n\n", 1)[1])
+    real = json.loads(data[0][2])[1]
+    return real if isinstance(real, str) and real.startswith("http") else url
+
+
+JUNK_PARA = re.compile(r"(?i)cookie|subscribe|sign up|newsletter|all rights reserved|©|download the app|"
+                       r"follow us|disclaimer|also read|click here|whatsapp|telegram")
+
+
+def page_summary(url, title, max_words):
+    raw = fetch(url, timeout=12)[:800000].decode("utf-8", "replace")
+    metas = []
+    for m in re.finditer(r"<meta\s[^>]*>", raw, re.I):
+        tag = m.group(0)
+        if re.search(r"""(name|property)\s*=\s*["'](description|og:description|twitter:description)["']""", tag, re.I):
+            c = re.search(r'content\s*=\s*"([^"]*)"', tag, re.I) or re.search(r"content\s*=\s*'([^']*)'", tag, re.I)
+            if c:
+                metas.append(clean_text(c.group(1)))
+    metas = [x for x in metas if difflib.SequenceMatcher(None, norm_title(x), norm_title(title)).ratio() < 0.8]
+    best = max(metas, key=len, default="")
+    if len(best.split()) < 40:
+        body = re.sub(r"(?is)<(script|style|nav|header|footer|aside|form|figure)[^>]*>.*?</\1>", " ", raw)
+        paras, count = [], len(best.split())
+        for p in re.findall(r"(?is)<p[^>]*>(.*?)</p>", body):
+            t = clean_text(p)
+            if len(t.split()) >= 15 and not JUNK_PARA.search(t) and t[:60] not in best:
+                paras.append(t)
+                count += len(t.split())
+            if count >= max_words:
+                break
+        best = (best + " " + " ".join(paras)).strip()
+    return trim_words(best, max_words)
+
+
+def enrich(item, max_words):
+    try:
+        if "news.google.com" in item["link"]:
+            item["link"] = decode_google_news(item["link"])
+        if len(item["summary"].split()) < 25 and "news.google.com" not in item["link"]:
+            fuller = page_summary(item["link"], item["title"], max_words)
+            if len(fuller.split()) > len(item["summary"].split()):
+                item["summary"] = fuller
+        return True
+    except Exception:
+        return False
 
 
 def public(item):
@@ -382,7 +527,7 @@ def public(item):
         "source": item["source"],
         "category": item["category"],
         "published": item["published"].strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "summary": item["summary"],
+        "summary": trim_words(f"{item.get('_prefix', '')} {item['summary']}".strip(), 100),
     }
 
 
@@ -394,6 +539,10 @@ def main():
     cfg = conf["settings"]
     max_words = cfg.get("summary_max_words", 100)
     matchers = build_matchers(conf["categories"])
+    global BLOCKED, INDIA_RX
+    BLOCKED = [b.lower() for b in conf.get("blocked_sources", [])]
+    marks = conf.get("india_markers", ["india"])
+    INDIA_RX = re.compile("|".join(r"(?<![a-z0-9])" + re.escape(m.lower()) + r"(?![a-z0-9])" for m in marks))
 
     daily_raw, d_ok, d_fail = load_all(conf["daily"], max_words, matchers)
     breaking_raw, b_ok, b_fail = load_all(conf["breaking"], max_words, matchers)
@@ -407,7 +556,22 @@ def main():
 
     daily = select_daily(daily_raw, cfg)
     breaking = select_breaking(breaking_raw, cfg, daily)
-    trending = select_trending(trend_raw, cfg)
+    trending = select_trending(daily_raw + breaking_raw, trend_raw, cfg)
+
+    # Fill empty summaries from each article's own page (publisher's description / opening lines).
+    unique = {}
+    for i in daily + breaking + trending:
+        if i.get("_rank") is None:                     # Google Trends items already have text
+            unique.setdefault(i["id"], i)
+    with ThreadPoolExecutor(max_workers=4) as pool:
+        done = list(pool.map(lambda i: enrich(i, max_words), list(unique.values())[:110]))
+    for lst in (daily, breaking, trending):
+        for i in lst:
+            src = unique.get(i["id"])
+            if src is not None and src is not i:
+                i["link"], i["summary"] = src["link"], src["summary"]
+    with_summary = sum(1 for i in unique.values() if i["summary"])
+    print(f"Article pages read: {sum(done)} of {len(done)}; items with a summary: {with_summary} of {len(unique)}")
 
     print("Sources OK:\n  " + "\n  ".join(d_ok + b_ok + t_ok))
     if d_fail or b_fail or t_fail:

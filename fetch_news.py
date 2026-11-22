@@ -170,6 +170,16 @@ def norm_title(t):
     return re.sub(r"[^a-z0-9 ]", "", t.lower()).strip()
 
 
+SECTION_WORDS = r"(Economy|Markets|Money|Finance|Tax|Income Tax|GST|Company Law|Accounts & Audit|Latest|Business|Press Releases|Notifications)"
+
+
+def publisher(name):
+    """'Mint Economy' and 'Mint Money' -> 'mint'; 'Moneycontrol.com' -> 'moneycontrol'."""
+    n = re.sub(r"\s+" + SECTION_WORDS + r"$", "", name.strip(), flags=re.I)
+    n = re.sub(r"\.(com|in|co\.in|net|org)$", "", n, flags=re.I)
+    return n.lower().replace("the ", "").strip()
+
+
 def make_id(link, title):
     return hashlib.sha1((link or title).encode("utf-8")).hexdigest()[:16]
 
@@ -354,14 +364,14 @@ def select_daily(items, cfg):
             break
         if per_cat.get(i["category"], 0) >= cfg["daily_per_category_max"]:
             continue
-        if per_src.get(i["_feed"], 0) >= cfg.get("daily_per_source_max", 4):
+        if per_src.get(publisher(i["source"]), 0) >= cfg.get("daily_per_source_max", 4):
             continue
         if is_duplicate(i, chosen, ids):
             continue
         chosen.append(i)
         ids.add(i["id"])
         per_cat[i["category"]] = per_cat.get(i["category"], 0) + 1
-        per_src[i["_feed"]] = per_src.get(i["_feed"], 0) + 1
+        per_src[publisher(i["source"])] = per_src.get(publisher(i["source"]), 0) + 1
     chosen.sort(key=lambda i: i["published"], reverse=True)
     return chosen
 
@@ -406,13 +416,14 @@ def most_covered(pool, min_sources):
             clusters.append([i])
     out = []
     for c in clusters:
-        sources = []
+        sources, pubs = [], set()
         for i in c:
-            if i["source"] not in sources:
-                sources.append(i["source"])
+            if publisher(i["source"]) not in pubs:
+                pubs.add(publisher(i["source"]))
+                sources.append(re.sub(r"\s+" + SECTION_WORDS + r"$", "", i["source"], flags=re.I))
         if len(sources) < min_sources:
             continue
-        rep = next((i for i in c if "news.google.com" not in i["link"]), c[0])
+        rep = max(c, key=lambda i: (i["_weight"], "news.google.com" not in i["link"], len(i["summary"])))
         item = dict(rep)
         item["_prefix"] = f"Covered by {len(sources)} sources ({', '.join(sources[:3])}{'…' if len(sources) > 3 else ''})."
         item["_count"] = len(sources)
@@ -478,7 +489,20 @@ def decode_google_news(url):
 
 
 JUNK_PARA = re.compile(r"(?i)cookie|subscribe|sign up|newsletter|all rights reserved|©|download the app|"
-                       r"follow us|disclaimer|also read|click here|whatsapp|telegram")
+                       r"follow us|disclaimer|also read|click here|whatsapp|telegram|outdated browser|"
+                       r"upgrade your browser|trending:|-->|please contact|@[a-z0-9-]+\.[a-z]|"
+                       r"advertisement|log ?in|register now|exam|batch|course")
+
+
+def looks_like_prose(t):
+    """Real article sentences, not menus, hashtag lists or link lists."""
+    words = t.split()
+    if len(words) < 15 or t.count("#") >= 2:
+        return False
+    if not re.search(r"[.!?]", t):
+        return False
+    caps = sum(1 for w in words if w[:1].isupper())
+    return caps / len(words) < 0.45
 
 
 def page_summary(url, title, max_words):
@@ -490,14 +514,16 @@ def page_summary(url, title, max_words):
             c = re.search(r'content\s*=\s*"([^"]*)"', tag, re.I) or re.search(r"content\s*=\s*'([^']*)'", tag, re.I)
             if c:
                 metas.append(clean_text(c.group(1)))
-    metas = [x for x in metas if difflib.SequenceMatcher(None, norm_title(x), norm_title(title)).ratio() < 0.8]
+    metas = [x for x in metas if difflib.SequenceMatcher(None, norm_title(x), norm_title(title)).ratio() < 0.8
+             and not JUNK_PARA.search(x) and x.count("#") < 2]
     best = max(metas, key=len, default="")
     if len(best.split()) < 40:
         body = re.sub(r"(?is)<(script|style|nav|header|footer|aside|form|figure)[^>]*>.*?</\1>", " ", raw)
         paras, count = [], len(best.split())
         for p in re.findall(r"(?is)<p[^>]*>(.*?)</p>", body):
             t = clean_text(p)
-            if len(t.split()) >= 15 and not JUNK_PARA.search(t) and t[:60] not in best:
+            similar = difflib.SequenceMatcher(None, t[:120].lower(), best[:120].lower()).ratio() > 0.6
+            if looks_like_prose(t) and not JUNK_PARA.search(t) and not similar and t[:60] not in best:
                 paras.append(t)
                 count += len(t.split())
             if count >= max_words:

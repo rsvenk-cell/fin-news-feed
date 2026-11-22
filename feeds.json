@@ -2,10 +2,13 @@
   "settings": {
     "daily_max": 30,
     "daily_per_category_max": 8,
+    "daily_per_source_max": 4,
     "daily_max_age_hours": 48,
     "breaking_max": 20,
     "breaking_max_age_hours": 12,
     "trending_max": 15,
+    "trending_covered_max": 10,
+    "trending_general_max": 0,
     "summary_max_words": 100
   },
 
@@ -16,16 +19,16 @@
     {"name": "SEBI", "url": "https://www.sebi.gov.in/sebirss.xml", "weight": 3, "fallback": "Regulatory"},
     {"name": "PIB", "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3", "weight": 2, "fallback": "Economy", "filter": true},
 
-    {"name": "CBDT / Income Tax updates", "type": "google_news", "query": "CBDT OR \"income tax department\" OR \"income tax\" circular OR notification OR ITR OR TDS", "when": "2d", "weight": 2, "fallback": "Direct Tax"},
-    {"name": "GST / CBIC updates", "type": "google_news", "query": "\"GST Council\" OR CBIC OR GSTN OR \"GST notification\" OR \"input tax credit\" OR customs duty", "when": "2d", "weight": 2, "fallback": "Indirect Tax"},
-    {"name": "ICAI / Accounting updates", "type": "google_news", "query": "ICAI OR \"Ind AS\" OR NFRA OR \"accounting standards\" OR \"auditing standards\"", "when": "2d", "weight": 2, "fallback": "Accounting"},
-    {"name": "MCA / Company law updates", "type": "google_news", "query": "MCA notification OR \"Companies Act\" OR \"Ministry of Corporate Affairs\" OR IBBI OR insolvency", "when": "2d", "weight": 2, "fallback": "Regulatory"},
+    {"name": "CBDT / Income Tax updates", "type": "google_news", "query": "CBDT OR \"income tax department\" OR \"income tax\" circular OR notification OR ITR OR TDS", "when": "2d", "weight": 2, "require_india": true, "fallback": "Direct Tax"},
+    {"name": "GST / CBIC updates", "type": "google_news", "query": "\"GST Council\" OR CBIC OR GSTN OR \"GST notification\" OR \"input tax credit\" OR customs duty", "when": "2d", "weight": 2, "require_india": true, "fallback": "Indirect Tax"},
+    {"name": "ICAI / Accounting updates", "type": "google_news", "query": "ICAI OR \"Ind AS\" OR NFRA OR \"accounting standards\" OR \"auditing standards\"", "when": "2d", "weight": 2, "require_india": true, "fallback": "Accounting"},
+    {"name": "MCA / Company law updates", "type": "google_news", "query": "MCA notification OR \"Companies Act\" OR \"Ministry of Corporate Affairs\" OR IBBI OR insolvency", "when": "2d", "weight": 2, "require_india": true, "fallback": "Regulatory"},
     {"name": "CAclubindia", "type": "google_news", "query": "site:caclubindia.com", "when": "2d", "weight": 2, "fallback": "Accounting"},
 
-    {"name": "TaxGuru Income Tax", "url": "https://taxguru.in/category/income-tax/feed/", "weight": 2, "category": "Direct Tax"},
-    {"name": "TaxGuru GST", "url": "https://taxguru.in/category/goods-and-service-tax/feed/", "weight": 2, "category": "Indirect Tax"},
-    {"name": "TaxGuru Company Law", "url": "https://taxguru.in/category/company-law/feed/", "weight": 2, "category": "Regulatory"},
-    {"name": "TaxGuru Accounts & Audit", "url": "https://taxguru.in/category/chartered-accountant/feed/", "weight": 2, "category": "Accounting"},
+    {"name": "TaxGuru Income Tax", "url": "https://taxguru.in/category/income-tax/feed/", "strip_title_prefix": true, "weight": 2, "category": "Direct Tax"},
+    {"name": "TaxGuru GST", "url": "https://taxguru.in/category/goods-and-service-tax/feed/", "strip_title_prefix": true, "weight": 2, "category": "Indirect Tax"},
+    {"name": "TaxGuru Company Law", "url": "https://taxguru.in/category/company-law/feed/", "strip_title_prefix": true, "weight": 2, "category": "Regulatory"},
+    {"name": "TaxGuru Accounts & Audit", "url": "https://taxguru.in/category/chartered-accountant/feed/", "strip_title_prefix": true, "weight": 2, "category": "Accounting"},
 
     {"name": "Economic Times Economy", "url": "https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms", "weight": 1, "fallback": "Economy"},
     {"name": "Economic Times Markets", "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms", "weight": 1, "fallback": "Markets"},
@@ -43,7 +46,7 @@
   ],
 
   "breaking": [
-    {"name": "Google News Business (India)", "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-IN&gl=IN&ceid=IN:en", "fallback": "Business"},
+    {"name": "Google News Business (India)", "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-IN&gl=IN&ceid=IN:en", "fallback": "Business", "filter": true},
     {"name": "Regulator & Ministry news", "type": "google_news", "query": "RBI OR SEBI OR \"finance ministry\" OR \"Nirmala Sitharaman\" OR CBDT OR \"GST Council\"", "when": "1d", "fallback": "Regulatory"},
     {"name": "Moneycontrol Latest", "url": "https://www.moneycontrol.com/rss/latestnews.xml", "fallback": "Business", "filter": true},
     {"name": "Business Standard Latest", "url": "https://www.business-standard.com/rss/latest.rss", "fallback": "Business", "filter": true},
@@ -55,6 +58,18 @@
     {"name": "Google Trends India", "type": "google_trends", "url": "https://trends.google.com/trending/rss?geo=IN"},
     {"name": "Google Trends India (old address)", "type": "google_trends", "url": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=IN"}
   ],
+
+  "blocked_sources": ["Global Advisory Experts", "tovima", "theopenpress", "Urban Acres", "RushLane", "MotorOctane",
+                      "NewsBytes", "prameyanews", "Malaya Business Insight", "The New Times", "Democrata",
+                      "Dainik Jagran", "Juris Hour", "Goal.com", "Diari ARA"],
+
+  "india_markers": ["india", "indian", "rbi", "sebi", "cbdt", "cbic", "gst", "gstn", "gstat", "icai", "mca", "nfra",
+                    "nclt", "nclat", "itat", "cestat", "ibbi", "irdai", "pfrda", "sensex", "nifty", "bse", "nse",
+                    "rs", "₹", "crore", "lakh", "high court", "hc", "supreme court", "sitharaman", "niti aayog",
+                    "union budget", "lok sabha", "rajya sabha", "fy26", "fy27", "fy28", "fy29", "fy30",
+                    "delhi", "mumbai", "bengaluru", "chennai", "kolkata", "hyderabad", "ahmedabad", "pune",
+                    "maharashtra", "karnataka", "tamil nadu", "gujarat", "kerala", "telangana", "rajasthan",
+                    "uttar pradesh", "west bengal", "punjab", "haryana", "madhya pradesh", "bihar", "odisha", "andhra"],
 
   "categories": {
     "Indirect Tax": ["gst", "cgst", "sgst", "igst", "cbic", "gstn", "gstr", "input tax credit", "itc", "e-invoice", "e-way bill", "customs", "excise", "anti-dumping", "gst council"],

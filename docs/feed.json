@@ -1,14 +1,32 @@
 {
- "generated": "2026-11-22T15:35:53Z",
+ "generated": "2026-11-22T16:12:28Z",
  "daily": [
   {
-   "id": "b389e9efae3beb6d",
-   "title": "SEBI begins planning capacity-building network for independent directors in India",
-   "link": "https://www.newsbytesapp.com/news/business/sebi-begins-planning-capacity-building-network-for-independent-directors-in-india/tldr",
-   "source": "NewsBytes",
-   "category": "Regulatory",
-   "published": "2026-11-22T15:08:23Z",
-   "summary": "SEBI is collaborating with industry bodies and academic institutions to develop a network aimed at enhancing the skills of independent directors for improved boardroom oversight. The Securities and Exchange Board of India (SEBI) is starting work on a new capacity-building network to help independent directors up their game and strengthen corporate governance in India. The first planning session happened on November 20, 2026, led by Kamlesh Varshney, with groups like the Institute of Directors and NISM participating in the effort."
+   "id": "5b8e630f2d55d343",
+   "title": "FD interest rate vs maturity date: Should you chase higher returns or choose a tenure that suits your financial goals?",
+   "link": "https://www.livemint.com/money/personal-finance/fd-interest-rate-vs-maturity-date-should-you-chase-higher-returns-or-choose-a-tenure-that-suits-your-financial-goals-11795361826216.html",
+   "source": "Mint Money",
+   "category": "Business",
+   "published": "2026-11-22T16:03:48Z",
+   "summary": "Choosing the highest FD interest rate may not always be the smartest move. Investors should weigh maturity dates, liquidity needs, reinvestment risks and premature withdrawal penalties before deciding how long to lock in their savings."
+  },
+  {
+   "id": "38859722c0a00513",
+   "title": "Gold slides to lowest level since September 2025, silver crashes nearly 4%: What's driving the selloff?",
+   "link": "https://www.livemint.com/money/gold-slides-to-lowest-level-since-september-2025-silver-crashes-nearly-4-whats-driving-the-selloff-11795361232751.html",
+   "source": "Mint Money",
+   "category": "Economy",
+   "published": "2026-11-22T15:46:10Z",
+   "summary": "For gold and silver, the immediate direction may depend on whether the current selloff is driven primarily by short-term liquidation or a more sustained reassessment of monetary policy, global growth and commodity demand."
+  },
+  {
+   "id": "ecc1a3d4baecad39",
+   "title": "From cotton mills to cityscapes – How the Singhanias are unlocking legacy land",
+   "link": "https://www.thehindubusinessline.com/economy/agri-business/from-cotton-mills-to-cityscapes-how-the-singhanias-are-unlocking-legacy-land/article71731975.ece",
+   "source": "BusinessLine Economy",
+   "category": "Business",
+   "published": "2026-11-22T15:42:19Z",
+   "summary": "The 104-year-old JK group company is betting on a ₹965-crore hospitality push and a ₹4,400-crore real estate pipeline built on its old industrial land Over a century ago, JK Cotton spun textiles out of Kanpur, before the company diversified into other businesses. Renamed JK Urbanscapes in 2023, the 104-year-old company, which attempted a brief revival of its textile business in 2009, is now betting on a bigger prize: turning old industrial and mill land into hospitality and urban real estate."
   },
   {
    "id": "fcf48971286d5a47",
@@ -29,6 +47,15 @@
    "summary": "A partial PF withdrawal for eligible housing purposes does not close the account; the remaining balance continues to earn interest. Because the employee has more than five years of service and contributions, the withdrawal is tax-exempt."
   },
   {
+   "id": "cd151a4c96020457",
+   "title": "SEBI starts work on network to train independent directors",
+   "link": "https://www.thehindubusinessline.com/markets/sebi-starts-work-on-network-to-train-independent-directors/article71731685.ece",
+   "source": "BusinessLine Markets",
+   "category": "Regulatory",
+   "published": "2026-11-22T14:54:20Z",
+   "summary": "SEBI begins building a network with industry and academia to train independent directors amid rising startup and IPO activity. The Securities and Exchange Board of India (SEBI) has started working on a wider capacity-building network to train and upgrade the skills of independent directors, bringing together professional industry bodies and academic institutions to develop programmes aimed at improving boardroom oversight, according to people familiar with the developments. The discussions centred on how the institutions could collaborate on developing training programmes, sharing expertise and creating a wider pool of resources for independent directors."
+  },
+  {
    "id": "fd29846aa2f7c1e0",
    "title": "CBIC Proposes Changes to Section 16 and New Section 16A to Protect Genuine ITC Claims",
    "link": "https://www.caclubindia.com/news/cbic-proposes-changes-to-section-16-and-new-section-16a-to-protect-genuine-itc-claims-26967.asp",
@@ -38,22 +65,103 @@
    "summary": "CBIC proposes changes to Section 16 & new Section 16A to protect genuine ITC claims, aiming to prevent penalising recipients for supplier defaults. The proposal seeks to bring greater clarity to ITC eligibility and ensure that bona fide recipients are not penalised merely because of defaults committed by suppliers or other persons in the supply chain. At the same time, it aims to prevent taxpayers knowingly involved in fraudulent transactions from claiming ITC. The proposals form part of an agenda note prepared by the GST Policy Wing of CBIC following deliberations at the 57th GST Council meeting."
   },
   {
-   "id": "9b480692c89fd7b5",
-   "title": "Shein and Temu rate: when the 3 euros are paid and why they can be more",
-   "link": "https://www.democrata.es/en/current-events/shein-and-temu-fee-when-the-3-euros-are-paid-and-why-they-could-be-more/amp/",
-   "source": "Demócrata",
-   "category": "Indirect Tax",
-   "published": "2026-11-22T10:58:35Z",
-   "summary": ""
+   "id": "56bde845274466d2",
+   "title": "Nepal PM visit: India weighs $2-billion development package for Kathmandu",
+   "link": "https://www.thehindubusinessline.com/economy/nepal-pm-visit-india-weighs-2-billion-development-package-for-kathmandu/article71731299.ece",
+   "source": "BusinessLine Economy",
+   "category": "Business",
+   "published": "2026-11-22T14:31:52Z",
+   "summary": "India weighs up to $2B Kathmandu package tied to DPRs and progress, with focus on infrastructure, energy, connectivity, and new cooperation areas. India is favourably considering Nepal’s proposal for up to $2 billion in grants and credit, with some project announcements likely during Nepalese Prime Minister Balendra Shah’s two-day visit, which begins on Sunday. However, Kathmandu may have to submit detailed project reports before funds are sanctioned, with disbursements likely to be linked to project progress and utilisation, sources said."
   },
   {
-   "id": "5510f4e7351d83be",
-   "title": "Former FERWAFA official Uwayezu joins BK Arena management| The New Times",
-   "link": "https://www.newtimes.co.rw/article/40632/former-ferwafa-official-uwayezu-joins-bk-arena-management/amp",
-   "source": "The New Times",
-   "category": "Accounting",
-   "published": "2026-11-22T09:10:30Z",
-   "summary": "Former Rwanda Football Federation (FERWAFA) Secretary-General François-Régis Uwayezu has been appointed as the new Venue Manager of BK Arena. His... His appointment was announced by QA Venue Solutions (QAVS) Rwanda, the company responsible for managing the multipurpose facility. Uwayezu brings extensive experience in sports administration, both in Rwanda and beyond. He served as FERWAFA Secretary-General from 2018 to 2021 and also held various leadership positions where he was named APR FC Vice Chairman. In August 2024, he joined Tanzanian football giants Simba SC as Chief Executive Officer."
+   "id": "52692655d82d72d5",
+   "title": "Bengaluru businessman declares Rs 19.26 crore income, but tax department seizes Rs 4.10 crore cash and Rs",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/bengaluru-businessman-declares-rs-19-26-crore-income-but-tax-department-seizes-rs-4-10-crore-cash-and-rs-8-11-crore-jewellery-including-751-52-grams-gold-and-decides-to-tax-him-at-special-rate-itat-gives-relief/articleshow/136055624.cms",
+   "source": "The Times of India",
+   "category": "Business",
+   "published": "2026-11-22T13:29:00Z",
+   "summary": "If you have business income then it is very important to keep all your records in place, accounting for all your income sources. A businessman in Bengaluru found himself facing a tax notice after raids revealed cash in his locker which the Income Tax Department treated as unexplained."
+  },
+  {
+   "id": "e8947dcdca58a229",
+   "title": "Labour ministry launches job-matching portal, occupational shortage index",
+   "link": "https://www.business-standard.com/economy/news/labour-ministry-launches-job-matching-portal-occupational-shortage-index-126112200567_1.html",
+   "source": "Business Standard",
+   "category": "Economy",
+   "published": "2026-11-22T13:23:53Z",
+   "summary": "The NCS ONE Portal will link jobseekers with employers and recruitment platforms, while the Occupational Shortage Index aims to identify labour market gaps and guide skilling initiatives."
+  },
+  {
+   "id": "22775fe940c2549f",
+   "title": "ESIC notifies new rules under labour codes, eases benefit claims process",
+   "link": "https://www.business-standard.com/finance/insurance/esic-notifies-new-rules-under-labour-codes-eases-benefit-claims-process-126112200513_1.html",
+   "source": "Business Standard",
+   "category": "Business",
+   "published": "2026-11-22T12:25:20Z",
+   "summary": "New regulations allow automatic processing of sickness and maternity claims, simplify injury benefits and expand digital services for nearly 40 million insured workers nationwide"
+  },
+  {
+   "id": "fb03ec8e62bad8d5",
+   "title": "CII proposes 15 priority reforms inputs for High-Level Committee on Banking for Viksit Bharat",
+   "link": "https://www.thehindubusinessline.com/economy/cii-proposes-15-priority-reforms-inputs-for-high-level-committee-on-banking-for-viksit-bharat/article71730587.ece",
+   "source": "BusinessLine Economy",
+   "category": "Business",
+   "published": "2026-11-22T12:22:34Z",
+   "summary": "Recommendations to the High-Level Committee on Banking for Viksit Bharat include changes to priority sector lending, NBFC funding, corporate bonds and insurance. CII’s priority reforms include standing, rule-based liquidity window for well-governed NBFCs, a recalibrated priority sector lending framework, a wider investor base for lower-rated corporate bonds, parity for NBFCs in loan recovery, and a national catastrophe and climate risk pool. The industry body expected these reforms proposal to work as input to the committee."
+  },
+  {
+   "id": "3005f976fa9a57c3",
+   "title": "Engineering exports jump 36% in October, led by strong US shipments",
+   "link": "https://www.business-standard.com/economy/news/engineering-exports-jump-36-in-october-led-by-strong-us-shipments-126112200488_1.html",
+   "source": "Press Trust of India",
+   "category": "Economy",
+   "published": "2026-11-22T11:56:38Z",
+   "summary": "India's engineering exports rose 36% year-on-year to $12.74 billion in October, driven by strong US demand and higher shipments of metals, electrical machinery and automobiles, EEPC India said."
+  },
+  {
+   "id": "74bb6c6b9451046e",
+   "title": "Asia, Africa to drive expansion of India's export markets as shipments grow across regions",
+   "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/asia-africa-to-drive-expansion-of-indias-export-markets-as-shipments-grow-across-regions/articleshow/136070074.cms",
+   "source": "Economic Times Economy",
+   "category": "Economy",
+   "published": "2026-11-22T11:56:14Z",
+   "summary": "India's merchandise exports have shown strong growth, particularly in Africa and Asia, according to recent government data. Exports to Africa increased by 44 percent, while shipments to Asia surpassed USD 100 billion. Engineering goods, electronic goods, and petroleum products have driven this expansion significantly. Notable growth was observed in markets such as Tanzania and Kenya in Africa."
+  },
+  {
+   "id": "68466ca2ecf12ba7",
+   "title": "South Korea prepares market stabilisation funds after KOSPI hits 10-month low",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/south-korea-prepares-market-stabilisation-funds-after-kospi-hits-10-month-low/articleshow/136073016.cms",
+   "source": "Economic Times Markets",
+   "category": "Markets",
+   "published": "2026-11-22T11:45:31Z",
+   "summary": "In response to falling stock indices, South Korea's finance ministry is poised to activate market stabilisation funds. The KOSPI index has plummeted, marking its lowest point in the last ten months. An emergency meeting was convened by the finance minister to explore strategies for restoring investor confidence. Among the discussed actions are temporary regulations on stock buyback limits for publicly listed companies."
+  },
+  {
+   "id": "361cf8c5eb5f1c48",
+   "title": "Crude oil futures brace for OPEC+ output decision amid supply glut concerns: Analysts",
+   "link": "https://economictimes.indiatimes.com/markets/commodities/crude-oil-futures-brace-for-opec-output-decision-amid-supply-glut-concerns-analysts/articleshow/136072428.cms",
+   "source": "Economic Times Markets",
+   "category": "Markets",
+   "published": "2026-11-22T11:00:27Z",
+   "summary": "Next week promises to be a rollercoaster for crude oil futures as the OPEC+ meeting approaches. Traders are keeping a close eye on supply insights from the American Petroleum Institute and Energy Information Administration. Trading will be quiet on Tuesday due to Guru Nanak Jayanti. While concerns about a global supply surplus loom large, they overshadow geopolitical tensions in West Asia."
+  },
+  {
+   "id": "8bb7099e7750bee8",
+   "title": "India-EU free trade pact likely to be signed on Dec 16 in Brussels",
+   "link": "https://www.business-standard.com/external-affairs-defence-security/news/india-eu-free-trade-pact-likely-to-be-signed-on-dec-16-in-brussels-126112200436_1.html",
+   "source": "Press Trust of India",
+   "category": "Economy",
+   "published": "2026-11-22T10:58:50Z",
+   "summary": "India and the European Union are likely to sign their long-pending free trade agreement on December 16, with 93% of Indian shipments set to receive duty-free access to the bloc."
+  },
+  {
+   "id": "101cf34c5b999955",
+   "title": "FPI, crude oil, global trends to to steer markets in holiday-shortened week",
+   "link": "https://www.business-standard.com/markets/news/fpi-crude-oil-global-trends-to-to-steer-markets-in-holiday-shortened-week-126112200353_1.html",
+   "source": "Press Trust of India",
+   "category": "Markets",
+   "published": "2026-11-22T09:47:13Z",
+   "summary": "Stock market movement would depend on trading activity of foreign investors, crude oil prices and global trends in a holiday-shortened week ahead, analysts said. Equity markets would remain closed on Tuesday for \"Prakash Gurpurb Sri Guru Nanak Dev\". \"The holiday-shortened week will be influenced by global economic releases, FPI flows and movements in crude oil and the rupee. Domestically, the HSBC Flash India PMI for November, scheduled for Monday, November 23, will provide insights into private-sector activity,\" Ajit Mishra, SVP -- Research, Religare Broking, said."
   },
   {
    "id": "e270197deb94f662",
@@ -62,7 +170,16 @@
    "source": "Moneycontrol.com",
    "category": "Economy",
    "published": "2026-11-22T09:08:58Z",
-   "summary": "Ahead of the Union Budget 2027-28, aluminium manufacturers' body ALEMAI has urged the government to reduce the basic customs duty on primary aluminium from 7.5% to zero, citing high input costs and the impact on MSME competitiveness. Fixed Deposit Comparison Fixed Deposit Interest Calculator Moneycontrol - SecureNow Health Insurance ratings Mutual Funds Mutual Funds Category-wise MFs Top Rated Funds My Portfolio Top performing Categories Forum New Fund Offers MF Simplified Commodities Mutual Funds Gold Rate Silver Rate Currencies Cryptocurrency Media Live TV & Shows Video Podcast Photos Invest Now Invest in Unlisted Shares Invest in U.S."
+   "summary": "Ahead of the Union Budget 2027-28, aluminium manufacturers' body ALEMAI has urged the government to reduce the basic customs duty on primary aluminium from 7.5% to zero, citing high input costs and the impact on MSME competitiveness. Manufacturers' body ALEMAI has written a letter to Finance Minister Nirmala Sitharaman, seeking to bring down the basic customs duty on primary aluminium to zero, arguing that the current 7.5 per cent levy, which translates into an effective import duty of 8.25 per cent including social welfare surcharge, is hurting MSMEs (micro, small and medium enterprises) and domestic value addition."
+  },
+  {
+   "id": "8bdf04da473b7aec",
+   "title": "Rising government debt unlikely to trigger broad sovereign crisis in 2027: UBS",
+   "link": "https://economictimes.indiatimes.com/news/economy/indicators/rising-government-debt-unlikely-to-trigger-broad-sovereign-crisis-in-2027-ubs/articleshow/136070395.cms",
+   "source": "Economic Times Economy",
+   "category": "Economy",
+   "published": "2026-11-22T08:31:15Z",
+   "summary": "Government borrowing and debt-servicing costs are likely to escalate challenges for major economies by 2027. UBS reports that pressure stems from refinanced debt from low interest rates previously. Factors contributing to public finance pressure include ageing populations and entitlement spending. Measures like bond buybacks and changes in debt issuance strategies can help manage financing pressures. Nonetheless, UBS warns about potential difficulties that could lead to a debt crisis."
   },
   {
    "id": "a469a3bbce4214b1",
@@ -71,25 +188,16 @@
    "source": "CAclubindia",
    "category": "Indirect Tax",
    "published": "2026-11-22T08:08:00Z",
-   "summary": "Global customers rely Bloomberg Sources to deliver accurate, real-time business and market-moving information that helps them make critical financial decisions please contact: michael@bloombergsources.com DT & Audit (Exam Oriented Fastrack Batch) - For May 26 Exams and onwards Full English"
-  },
-  {
-   "id": "9326ef0e22106df6",
-   "title": "Private Credit in China 2026: Structures, Filings and Enforcement Risks",
-   "link": "https://globaladvisoryexperts.com/news/private-credit-china-direct-lending-structuring-2026",
-   "source": "Global Advisory Experts",
-   "category": "Business",
-   "published": "2026-11-22T07:37:34Z",
-   "summary": "Private credit china guide for 2026: compare lending structures, SAFE and tax filings, security perfection and realistic enforcement timelines. Lenders weighing a private credit china allocation in 2026 should pause before relying on structures that were built a few years ago. The National People's Congress is reviewing a draft financial law this year… Direct contact details are for verified GAE users. Free account , or send an enquiry , no account needed. Lenders weighing a private credit china allocation in 2026 should pause before relying on structures that were built a few years ago."
+   "summary": ""
   },
   {
    "id": "0392dac8aa7e913e",
-   "title": "Goods and Services Tax | Road Tax Exemption for Disabled Persons Cannot Be Restricted by Statute: Madras HC",
+   "title": "Road Tax Exemption for Disabled Persons Cannot Be Restricted by Statute: Madras HC",
    "link": "https://taxguru.in/goods-and-service-tax/road-tax-exemption-disabled-persons-cannot-restricted-statute-madras-hc.html",
    "source": "TaxGuru GST",
    "category": "Indirect Tax",
    "published": "2026-11-22T07:33:12Z",
-   "summary": "Madras HC directs fresh road tax exemption notification for disabled persons, considering unadapted vehicles and safeguards against misuse. Summary: The Madras High Court, in P. Manmatha Raja Vs Secretary to Government of Tamil Nadu & Ors. , examined whether road tax exemption available to persons with disabilities could be extended to vehicles that were not specially designed or adapted for their use. The petitioner, a person with disability, challenged the Regional Transport Officer’s order dated 23 June 2026 rejecting exemption for his Maruti Suzuki Ertiga ZXI Plus Automatic Transmission car."
+   "summary": "Madras HC directs fresh road tax exemption notification for disabled persons, considering unadapted vehicles and safeguards against misuse. At the same time, the Court recognised the possibility of misuse if exemption were granted without safeguards. Vehicles could be registered in the names of persons with disabilities but used by others, or transferred shortly after purchase. Referring to earlier guidelines governing GST concession certificates for persons with orthopaedic disabilities , the Court identified possible safeguards relating to vehicle specifications, disability certification, income tax returns, declarations concerning previous concessions and restrictions on disposal of vehicles."
   },
   {
    "id": "757e73d001d74854",
@@ -101,26 +209,8 @@
    "summary": "Madras HC dismisses six income tax appeals against J. Jayalalitha as withdrawn due to low tax effect under CBDT Circular 9/2024. Summary : The Madras High Court, in Commissioner of Income Tax, Central II, Chennai Vs Ms J. Jayalalitha , disposed of six departmental income tax appeals relating to assessment years 1987-88 to 1992-93 after the Income Tax Department expressed its unwillingness to pursue the proceedings on account of low tax effect. The appeals, numbered T.C. Nos."
   },
   {
-   "id": "507a083054ec7fd6",
-   "title": "Import Export Compliance Pakistan: A 2026 Guide to Customs, Tariffs and Trade Remedies",
-   "link": "https://globaladvisoryexperts.com/news/import-export-compliance-pakistan-2026-guide",
-   "source": "Global Advisory Experts",
-   "category": "Indirect Tax",
-   "published": "2026-11-22T07:32:34Z",
-   "summary": "Import export compliance pakistan explained for 2026: customs procedure, duty and valuation, documents, anti-dumping defence and appeals for traders. Who this guide is for: importers, exporters, finance and compliance leads, in-house teams and foreign investors who trade in or with Pakistan. What it covers: customs procedure, tariff and valuation basics, doc… Direct contact details are for verified GAE users. Free account , or send an enquiry , no account needed. Who this guide is for: importers, exporters, finance and compliance leads, in-house teams and foreign investors who trade in or with Pakistan."
-  },
-  {
-   "id": "7d2248a13027f479",
-   "title": "EU to Charge €3 Fee on Shein, Temu Parcels From July 2026",
-   "link": "https://www.tovima.com/finance/eu-to-charge-e3-fee-on-shein-temu-parcels-from-july-2026/",
-   "source": "tovima.com",
-   "category": "Indirect Tax",
-   "published": "2026-11-22T07:31:24Z",
-   "summary": "A new regulation scraps duty-free treatment for low-value packages from non-EU platforms. Because the fee applies per product category, a single order could cost shoppers far more than expected. Europe Moves to Curb Shein and Temu With New Import Tariffs EU finance ministers back tariffs on small parcels from non-EU retailers like Shein and Temu—an overhaul meant to protect local businesses, restore fair competition, and plug major tax losses as billions in ultra-cheap goods flood Europe. The trajectory is steep."
-  },
-  {
    "id": "4d89a1a2658a43d1",
-   "title": "Goods and Services Tax | GSTAT Bengaluru Restores 100% Penalty for Suppressed Turnover Detected During GST Audit",
+   "title": "GSTAT Bengaluru Restores 100% Penalty for Suppressed Turnover Detected During GST Audit",
    "link": "https://taxguru.in/goods-and-service-tax/gstat-bengaluru-restores-100-percent-penalty-suppressed-turnover-detected-gst-audit.html",
    "source": "TaxGuru GST",
    "category": "Indirect Tax",
@@ -129,111 +219,12 @@
   },
   {
    "id": "5614a9577ead1237",
-   "title": "Goods and Services Tax | GST Order Set Aside as SCN Reply and Hearing Dates Were Same: Allahabad HC",
+   "title": "GST Order Set Aside as SCN Reply and Hearing Dates Were Same: Allahabad HC",
    "link": "https://taxguru.in/goods-and-service-tax/gst-order-set-scn-reply-hearing-dates-allahabad-hc.html",
    "source": "TaxGuru GST",
    "category": "Indirect Tax",
    "published": "2026-11-22T07:28:33Z",
    "summary": "Allahabad HC sets aside GST ITC demand where SCN reply and hearing dates coincided; remands matter subject to ₹5,000 costs. Summary : The Allahabad High Court considered a writ petition filed by M/s Kanha Mentha Traders challenging a GST assessment order dated 4 January 2022 and an appellate order dated 30 April 2026 dismissing its appeal on the ground of delay. The petitioner, a partnership firm engaged in the Mentha Oil business, had purchased goods valued at ₹55,26,000 from M/s Vishnu Traders and claimed input tax credit of ₹6,63,120, comprising CGST and SGST of ₹3,31,560 each."
-  },
-  {
-   "id": "d06a2c4fe453c302",
-   "title": "Income Tax | Jewellery Manufacturing Through Contract Workers Eligible for Section 10AA Exemption: ITAT Delhi",
-   "link": "https://taxguru.in/income-tax/jewellery-manufacturing-contract-workers-eligible-section-10aa-exemption-itat-delhi.html",
-   "source": "TaxGuru Income Tax",
-   "category": "Direct Tax",
-   "published": "2026-11-22T07:27:56Z",
-   "summary": "ITAT Delhi allows Section 10AA deduction to SEZ jewellery exporter despite contract labour and low fixed assets; deletes bonus disallowance. Summary : The Income Tax Appellate Tribunal, Delhi Bench C, in Bikram Exports Vs Assistant Commissioner of Income Tax , allowed the assessee’s appeals for Assessment Years 2015-16 and 2016-17, holding that the deduction claimed under Section 10AA of the Income-tax Act, 1961 , could not be denied merely because the jewellery manufacturing unit had limited fixed assets and engaged artisans or contract workers."
-  },
-  {
-   "id": "d257c0ed47b12e17",
-   "title": "Company Law | NCLT Orders Creditors’ Meeting for KIMSHEALTH–Spiceretreat Merger",
-   "link": "https://taxguru.in/company-law/nclt-orders-creditors-meeting-kimshealth-spiceretreat-merger.html",
-   "source": "TaxGuru Company Law",
-   "category": "Regulatory",
-   "published": "2026-11-22T07:27:15Z",
-   "summary": "NCLT Kochi dispenses with shareholder meetings but orders a creditors’ meeting for the proposed KIMSHEALTH–Spiceretreat amalgamation. Summary : The National Company Law Tribunal (NCLT), Kochi Bench , considered a joint first-motion application filed by KIMSHEALTH Executive Leisure Private Limited , the Transferor Company, and Spiceretreat Hospitality Services Private Limited , the Transferee Company, seeking directions concerning their proposed amalgamation under Sections 230–233 of the Companies Act, 2013 , read with the Companies (Compromises, Arrangements and Amalgamations) Rules, 2016 ."
-  },
-  {
-   "id": "12162486758b7092",
-   "title": "Company Law | NCLT Mumbai Restores Struck-Off Company With ₹5 Lakh Costs for Compliance Defaults",
-   "link": "https://taxguru.in/company-law/nclt-mumbai-restores-struck-off-company-rs-5-lakh-costs-compliance-defaults.html",
-   "source": "TaxGuru Company Law",
-   "category": "Regulatory",
-   "published": "2026-11-22T07:26:30Z",
-   "summary": "NCLT Mumbai restores struck-off company holding ₹68.78 lakh investments under Section 252(3), imposing ₹5 lakh costs for defaults and misleading pleadings. Summary : The National Company Law Tribunal (NCLT), Mumbai Bench, in Praddum Trading Company Private Limited Through Director Sunil Khandelwal Vs Registrar of Companies, Mumbai , directed restoration of the company’s name under Section 252(3) of the Companies Act, 2013 , notwithstanding its admitted inactivity at the time of strike-off."
-  },
-  {
-   "id": "303a1a5a65b24ed2",
-   "title": "Company Law | BUDS Act Proceedings Cannot Delay Liquidator’s Claims Process: NCLT Kochi",
-   "link": "https://taxguru.in/company-law/buds-act-proceedings-cannot-delay-liquidators-claims-process-nclt-kochi.html",
-   "source": "TaxGuru Company Law",
-   "category": "Regulatory",
-   "published": "2026-11-22T07:26:09Z",
-   "summary": "NCLT Kochi rules that pending BUDS Act proceedings cannot excuse a liquidator from inviting depositor claims under Rule 100 of the Winding Up Rules. Summary: The National Company Law Tribunal (NCLT), Kochi Bench, in Official Liquidator of Mary Matha Popular Nidhi Limited and Thirteen Other Companies/LLPs Vs Serious Fraud Investigation Office , dismissed an application seeking permission to defer the invitation of depositor claims under Rule 100 of the Companies (Winding Up) Rules, 2020 because parallel proceedings were already underway under the Banning of Unregulated Deposit Schemes Act, 2019 ( BUDS Act ) ."
-  },
-  {
-   "id": "f6d407da5222bfc3",
-   "title": "Income Tax | Partner Remuneration Taxation: Delhi HC Orders Fresh Assessment Under CBDT Clarification",
-   "link": "https://taxguru.in/income-tax/partner-remuneration-taxation-delhi-hc-orders-fresh-assessment-cbdt-clarification.html",
-   "source": "TaxGuru Income Tax",
-   "category": "Direct Tax",
-   "published": "2026-11-22T07:17:17Z",
-   "summary": "Delhi HC sets aside tax assessments on partners' remuneration and performance rewards; orders fresh enquiry under CBDT clarification. Summary: The Delhi High Court, in Indu Dhandharia LR of Pankaj Dhandharia Vs ACIT & Connected Cases , disposed of seven connected writ petitions concerning the taxation of additional remuneration and discretionary performance rewards received by partners of professional firms . The controversy arose because assessing authorities had included these amounts in the individual income of partners even though, according to the petitioners, the partnership firm had already paid tax on the corresponding amounts."
-  },
-  {
-   "id": "c00ce92b6ffdbe53",
-   "title": "CGNC Accounting Standards Morocco: 2026 CFO Guide",
-   "link": "https://globaladvisoryexperts.com/news/cgnc-accounting-standards-morocco-2026-guide",
-   "source": "Global Advisory Experts",
-   "category": "Accounting",
-   "published": "2026-11-22T06:42:33Z",
-   "summary": "CGNC accounting standards Morocco explained for 2026: scope, presentation, IFRS differences and a year-end close checklist for CFOs and subsidiaries. Every company in Morocco builds its statutory accounts on a single framework, and for the 2026 year-end that framework matters more than usual. CGNC accounting standards Morocco govern how individual entities r… Direct contact details are for verified GAE users. Free account , or send an enquiry , no account needed. Every company in Morocco builds its statutory accounts on a single framework, and for the 2026 year-end that framework matters more than usual."
-  },
-  {
-   "id": "d913b1f5947e569f",
-   "title": "Company Law | Byju’s Insolvency: NCLAT Chennai Rejects BCCI’s Pre-CoC Settlement Plea",
-   "link": "https://taxguru.in/company-law/byjus-insolvency-nclat-chennai-rejects-bccis-pre-coc-settlement-plea.html",
-   "source": "TaxGuru Company Law",
-   "category": "Regulatory",
-   "published": "2026-11-22T05:56:01Z",
-   "summary": "NCLAT dismisses BCCI and Riju Ravindran appeals: CIRP withdrawal filed after CoC formation requires 90% creditor approval. Summary: The National Company Law Appellate Tribunal (NCLAT), Chennai Bench, in Riju Ravindran Vs Pankaj Srivastava & Ors. , considered two appeals filed by Riju Ravindran, a promoter and suspended director of Think & Learn Private Limited (Byju’s), and the Board of Control for Cricket in India (BCCI), challenging the order dated 10 February 2025 passed by the National Company Law Tribunal (NCLT), Bengaluru Bench."
-  },
-  {
-   "id": "946e0bf36c204d99",
-   "title": "Income Tax | Unsigned Section 148A(b) Notice Invalid; Reassessment Quashed by Karnataka HC",
-   "link": "https://taxguru.in/income-tax/unsigned-section-148a-notice-invalid-reassessment-quashed-karnataka-hc.html",
-   "source": "TaxGuru Income Tax",
-   "category": "Direct Tax",
-   "published": "2026-11-22T05:55:29Z",
-   "summary": "Karnataka HC quashes unsigned Section 148A(b) notice and consequential reassessment, penalty and demand proceedings for AY 2015-16. Summary: The Karnataka High Court considered the writ petition filed by Begur Sinappa Venkatesh challenging reassessment proceedings for assessment year 2015-16. The petitioner questioned the show-cause notice dated 17 March 2022 issued under Section 148A(b) of the Income-tax Act, 1961, the order under Section 148A(d) dated 30 March 2022, the notice under Section 148 dated 31 March 2022, the assessment order dated 24 February 2023 under Sections 147 and 144, and the consequential penalty orders and demand notices."
-  },
-  {
-   "id": "61c27fc4c67c9de1",
-   "title": "Income Tax | Reassessment Quashed as Section 148A Notice Sent to Wrong Email: Gujarat HC",
-   "link": "https://taxguru.in/income-tax/reassessment-quashed-section-148a-notice-wrong-email-gujarat-hc.html",
-   "source": "TaxGuru Income Tax",
-   "category": "Direct Tax",
-   "published": "2026-11-22T05:55:10Z",
-   "summary": "Gujarat HC quashes reassessment order and Section 148 notice where the show-cause notice went to an incorrect email address; fresh hearing ordered. Summary: The Gujarat High Court considered a writ petition filed by Champion Exim Company challenging the reassessment proceedings initiated for Assessment Year 2018-19 under the Income-tax Act, 1961. The petitioner had filed its return of income declaring total income of ₹84,380, which was accepted through an intimation under Section 143(1) dated 6 February 2019."
-  },
-  {
-   "id": "b15ed6944c255ed6",
-   "title": "Foreign Seafarer Salary Not Taxable Merely Due to NRE Credit or Incorrect ITR Disclosure: Calcutta HC",
-   "link": "https://taxguru.in/income-tax/foreign-seafarer-salary-not-taxable-due-nre-credit-incorrect-itr-disclosure-calcutta-hc.html",
-   "source": "TaxGuru",
-   "category": "Direct Tax",
-   "published": "2026-11-22T05:47:29Z",
-   "summary": "Calcutta HC allows non-resident seafarer’s appeal, directing relief for foreign salary and rectification of mistaken ITR disclosure. Summary: The Calcutta High Court examined the taxability of salary earned by Rajeev Biswas, a non-resident seafarer employed by MSC Ship Management Hongkong Limited, for assessment year 2012-13. The assessee had stayed outside India for 210 days during the previous year but mistakenly declared his foreign salary as income accruing in India. Processing under Section 143(1) resulted in a tax demand of ₹4,40,070. His applications for rectification under Section 154 were rejected on the premise that the claim was debatable."
-  },
-  {
-   "id": "c3733e1a8025b7b7",
-   "title": "Renewable Energy Project Finance in Maharashtra: A 2026 Deal Checklist",
-   "link": "https://globaladvisoryexperts.com/news/renewable-energy-project-finance-maharashtra-checklist",
-   "source": "Global Advisory Experts",
-   "category": "Business",
-   "published": "2026-11-22T05:32:33Z",
-   "summary": "A practical 2026 checklist for renewable energy project finance in Maharashtra, covering diligence, security, PPAs, closing and post-close compliance. Direct contact details are for verified GAE users. Free account , or send an enquiry , no account needed. What you will get: a working checklist covering how to structure, document, close and monitor a solar, wind, hybrid or storage financing in Maharashtra, with the tasks, documents and regulatory touchpoints at each stage. Renewable energy project finance in Maharashtra has become a more disciplined and more closely regulated activity in 2026."
   },
   {
    "id": "de8f481986cd457b",
@@ -245,60 +236,69 @@
    "summary": "Worried about late company form filings? Understand ROC penalties, adjudication proceedings, and appeal options. Learn your obligations. - Corporate Law Companies Act 2013 If any form/return is filed after due date with additional fees, what are the chances of ROC to start adjudication on it and impose penalty on company and its officers ? Does it differ from form to form ? Is it discretionary on ROC's part ? Quick Summary This discussion addresses the consequences of filing company forms late, even when additional fees are paid."
   },
   {
-   "id": "eab9b039982ce858",
-   "title": "Carried Interest Karnataka 2026: How VC Fund GPs Should Structure, Tax and Comply",
-   "link": "https://globaladvisoryexperts.com/news/carried-interest-karnataka-gp-compensation-vc-funds",
-   "source": "Global Advisory Experts",
-   "category": "Business",
-   "published": "2026-11-22T04:57:33Z",
-   "summary": "Carried interest Karnataka guide for VC fund GPs: tax treatment, AIF, LLP and SPV structures, SEBI and FEMA compliance, and stamping steps. If you run a venture fund from Bengaluru or elsewhere in the state, carried interest karnataka planning has become a boardroom matter. The 2026 fiscal and regulatory updates change how general partner (GP) comp… Direct contact details are for verified GAE users. Free account , or send an enquiry , no account needed. If you run a venture fund from Bengaluru or elsewhere in the state, carried interest karnataka planning has become a boardroom matter."
+   "id": "65ea3042c3c8099a",
+   "title": "CBIC Amends Customs Notification to Include Chharchhum Motorable Bridge at Dharchula on India–Nepal Border",
+   "link": "https://a2ztaxcorp.net/cbic-amends-customs-notification-to-include-chharchhum-motorable-bridge-at-dharchula-on-india-nepal-border/",
+   "source": "A2Z Taxcorp LLP",
+   "category": "Indirect Tax",
+   "published": "2026-11-22T05:06:03Z",
+   "summary": "The Central Board of Indirect Taxes and Customs (CBIC), Ministry of Finance, Government of India, has issued Notification No. 95/2026-Customs (N.T.) dated The notification has been issued in exercise of the powers conferred under clauses (b) and (c) of Section 7(1) of the Customs Act, 1962 . Under the amended notification, the CBIC has substituted the existing entry in Column (4), against Item (6) relating to Dharchula in Column (3), under Serial No. 6 concerning the land frontier of Nepal , in the Table of Notification No. 63/1994-Customs (N.T.)."
   },
   {
-   "id": "51ce7915b482d23e",
-   "title": "Section 80P(2)(d) Deduction Allowed on Cooperative Bank Interest: ITAT Indore",
-   "link": "https://taxguru.in/income-tax/section-80p-2-deduction-allowed-cooperative-bank-interest-itat-indore.html",
-   "source": "TaxGuru",
-   "category": "Direct Tax",
-   "published": "2026-11-22T04:12:31Z",
-   "summary": "ITAT Indore allows Section 80P(2)(d) deduction on cooperative bank interest for AY 2018-19 and 2020-21, rejecting Revenue's objections. Summary: The Income Tax Appellate Tribunal, Indore Bench, in Indore Sahakari Dugdh Sangh Maryadit Vs ACIT/ITO , allowed two appeals filed by a cooperative dairy society for Assessment Years 2018-19 and 2020-21 , holding that interest income earned from deposits maintained with a cooperative bank was eligible for deduction under Section 80P(2)(d) of the Income-tax Act, 1961 . The appeals, ITA Nos."
+   "id": "633b33e9c07383fe",
+   "title": "CBIC Issues Detailed Guidelines for Implementation of Diamond Imprest Authorisation Scheme: Clarifies 12-Month Import Validity, 18-Month Export Obligation, 10% Value Addition and Customs Duty Exemption",
+   "link": "https://a2ztaxcorp.net/cbic-issues-detailed-guidelines-for-implementation-of-diamond-imprest-authorisation-scheme-clarifies-12-month-import-validity-18-month-export-obligation-10-value-addition-and-customs-duty-exemption/",
+   "source": "A2Z Taxcorp LLP",
+   "category": "Indirect Tax",
+   "published": "2026-11-22T05:05:49Z",
+   "summary": "The Central Board of Indirect Taxes and Customs (CBIC), Ministry of Finance, Government of India, has issued Circular No. 48/2026-Customs dated November 20, The Circular has been issued to ensure uniform implementation of the Scheme by Customs field formations and to clarify the eligibility conditions, import restrictions, export obligations, documentation requirements, security arrangements and procedures for regularisation of defaults. The Scheme provides for duty-exempt imports of eligible natural cut and polished diamonds against a prescribed obligation to undertake physical exports of natural cut and polished diamonds with minimum value addition."
   },
   {
-   "id": "1b5fa5d852df9b55",
-   "title": "No Income Tax or TDS on KIADB Land Acquisition Compensation: Karnataka HC",
-   "link": "https://taxguru.in/income-tax/no-income-tax-tds-kiadb-land-acquisition-compensation-karnataka-hc.html",
-   "source": "TaxGuru",
-   "category": "Direct Tax",
-   "published": "2026-11-22T04:11:49Z",
-   "summary": "Karnataka HC holds post-2014 KIADB land acquisition compensation exempt from income tax and TDS under Section 96 of the 2013 Act. Summary: The Karnataka High Court, in Sri Balaji Corporate Services & Another Vs Union of India & Others , decided two connected writ petitions concerning the determination of compensation for lands acquired by the Karnataka Industrial Areas Development Board (KIADB) for the Bangalore Metro Rail Project, Phase-II, and the applicability of income-tax exemption and Tax Deducted at Source (TDS) provisions to such compensation."
+   "id": "96897eed1dc17143",
+   "title": "Resturant Business [Resolved] | GST",
+   "link": "https://www.caclubindia.com/experts/resturant-business-2963719.asp",
+   "source": "CAclubindia",
+   "category": "Indirect Tax",
+   "published": "2026-11-22T03:45:00Z",
+   "summary": "SIR MADA A MISTAKE IN RECORDING WRONG SALES IN GSTR1 UNDER SUPPLY THROUGH ECO TAB IN SECTION 14 A NOW THE QUESTION IS WILL I RECTIFY IT IN NEXT MONTH GSTR1 MY SECOND QUESTION IS A RESTURANT BUSINESS SUPPLYING THROUGH ECOMMERCE OPERATOR LIKE ZOMATO SWIGGY ETC WHERE TO RCORD IN GSTR1"
+  },
+  {
+   "id": "291ca80b0e22d535",
+   "title": "Aluminium Manufacturers Seek Zero Import Duty On Primary Metal In FY28 Budget",
+   "link": "https://www.businessworld.in/article/aluminium-manufacturers-seek-zero-import-duty-on-primary-metal-in-fy28-budget-634694",
+   "source": "BW Businessworld",
+   "category": "Economy",
+   "published": "2026-11-21T23:30:05Z",
+   "summary": "Aluminium manufacturers have sought zero basic customs duty on primary aluminium in the FY28 Budget, citing high input costs The Aluminium Extrusion Manufacturers Association of India (ALEMAI) has written to Finance Minister Nirmala Sitharaman, seeking to reduce the basic customs duty on primary aluminium, classified under tariff heading 7601, from 7.5 per cent to zero. The current levy, along with the social welfare surcharge, translates into an effective import duty of 8.25 per cent."
   }
  ],
  "breaking": [
   {
-   "id": "245b338e5d5eca06",
-   "title": "SEBI starts work on network to train independent directors",
-   "link": "https://www.thehindubusinessline.com/markets/sebi-starts-work-on-network-to-train-independent-directors/article71731685.ece",
-   "source": "BusinessLine",
-   "category": "Regulatory",
-   "published": "2026-11-22T14:52:46Z",
-   "summary": "SEBI begins building a network with industry and academia to train independent directors amid rising startup and IPO activity. The Securities and Exchange Board of India (SEBI) has started working on a wider capacity-building network to train and upgrade the skills of independent directors, bringing together professional industry bodies and academic institutions to develop programmes aimed at improving boardroom oversight, according to people familiar with the developments."
+   "id": "64ca1c6199a6129b",
+   "title": "Earnings delivery to drive next phase of returns: Chockalingam Narayanan",
+   "link": "https://www.business-standard.com/markets/interviews/earnings-delivery-to-drive-next-phase-of-returns-chockalingam-narayanan-126112200387_1.html",
+   "source": "Business Standard",
+   "category": "Economy",
+   "published": "2026-11-22T16:00:02Z",
+   "summary": "ICICI Prudential AMC's Chockalingam Narayanan sees opportunities across market-cap segments, with earnings growth, balance-sheet strength and valuations likely to drive returns"
   },
   {
-   "id": "5501f1f6cfceac1c",
-   "title": "RBI Small Business Lending: Malhotra Urges More Loans",
-   "link": "https://theopenpress.in/article/rbi-governor-small-enterprises-lending",
-   "source": "theopenpress.in",
-   "category": "Regulatory",
-   "published": "2026-11-22T14:48:26Z",
-   "summary": "RBI Governor Sanjay Malhotra has urged banks to step up lending to small and micro enterprises, saying Rs 1,000 crore can deliver 100 times the benefit. TRENDING: #Budget2026 #Monsoon #Elections2026 #StockMarket #TeamIndia #BoxOffice #WeatherAlert #TechSummit #FuelPrices #Cricket #Budget2026 #Monsoon #Elections2026 #StockMarket #TeamIndia #BoxOffice #WeatherAlert #TechSummit #FuelPrices #Cricket Business RBI Small Business Lending: Governor Malhotra Urges Banks to Step Up Loans to Small, Micro Enterprises Reserve Bank of India Governor Sanjay Malhotra on Saturday urged banks to lend more to small and micro enterprises, saying the same money can deliver far greater economic benefit when it reaches many… Reserve Bank of…"
+   "id": "8f6e406c7a40a289",
+   "title": "Street signs: NSE tightens algo access, SAT's new jurisdiction, and more",
+   "link": "https://www.business-standard.com/markets/news/street-signs-nse-tightens-algo-access-sat-s-new-jurisdiction-and-more-126112200416_1.html",
+   "source": "Business Standard",
+   "category": "Markets",
+   "published": "2026-11-22T15:57:20Z",
+   "summary": "NSE tightens rules on static IP access for retail algo traders, SAT may hear its first IFSCA appeal, and Shriram Finance is set to replace Trent in the Sensex."
   },
   {
-   "id": "4c26eb870575edf8",
-   "title": "India’s RBI expected to raise rates in December, deliver final hike in February: Reuters poll",
-   "link": "https://malaya.com.ph/business/world-business/indias-rbi-expected-to-raise-rates-in-december-deliver-final-hike-in-february-reuters-poll/",
-   "source": "Malaya Business Insight",
+   "id": "612503ad9ff94530",
+   "title": "FarEye helps reduce e-commerce major Flipkart logistics expenses by 6%",
+   "link": "https://www.business-standard.com/companies/news/fareye-helps-reduce-e-commerce-major-flipkart-logistics-expenses-by-6-126112200607_1.html",
+   "source": "Press Trust of India",
    "category": "Regulatory",
-   "published": "2026-11-22T14:19:21Z",
-   "summary": ""
+   "published": "2026-11-22T15:48:00Z",
+   "summary": "AI-powered enterprise SaaS Far Eye on Sunday said it has helped e-commerce major Flipkart's B2B cash-and-carry market place, Flipkart Wholesale, slash its logistics spend by 6 per cent besides an 8 per cent reduction in vehicle deployment pan-India. This has enabled Flipkart Wholesale to improve fleet productivity without compromising delivery efficiency, reducing vehicle idle time by 10 per cent, Far Eye said in a statement. The improvements come from digitising and connecting dispatch, routing, compliance and payment collection processes across a network comprising 26 stores and one cross-dock, it said."
   },
   {
    "id": "1e5cbe2ba3adc982",
@@ -319,40 +319,13 @@
    "summary": "Industry body proposes a rule-based liquidity facility for NBFCs, changes to priority sector lending norms and wider banking reforms to meet India's long-term financing needs."
   },
   {
-   "id": "f8f38980cc24bcfd",
-   "title": "Suzuki Access New Colours, Prices Start at Rs 83,086",
-   "link": "https://www.rushlane.com/suzuki-access-royal-bronze-bordeaux-red-colours-12561781.html",
-   "source": "RushLane",
-   "category": "Business",
-   "published": "2026-11-22T13:12:14Z",
-   "summary": "Suzuki Access gets two new colours - Royal Bronze, and Mat Bordeaux Red in Metallic. Prices start at Rs 83,086 in India. Metallic Royal Bronze is now part of two Ride Connect configurations. Both editions retain their existing colour choices, including Metallic Mat Black No. 2, Metallic Mat Stellar Blue and Pearl Grace White. Pearl Mat Aqua Silver has joined their respective colour lineups. Ride Connect Edition starts at Rs 91,627, while Ride Connect ABS Edition costs Rs 98,432, ex-showroom Delhi. Ride Connect TFT ABS Edition has Metallic Mat Bordeaux Red as its new colour option."
-  },
-  {
-   "id": "473c15100c644dd6",
-   "title": "China ran 2-year spy campaign to acquire advanced AI chips, evade US curbs: Report",
-   "link": "https://www.indiatoday.in/world/story/china-intelligence-agency-advanced-semiconductor-chip-campaign-alice-huang-nvidia-3044503-2026-11-22",
-   "source": "India Today",
-   "category": "Business",
-   "published": "2026-11-22T13:06:30Z",
-   "summary": "China's intelligence agency reportedly launched a campaign to acquire advanced chips and map global supply chains. The effort highlights Beijing's technological self-reliance push amid tightening Western export restrictions. The Ministry of State Security (MSS) established a working group under the leadership of its chief, Chen Yixin, to spearhead the effort. The campaign involves helping Chinese companies acquire and smuggle advanced chips into China, while also gathering intelligence on the semiconductor industry and its supply chains, the report said, citing serving and former security and intelligence officials from Asia, the US and Europe."
-  },
-  {
-   "id": "9e8dc00c46b3ca30",
-   "title": "Mahindra Vision T: The Missing SUV Launching Soon",
-   "link": "https://motoroctane.com/news/327571-mahindra-vision-t-the-missing-suv-launching-soon",
-   "source": "MotorOctane",
-   "category": "Business",
-   "published": "2026-11-22T13:01:35Z",
-   "summary": ""
-  },
-  {
    "id": "11e7692a2c02734f",
    "title": "Asia’s stock rescue efforts gather pace after Wall Street plunge",
    "link": "https://www.moneycontrol.com/news/markets/global-markets/asia-s-stock-rescue-efforts-gather-pace-after-wall-street-plunge-14086629.html",
    "source": "Moneycontrol.com",
    "category": "Markets",
    "published": "2026-11-22T12:56:45Z",
-   "summary": "China’s securities watchdog said this month that margin balances and trading activity had declined significantly and overall leverage had become more stable, creating room to optimize risk-control parameters under its countercyclical framework You are using an outdated browser. Please upgrade your browser to improve your experience and security. 15 Start --> Start --> Start --> Start --> Start --> Start --> Start --> Start --> Start --> --> Trending Topics --> Trending Topics Sensex Live Dilip Buildcon Shares Robert Kiyosaki Nifty IT Jumps Ashton Kutcher --> Asia’s stock rescue efforts gather pace after Wall Street plunge China’s securities watchdog said…"
+   "summary": "China’s securities watchdog said this month that margin balances and trading activity had declined significantly and overall leverage had become more stable, creating room to optimize risk-control parameters under its countercyclical framework Asian authorities are stepping up efforts to stem a deepening stock-market rout, with China easing margin requirements, and Taiwan and South Korea rolling out intervention measures following Friday’s plunge in US equities. In China, the minimum margin requirement for investors buying securities with borrowed funds will fall to 80% from 100% on Nov."
   },
   {
    "id": "9dbbe0d1e4c7d8f0",
@@ -382,24 +355,6 @@
    "summary": "ICRA says rising grid congestion, battery prices and rupee depreciation could affect energy storage projects, making timely procurement and long-term agreements critical"
   },
   {
-   "id": "1d6cb21b1322831d",
-   "title": "'Grand theft without auto': Shashi Tharoor tries hand at GTA 6, takes swipe at Modi govt",
-   "link": "https://timesofindia.indiatimes.com/india/grand-theft-without-auto-shashi-tharoor-tries-hand-at-gta-6-takes-swipe-at-modi-govt/articleshow/136074323.cms",
-   "source": "The Times of India",
-   "category": "Business",
-   "published": "2026-11-22T12:30:00Z",
-   "summary": "Congress MP Shashi Tharoor on Sunday took a swipe at the Modi government's demonetisation move, calling it \"kind of a grand theft without auto\" while drawing a comparison with the newly launched video game ‘Grand Theft Auto 6’ (GTA 6)."
-  },
-  {
-   "id": "e1413b8d4faa3489",
-   "title": "Gram Panchayats swing to Rs 6,920-crore deficit as central grants decline: RBI",
-   "link": "https://www.prameyanews.com/gram-panchayats-swing-to-rs-6920-crore-deficit-as-central-grants-decline-rbi",
-   "source": "prameyanews.com",
-   "category": "Regulatory",
-   "published": "2026-11-22T12:28:39Z",
-   "summary": "Gram Panchayats across 25 states recorded a combined deficit of Rs 6,920 crore in 2024-25, reversing a surplus of Rs 3,220 crore in the previous financial year, as declining government grants and rising expenditure pressure rural local body finances --> New Delhi, Nov 22: Gram Panchayats across 25 states recorded a combined deficit of Rs 6,920 crore in 2024-25, reversing a surplus of Rs 3,220 crore in the previous financial year, as declining government grants and rising expenditure put pressure on rural local body finances, according to a Reserve Bank of India (RBI) report."
-  },
-  {
    "id": "8434d040b853a671",
    "title": "SEBI proposes scrapping additional disclosure norms for offshore funds",
    "link": "https://www.tribuneindia.com/news/business/sebi-proposes-scrapping-additional-disclosure-norms-for-offshore-funds/",
@@ -418,24 +373,6 @@
    "summary": "Chennai-based startup plans a satellite refuelling demonstration in December and a commercial mission by end-2027, with two international satellite operators already on board."
   },
   {
-   "id": "520e746cd6abdcc5",
-   "title": "Tata Steel closes in on APL Apollo buyout; ArcelorMittal also in fray",
-   "link": "https://manufacturing.economictimes.indiatimes.com/news/industry/tata-steel-closes-in-on-apl-apollo-buyout-arcelormittal-also-in-fray/136045378",
-   "source": "ET Manufacturing",
-   "category": "Business",
-   "published": "2026-11-22T12:18:48Z",
-   "summary": "Tata Steel and ArcelorMittal are engaged in a fierce competition to acquire APL Apollo Tubes, a premier player in India's structural steel sector. With promoters looking to divest their 28 percent stake, this move initiates an open offer for further equity acquisition."
-  },
-  {
-   "id": "f4d7e859f910c9b6",
-   "title": "Ex-Google engineer says he believes right now it looks like humans don’t have more than 10 years on the c",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/ex-google-engineer-says-he-believes-right-now-it-looks-like-humans-dont-have-more-than-10-years-on-the-clock/articleshow/136073448.cms",
-   "source": "The Times of India",
-   "category": "Business",
-   "published": "2026-11-22T12:06:00Z",
-   "summary": "A former Google AI expert is so convinced that artificial intelligence (AI) will wipe out humanity that he stopped putting money into his retirement fund a decade ago. Machine learning researcher Nate Soares, who previously worked as a software engineer at both Google and Microsoft, recently shared the grim outlook during a recent podcast interview with The Atlantic CEO Nicholas Thompson."
-  },
-  {
    "id": "a37aead933137bd7",
    "title": "What RBI’s FY26 bank fraud data reveals as Fraud Awareness Week concludes",
    "link": "https://www.cnbctv18.com/economy/fraud-awareness-week-rbi-fy26-bank-fraud-data-20039350.htm/amp",
@@ -445,60 +382,96 @@
    "summary": "Reserve Bank of India data reveals a sharp drop in banking fraud cases, but total financial value surged to ₹48,021 crore in FY26, driven by large loan irregula According to the central bank’s report, banks and financial institutions reported 10,114 fraud cases in 2025–26, marking a 57.4% decline from the 23,722 cases recorded in 2024–25 and a 71.7% drop from 35,800 cases in 2023–24. Despite the steep fall in volume, the total amount involved surged 46.4% year-on-year to ₹48,021 crore in FY26, up from ₹32,803 crore in FY25 and ₹11,013 crore in FY24."
   },
   {
-   "id": "3005f976fa9a57c3",
-   "title": "Engineering exports jump 36% in October, led by strong US shipments",
-   "link": "https://www.business-standard.com/economy/news/engineering-exports-jump-36-in-october-led-by-strong-us-shipments-126112200488_1.html",
+   "id": "3a87472d5eda0b04",
+   "title": "Gram Panchayats swing from Rs 3,220 crore surplus to Rs 6,920 crore deficit in FY25: RBI",
+   "link": "https://www.zeebiz.com/india/news-gram-panchayats-swing-from-rs-3220-crore-surplus-to-rs-6920-crore-deficit-in-fy25-rbi-405862",
+   "source": "Zee Business",
+   "category": "Regulatory",
+   "published": "2026-11-22T11:46:24Z",
+   "summary": "According to the RBI's biennial report, Finances of Panchayati Raj Institutions, total receipts of Gram Panchayats fell by 16.3 per cent to Rs 43,537 crore in FY25. Meanwhile, their expenditure rose 3.4 per cent to Rs 50,457 crore, resulting in a deficit of 15.9 per cent of total receipts. The report covered around 2.25 lakh Gram Panchayats across 25 states over three financial years. The figures for 2024-25 are provisional. The RBI noted that Gram Panchayats had recorded an average surplus of 5.4 per cent of total receipts during 2022-23 and 2023-24."
+  },
+  {
+   "id": "2b622f3d422787fd",
+   "title": "China's intelligence arm ran campaign to acquire advanced AI chips: Report",
+   "link": "https://www.business-standard.com/world-news/china-s-intelligence-arm-ran-campaign-to-acquire-advanced-ai-chips-report-126112200365_1.html",
    "source": "Press Trust of India",
-   "category": "Economy",
-   "published": "2026-11-22T11:56:38Z",
-   "summary": "India's engineering exports rose 36% year-on-year to $12.74 billion in October, driven by strong US demand and higher shipments of metals, electrical machinery and automobiles, EEPC India said."
+   "category": "Business",
+   "published": "2026-11-22T10:07:56Z",
+   "summary": "China's intelligence agency has made acquiring advanced semiconductor chips and gathering intelligence on the global chip industry a priority, running a campaign to overcome Western export restrictions for at least two years, according to a New York Times (NYT) report. The Ministry of State Security (MSS) set up a working group under its chief Chen Yixin to lead the effort, which includes helping Chinese companies acquire and smuggle advanced chips into the country, besides collecting intelligence on the semiconductor sector and its supply chains, the report said, citing serving and former security and intelligence officials from Asia, the US and…"
+  },
+  {
+   "id": "b5e028539bc418a8",
+   "title": "MPCB asks Adani firm to stop work on temporary labour camp in Satara",
+   "link": "https://www.business-standard.com/companies/news/mpcb-asks-adani-firm-to-stop-work-on-temporary-labour-camp-in-satara-126112200376_1.html",
+   "source": "Press Trust of India",
+   "category": "Business",
+   "published": "2026-11-22T10:07:23Z",
+   "summary": "The Maharashtra Pollution Control Board (MPCB) has directed Adani Renewable Energy One Ltd to stop excavation and construction work for its temporary camp in Satara district for allegedly beginning these without obtaining the necessary environmental clearance and permissions. The labour camp in Satara's Patan taluka, some 300 kilometres from here, is part of the firm's 1500 MW Tarali Pumped Storage Project. In a stop-work notice dated November 20, the MPCB said the company had started excavation and development work at Gat Nos."
+  },
+  {
+   "id": "21f942410c197637",
+   "title": "Aditya Birla Real Estate aims ₹15,000 crore annual pre-sales in 3 years",
+   "link": "https://www.business-standard.com/industry/news/aditya-birla-real-estate-aims-15-000-crore-annual-pre-sales-in-3-years-126112200341_1.html",
+   "source": "Press Trust of India",
+   "category": "Business",
+   "published": "2026-11-22T10:03:41Z",
+   "summary": "Aditya Birla Real Estate Ltd is aiming for annual pre-sales of Rs 15,000 crore in the next three years as housing demand continues to be strong across major cities for big branded players, according to a senior company official. Mumbai-based Aditya Birla Real Estate Ltd (ABREL) clocked sales bookings of over Rs 8,000 crore in the past two financial years. In an interview with PTI, Birla Estates Managing Director (MD) and Chief Executive Officer (CEO) K T Jithendran said, \"We are very bullish on demand for residential properties across Mumbai Metropolitan Region, Delhi-NCR, Pune and Bengaluru.\" Birla Estates is a…"
+  },
+  {
+   "id": "f4bbbd9834fa9244",
+   "title": "VinFast to enter India's electric two-wheeler market in first half of 2027",
+   "link": "https://www.business-standard.com/industry/auto/vinfast-to-enter-india-s-electric-two-wheeler-market-in-first-half-of-2027-126112200351_1.html",
+   "source": "Press Trust of India",
+   "category": "Business",
+   "published": "2026-11-22T10:02:05Z",
+   "summary": "VinFast is eyeing entry into the Indian e-two-wheeler space in 2027, as the Vietnam-based auto giant looks to increase its presence in the fast-growing electric vehicle market. The company will also manufacture two-wheelers at its facility at Thoothukudi in Tamil Nadu. Besides, the company also looks to introduce two battery-based four-wheelers in India to capture the increasing demand for compact SUVs (sport utility vehicle) especially from first-time buyers. VinFast sells four electric car models in India -- the VF 6, VF 7, VF MPV 7, and Limo Green."
+  },
+  {
+   "id": "f32f558526fca2cf",
+   "title": "Diageo Is India's Biggest Liquor Company By Revenue In 2026; Check The Top-5 List Here",
+   "link": "https://www.ndtvprofit.com/business/johnnie-walker-maker-is-indias-biggest-liquor-company-by-revenue-check-which-take-2nd-and-3rd-spot-12361825",
+   "source": "NDTV Profit",
+   "category": "Business",
+   "published": "2026-11-22T09:59:54Z",
+   "summary": "Diageo India recorded revenue from operations of Rs 27,816 crore in the financial year ended March 2026 Johnnie Walker maker Diageo has become India's largest liquor company by revenue in 2026, overtaking French major Pernod Ricard. Diageo India, which operates through United Spirits Ltd, reported revenue from operations of ₹27,816 crore for the financial year ended March 2026. Its total consolidated income stood at ₹28,294 crore, reflecting a 4.38% increase from the previous year. Meanwhile, Pernod Ricard India recorded revenue from operations of ₹23,701.27 crore, down 13.6% year-on-year."
+  },
+  {
+   "id": "d48171a2e3e7642e",
+   "title": "Gram Panchayats swing to Rs 6,920 crore deficit in FY25 as receipts fall, RBI report shows",
+   "link": "https://www.tribuneindia.com/news/business/gram-panchayats-swing-to-rs-6920-crore-deficit-in-fy25-as-receipts-fall-rbi-report-shows/",
+   "source": "The Tribune",
+   "category": "Regulatory",
+   "published": "2026-11-22T09:57:27Z",
+   "summary": "Gram Panchayats across 25 states recorded a combined deficit of Rs 6,920 crore in 2024-25, reversing a surplus of Rs 3,220 crore the previous year as grants from the Centre fell and spending rose, according to a Reserve Bank of India (RBI) report covering 2.25 lakh village councils."
+  },
+  {
+   "id": "16953a9a66928627",
+   "title": "New Sebi proposal could flip fates of key men at NSE, BSE",
+   "link": "https://www.livemint.com/market/nse-bse-chief-tenure-rules-sebi-proposal-11795333434935.html",
+   "source": "Livemint",
+   "category": "Regulatory",
+   "published": "2026-11-22T09:38:47Z",
+   "summary": "Proposed amendments to tenures of MDs of exchanges revise age-based limit to term-based limit. Ashishkumar Chauhan may be barred from another term at NSE because of his prior service at BSE, while Sundararaman Ramamurthy could continue at BSE beyond age 65 and potentially serve at another exchange."
   }
  ],
  "trending": [
   {
-   "id": "5501f1f6cfceac1c",
-   "title": "RBI Small Business Lending: Malhotra Urges More Loans",
-   "link": "https://theopenpress.in/article/rbi-governor-small-enterprises-lending",
-   "source": "theopenpress.in",
+   "id": "2fdcaea19c246afe",
+   "title": "RBI governer Sanjay Malhotra urges banks to step up small-business lending for greater economic gains",
+   "link": "https://government.economictimes.indiatimes.com/news/economy/rbi-governer-sanjay-malhotra-urges-banks-to-step-up-small-business-lending-for-greater-economic-gains/136067695?utm_source=latest_news&utm_medium=homepage",
+   "source": "ET Government",
    "category": "Regulatory",
-   "published": "2026-11-22T14:48:26Z",
-   "summary": "Covered by 13 sources (theopenpress.in, Dainik Jagran MP CG, ET Government…). RBI Governor Sanjay Malhotra has urged banks to step up lending to small and micro enterprises, saying Rs 1,000 crore can deliver 100 times the benefit. TRENDING: #Budget2026 #Monsoon #Elections2026 #StockMarket #TeamIndia #BoxOffice #WeatherAlert #TechSummit #FuelPrices #Cricket #Budget2026 #Monsoon #Elections2026 #StockMarket #TeamIndia #BoxOffice #WeatherAlert #TechSummit #FuelPrices #Cricket Business RBI Small Business Lending: Governor Malhotra Urges Banks to Step Up Loans to Small, Micro Enterprises Reserve Bank of India Governor Sanjay Malhotra on Saturday urged banks to lend more to small and micro enterprises, saying the same money can deliver…"
+   "published": "2026-11-22T05:29:28Z",
+   "summary": "Covered by 8 sources (ET Government, Elets BFSI, newskarnataka.com…). Speaking at an event organised by Bank of Maharashtra in Pune district earlier in the day, Reserve Bank of India Governor Sanjay Malhotra said writing a high-value loan of ₹1,000 crore to a large business enterprise will benefit only a single individual or a business."
   },
   {
-   "id": "efbb17f3f3afbbec",
+   "id": "e270197deb94f662",
    "title": "Ahead of FY28 budget, aluminium product makers seek duty-free imports for primary metal",
-   "link": "https://www.thehindubusinessline.com/markets/commodities/ahead-of-fy28-budget-aluminium-product-makers-seek-duty-free-imports-for-primary-metal/article71730687.ece",
-   "source": "BusinessLine Markets",
-   "category": "Indirect Tax",
-   "published": "2026-11-22T05:50:34Z",
-   "summary": "Covered by 5 sources (Moneycontrol.com, Urban Acres, BW Businessworld…). Ahead of the Union budget for 2027-28, aluminium product manufacturers have urged the government to allow duty-free imports of raw metal to boost domestic consumption and enhance the competitiveness of small enterprises. Manufacturers' body ALEMAI has written a letter to Finance Minister Nirmala Sitharaman, seeking to bring down the basic customs duty on primary aluminium to zero, arguing that the current 7.5 per cent levy, which translates into an effective import duty of 8.25 per cent including social welfare surcharge, is hurting MSMEs (micro, small and medium enterprises) and domestic value…"
-  },
-  {
-   "id": "5c22a2f0035f99bf",
-   "title": "Gold prices fall below $4,000: Could bullion slide further to $3,500 as higher US interest rates weigh on demand?",
-   "link": "https://www.livemint.com/economy/gold-prices-fall-below-4-000-could-bullion-slide-further-to-3-500-as-higher-us-interest-rates-weigh-on-demand-11795359358956.html",
-   "source": "Mint Economy",
+   "link": "https://www.moneycontrol.com/news/business/economy/ahead-of-fy28-budget-aluminium-product-makers-seek-duty-free-imports-for-primary-metal-14086530.html/amp",
+   "source": "Moneycontrol.com",
    "category": "Economy",
-   "published": "2026-11-22T15:00:13Z",
-   "summary": "Covered by 4 sources (Mint Economy, Mint Money, Mint Markets…). Gold has broken below the crucial $4,000-an-ounce level, raising concerns about further losses. StoneX identifies $3,600 and $3,500 as key support levels as higher US interest rates, rising bond yields and a stronger dollar weigh on bullion."
-  },
-  {
-   "id": "cd151a4c96020457",
-   "title": "SEBI starts work on network to train independent directors",
-   "link": "https://www.thehindubusinessline.com/markets/sebi-starts-work-on-network-to-train-independent-directors/article71731685.ece",
-   "source": "BusinessLine Markets",
-   "category": "Regulatory",
-   "published": "2026-11-22T14:54:20Z",
-   "summary": "Covered by 4 sources (NewsBytes, BusinessLine Markets, BusinessLine…). SEBI begins building a network with industry and academia to train independent directors amid rising startup and IPO activity. The Securities and Exchange Board of India (SEBI) has started working on a wider capacity-building network to train and upgrade the skills of independent directors, bringing together professional industry bodies and academic institutions to develop programmes aimed at improving boardroom oversight, according to people familiar with the developments."
-  },
-  {
-   "id": "e1413b8d4faa3489",
-   "title": "Gram Panchayats swing to Rs 6,920-crore deficit as central grants decline: RBI",
-   "link": "https://www.prameyanews.com/gram-panchayats-swing-to-rs-6920-crore-deficit-as-central-grants-decline-rbi",
-   "source": "prameyanews.com",
-   "category": "Regulatory",
-   "published": "2026-11-22T12:28:39Z",
-   "summary": "Covered by 3 sources (prameyanews.com, Zee Business, The Tribune). Gram Panchayats across 25 states recorded a combined deficit of Rs 6,920 crore in 2024-25, reversing a surplus of Rs 3,220 crore in the previous financial year, as declining government grants and rising expenditure pressure rural local body finances --> New Delhi, Nov 22: Gram Panchayats across 25 states recorded a combined deficit of Rs 6,920 crore in 2024-25, reversing a surplus of Rs 3,220 crore in the previous financial year, as declining government grants and rising expenditure put pressure on rural local body finances, according to a Reserve Bank of…"
+   "published": "2026-11-22T09:08:58Z",
+   "summary": "Covered by 4 sources (Moneycontrol.com, BW Businessworld, BusinessLine…). Ahead of the Union Budget 2027-28, aluminium manufacturers' body ALEMAI has urged the government to reduce the basic customs duty on primary aluminium from 7.5% to zero, citing high input costs and the impact on MSME competitiveness. Manufacturers' body ALEMAI has written a letter to Finance Minister Nirmala Sitharaman, seeking to bring down the basic customs duty on primary aluminium to zero, arguing that the current 7.5 per cent levy, which translates into an effective import duty of 8.25 per cent including social welfare surcharge, is hurting MSMEs (micro, small and medium…"
   },
   {
    "id": "8434d040b853a671",
@@ -510,40 +483,76 @@
    "summary": "Covered by 3 sources (The Tribune, The Hindu, The Times of India). The Securities and Exchange Board of India (SEBI) has proposed scrapping additional disclosure requirements for offshore funds, stating that existing beneficial ownership norms provide adequate transparency and effective regulatory oversight.The proposal marks a significant departure from the regulatory framework introduced in 2023, when the market watchdog tightened scrutiny of overseas investment arrangements.Under the existing rules, foreign portfolio investors (FPIs) classified as high-risk are required to provide regulators with more detailed disclosures, including information about their ultimate beneficial owners."
   },
   {
-   "id": "7f01fce923f69772",
-   "title": "India's oil, gas import bill jumps 60% in Oct as Brent nearly doubles; cooking-gas usage falls",
-   "link": "https://www.thehindubusinessline.com/economy/indias-oil-gas-import-bill-jumps-60-in-oct-as-brent-nearly-doubles-cooking-gas-usage-falls/article71730777.ece",
-   "source": "BusinessLine Economy",
-   "category": "Economy",
-   "published": "2026-11-22T06:31:31Z",
-   "summary": "Covered by 3 sources (BusinessLine Economy, Press Trust of India, The New Indian Express). India’s October oil and gas import bill jumps 60% year-on-year to $16B as Brent soars, LPG usage falls, and crude imports rise. India's net oil and gas import bill rose 60 per cent year-on-year to $16 billion in October as Brent crude averaged $124.77 a barrel, almost double that of a year earlier, according to data from the Petroleum Planning and Analysis Cell (PPAC), part of the oil ministry. The net bill was $10 billion in October 2025."
+   "id": "cd151a4c96020457",
+   "title": "SEBI starts work on network to train independent directors",
+   "link": "https://www.thehindubusinessline.com/markets/sebi-starts-work-on-network-to-train-independent-directors/article71731685.ece",
+   "source": "BusinessLine Markets",
+   "category": "Regulatory",
+   "published": "2026-11-22T14:54:20Z",
+   "summary": "Covered by 2 sources (BusinessLine, Asia Insurance Post). SEBI begins building a network with industry and academia to train independent directors amid rising startup and IPO activity. The Securities and Exchange Board of India (SEBI) has started working on a wider capacity-building network to train and upgrade the skills of independent directors, bringing together professional industry bodies and academic institutions to develop programmes aimed at improving boardroom oversight, according to people familiar with the developments. The discussions centred on how the institutions could collaborate on developing training programmes, sharing expertise and creating a wider pool of resources for independent directors."
   },
   {
-   "id": "61cbb25e74414286",
-   "title": "Pedri",
-   "link": "https://es.ara.cat/deportes/fc-barcelona/heredero-pedri-sonaba-barca_130_5918572.html",
-   "source": "Diari ARA",
-   "category": "General",
-   "published": "2026-11-22T15:20:00Z",
-   "summary": "About 200+ searches in India. El heredero de Pedri también soñaba con el Barça."
+   "id": "fd29846aa2f7c1e0",
+   "title": "CBIC Proposes Changes to Section 16 and New Section 16A to Protect Genuine ITC Claims",
+   "link": "https://www.caclubindia.com/news/cbic-proposes-changes-to-section-16-and-new-section-16a-to-protect-genuine-itc-claims-26967.asp",
+   "source": "CAclubindia",
+   "category": "Indirect Tax",
+   "published": "2026-11-22T14:48:10Z",
+   "summary": "Covered by 2 sources (CAclubindia, Business Standard). CBIC proposes changes to Section 16 & new Section 16A to protect genuine ITC claims, aiming to prevent penalising recipients for supplier defaults. The proposal seeks to bring greater clarity to ITC eligibility and ensure that bona fide recipients are not penalised merely because of defaults committed by suppliers or other persons in the supply chain. At the same time, it aims to prevent taxpayers knowingly involved in fraudulent transactions from claiming ITC."
   },
   {
-   "id": "aeddff271ddd4b9a",
-   "title": "Augsburg Vs Mainz",
-   "link": "https://www.goal.com/en-in/news/augsburg-vs-mainz-05-live-today-who-is-showing-the-match-on-tv-and-via-live-stream/blt360113faa52c3b00",
-   "source": "Goal.com",
-   "category": "General",
-   "published": "2026-11-22T15:10:00Z",
-   "summary": "About 200+ searches in India. Augsburg vs Mainz 05 live today: who is showing the match on TV and via live stream?."
+   "id": "6471d577e0aeb57a",
+   "title": "Asia’s Stock Rescue Efforts Gather Pace After Wall Street Plunge",
+   "link": "https://www.livemint.com/market/asias-stock-rescue-efforts-gather-pace-after-wall-street-plunge-11795351882145.html",
+   "source": "Mint Markets",
+   "category": "Markets",
+   "published": "2026-11-22T12:51:21Z",
+   "summary": "Covered by 2 sources (Moneycontrol.com, Mint). Asian authorities are stepping up efforts to stem a deepening stock-market rout, with China easing margin requirements, and Taiwan and South Korea rolling out intervention measures following Friday’s plunge in US equities."
   },
   {
-   "id": "28f9571c86e1ffe4",
-   "title": "Aakasamlo Oka Tara Movie",
-   "link": "https://www.ndtv.com/entertainment/filmmaker-arun-gopy-hails-dulquer-salmaan-after-watching-aakasamlo-oka-tara-with-non-malayali-audiences-12361550",
-   "source": "NDTV",
-   "category": "General",
-   "published": "2026-11-22T15:10:00Z",
-   "summary": "About 500+ searches in India. Filmmaker Arun Gopy Hails Dulquer Salmaan After Watching Aakasamlo Oka Tara With Non-Malayali Audiences."
+   "id": "3a87472d5eda0b04",
+   "title": "Gram Panchayats swing from Rs 3,220 crore surplus to Rs 6,920 crore deficit in FY25: RBI",
+   "link": "https://www.zeebiz.com/india/news-gram-panchayats-swing-from-rs-3220-crore-surplus-to-rs-6920-crore-deficit-in-fy25-rbi-405862",
+   "source": "Zee Business",
+   "category": "Regulatory",
+   "published": "2026-11-22T11:46:24Z",
+   "summary": "Covered by 2 sources (Zee, The Tribune). According to the RBI's biennial report, Finances of Panchayati Raj Institutions, total receipts of Gram Panchayats fell by 16.3 per cent to Rs 43,537 crore in FY25. Meanwhile, their expenditure rose 3.4 per cent to Rs 50,457 crore, resulting in a deficit of 15.9 per cent of total receipts. The report covered around 2.25 lakh Gram Panchayats across 25 states over three financial years. The figures for 2024-25 are provisional. The RBI noted that Gram Panchayats had recorded an average surplus of 5.4 per cent of total receipts during 2022-23 and 2023-24."
+  },
+  {
+   "id": "06a455f7d778caa3",
+   "title": "Stock market holiday next week: NSE, BSE to remain closed for Guru Nanak Jayanti on this day – Check details",
+   "link": "https://www.livemint.com/market/stock-market-news/stock-market-holiday-next-week-nse-bse-to-remain-closed-for-guru-nanak-jayanti-on-this-day-november-24-tuesday-11795343116023.html",
+   "source": "Mint Markets",
+   "category": "Markets",
+   "published": "2026-11-22T11:12:12Z",
+   "summary": "Covered by 2 sources (Mint, CNBC TV18). Stock market holiday next week: Trading on the NSE and BSE will pause Tuesday, November 24, for Prakash Gurpurb Sri Guru Nanak Dev Jayanti. BSE Sharmila Bhadoria Published 22 Nov 2026, 04:42 PM IST Prefer Livemint on Google Stock market holiday next week: The National Stock Exchange (NSE) and Bombay Stock Exchange ( BSE ) will remain shut next week on the account of Prakash Gurpurb Sri Guru Nanak Dev Jayanti. Which means that trading in all the segments will remain closed on the occasion."
+  },
+  {
+   "id": "d95573853be89076",
+   "title": "New Sebi proposal could flip fates of key men at NSE, BSE",
+   "link": "https://www.livemint.com/market/nse-bse-chief-tenure-rules-sebi-proposal-11795333434935.html",
+   "source": "Mint Markets",
+   "category": "Regulatory",
+   "published": "2026-11-22T09:38:47Z",
+   "summary": "Covered by 2 sources (Mint, Livemint). Proposed amendments to tenures of MDs of exchanges revise age-based limit to term-based limit. Ashishkumar Chauhan may be barred from another term at NSE because of his prior service at BSE, while Sundararaman Ramamurthy could continue at BSE beyond age 65 and potentially serve at another exchange."
+  },
+  {
+   "id": "e2185b052c6615fd",
+   "title": "Mint Explainer| How Sebi’s margin tweaks may boost agri commodities",
+   "link": "https://www.livemint.com/market/stock-market-news/sebi-agricultural-commodity-trading-margins-liquidity-11795330448989.html",
+   "source": "Mint Markets",
+   "category": "Regulatory",
+   "published": "2026-11-22T08:36:01Z",
+   "summary": "Covered by 2 sources (Mint, Livemint). Lower margin requirements can improve capital efficiency for traders and brokers, potentially encouraging greater participation in commodity derivatives. The Securities and Exchange Board of India (Sebi) has revised minimum initial margin requirements for agricultural commodities, bringing them in line with non-agricultural commodities across volatility categories. The changes, effective 1 December, are part of a broader review of the margin framework. The norms will be effective for a year unless Sebi extends them. In a circular last week, Sebi reduced the minimum initial margin (IM) requirement for agricultural commodity derivatives."
+  },
+  {
+   "id": "07802d141303becc",
+   "title": "সোনা",
+   "link": "https://bengali.abplive.com/business/gold-price-today-kolkata-20-november-2026-silver-price-gold-price-updates-1199838",
+   "source": "ABP Ananda",
+   "category": "Business",
+   "published": "2026-11-22T15:30:00Z",
+   "summary": "About 1000+ searches in India. Gold Price: ২৪ ঘণ্টায় হু হু করে কমল সোনার দাম? আজ কত হাজার কমে কিনতে পারবেন?."
   }
  ],
  "skipped_sources": []

@@ -1,0 +1,68 @@
+{
+  "settings": {
+    "daily_max": 30,
+    "daily_per_category_max": 8,
+    "daily_max_age_hours": 48,
+    "breaking_max": 20,
+    "breaking_max_age_hours": 12,
+    "trending_max": 15,
+    "summary_max_words": 100
+  },
+
+  "daily": [
+    {"name": "RBI Press Releases", "url": "https://www.rbi.org.in/pressreleases_rss.xml", "weight": 3, "fallback": "Regulatory",
+     "exclude": ["Money Market Operations", "Auction Result", "Result of", "Weekly Statistical Supplement", "Reserve Money", "Underwriting Auction", "Lending and Deposit Rates", "Sale of", "Conversion/Switch"]},
+    {"name": "RBI Notifications", "url": "https://www.rbi.org.in/notifications_rss.xml", "weight": 3, "fallback": "Regulatory"},
+    {"name": "SEBI", "url": "https://www.sebi.gov.in/sebirss.xml", "weight": 3, "fallback": "Regulatory"},
+    {"name": "PIB", "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3", "weight": 2, "fallback": "Economy", "filter": true},
+
+    {"name": "CBDT / Income Tax updates", "type": "google_news", "query": "CBDT OR \"income tax department\" OR \"income tax\" circular OR notification OR ITR OR TDS", "when": "2d", "weight": 2, "fallback": "Direct Tax"},
+    {"name": "GST / CBIC updates", "type": "google_news", "query": "\"GST Council\" OR CBIC OR GSTN OR \"GST notification\" OR \"input tax credit\" OR customs duty", "when": "2d", "weight": 2, "fallback": "Indirect Tax"},
+    {"name": "ICAI / Accounting updates", "type": "google_news", "query": "ICAI OR \"Ind AS\" OR NFRA OR \"accounting standards\" OR \"auditing standards\"", "when": "2d", "weight": 2, "fallback": "Accounting"},
+    {"name": "MCA / Company law updates", "type": "google_news", "query": "MCA notification OR \"Companies Act\" OR \"Ministry of Corporate Affairs\" OR IBBI OR insolvency", "when": "2d", "weight": 2, "fallback": "Regulatory"},
+    {"name": "CAclubindia", "type": "google_news", "query": "site:caclubindia.com", "when": "2d", "weight": 2, "fallback": "Accounting"},
+
+    {"name": "TaxGuru Income Tax", "url": "https://taxguru.in/category/income-tax/feed/", "weight": 2, "category": "Direct Tax"},
+    {"name": "TaxGuru GST", "url": "https://taxguru.in/category/goods-and-service-tax/feed/", "weight": 2, "category": "Indirect Tax"},
+    {"name": "TaxGuru Company Law", "url": "https://taxguru.in/category/company-law/feed/", "weight": 2, "category": "Regulatory"},
+    {"name": "TaxGuru Accounts & Audit", "url": "https://taxguru.in/category/chartered-accountant/feed/", "weight": 2, "category": "Accounting"},
+
+    {"name": "Economic Times Economy", "url": "https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms", "weight": 1, "fallback": "Economy"},
+    {"name": "Economic Times Markets", "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms", "weight": 1, "fallback": "Markets"},
+    {"name": "Economic Times Tax", "url": "https://economictimes.indiatimes.com/wealth/tax/rssfeeds/47119917.cms", "weight": 1, "fallback": "Direct Tax"},
+    {"name": "Business Standard Economy", "url": "https://www.business-standard.com/rss/economy-102.rss", "weight": 1, "fallback": "Economy"},
+    {"name": "Business Standard Markets", "url": "https://www.business-standard.com/rss/markets-106.rss", "weight": 1, "fallback": "Markets"},
+    {"name": "Business Standard Finance", "url": "https://www.business-standard.com/rss/finance-103.rss", "weight": 1, "fallback": "Business"},
+    {"name": "Mint Economy", "url": "https://www.livemint.com/rss/economy", "weight": 1, "fallback": "Economy"},
+    {"name": "Mint Markets", "url": "https://www.livemint.com/rss/markets", "weight": 1, "fallback": "Markets"},
+    {"name": "Mint Money", "url": "https://www.livemint.com/rss/money", "weight": 1, "fallback": "Business"},
+    {"name": "BusinessLine Economy", "url": "https://www.thehindubusinessline.com/economy/feeder/default.rss", "weight": 1, "fallback": "Economy"},
+    {"name": "BusinessLine Markets", "url": "https://www.thehindubusinessline.com/markets/feeder/default.rss", "weight": 1, "fallback": "Markets"},
+    {"name": "Moneycontrol Business", "url": "https://www.moneycontrol.com/rss/business.xml", "weight": 1, "fallback": "Business"},
+    {"name": "Moneycontrol Economy", "url": "https://www.moneycontrol.com/rss/economy.xml", "weight": 1, "fallback": "Economy"}
+  ],
+
+  "breaking": [
+    {"name": "Google News Business (India)", "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-IN&gl=IN&ceid=IN:en", "fallback": "Business"},
+    {"name": "Regulator & Ministry news", "type": "google_news", "query": "RBI OR SEBI OR \"finance ministry\" OR \"Nirmala Sitharaman\" OR CBDT OR \"GST Council\"", "when": "1d", "fallback": "Regulatory"},
+    {"name": "Moneycontrol Latest", "url": "https://www.moneycontrol.com/rss/latestnews.xml", "fallback": "Business", "filter": true},
+    {"name": "Business Standard Latest", "url": "https://www.business-standard.com/rss/latest.rss", "fallback": "Business", "filter": true},
+    {"name": "RBI Press Releases", "url": "https://www.rbi.org.in/pressreleases_rss.xml", "fallback": "Regulatory",
+     "exclude": ["Money Market Operations", "Auction Result", "Result of", "Weekly Statistical Supplement", "Reserve Money", "Underwriting Auction", "Lending and Deposit Rates", "Sale of", "Conversion/Switch"]}
+  ],
+
+  "trending": [
+    {"name": "Google Trends India", "type": "google_trends", "url": "https://trends.google.com/trending/rss?geo=IN"},
+    {"name": "Google Trends India (old address)", "type": "google_trends", "url": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=IN"}
+  ],
+
+  "categories": {
+    "Indirect Tax": ["gst", "cgst", "sgst", "igst", "cbic", "gstn", "gstr", "input tax credit", "itc", "e-invoice", "e-way bill", "customs", "excise", "anti-dumping", "gst council"],
+    "Direct Tax": ["income tax", "income-tax", "cbdt", "tds", "tcs", "itr", "advance tax", "capital gains", "tax audit", "assessment", "itat", "faceless", "section 80", "new tax regime", "old tax regime", "tax refund", "direct tax", "income tax act", "transfer pricing"],
+    "Accounting": ["icai", "ind as", "accounting standard", "auditing standard", "nfra", "audit", "auditor", "chartered accountant", "caro", "financial reporting", "xbrl", "financial statements"],
+    "Regulatory": ["sebi", "rbi", "mca", "companies act", "roc", "ibbi", "insolvency", "fema", "lodr", "circular", "notification", "master direction", "irdai", "pfrda", "nclt", "nclat", "compliance", "gazette"],
+    "Markets": ["sensex", "nifty", "ipo", "stock", "stocks", "shares", "equity", "mutual fund", "bond yield", "rupee", "fpi", "fii", "nse", "bse", "market cap", "derivatives", "f&o", "gold price"],
+    "Economy": ["gdp", "inflation", "cpi", "wpi", "fiscal deficit", "current account", "repo rate", "monetary policy", "iip", "pmi", "exports", "imports", "trade deficit", "budget", "economy", "economic", "forex reserves", "growth"],
+    "Business": ["company", "companies", "profit", "revenue", "earnings", "quarter", "q1", "q2", "q3", "q4", "results", "merger", "acquisition", "startup", "funding", "investment", "bank", "banks", "nbfc", "loan", "credit", "deal", "ceo", "industry", "corporate", "tax"]
+  }
+}

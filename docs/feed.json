@@ -1,23 +1,68 @@
 {
- "generated": "2026-11-24T01:43:46Z",
+ "generated": "2026-11-24T03:16:19Z",
  "daily": [
   {
-   "id": "16ab09efbe0db5cc",
-   "title": "AI Trade Resurgence Drives 9% Rally in Taiwanese Stock Index",
-   "link": "https://www.livemint.com/market/ai-trade-resurgence-drives-9-rally-in-taiwanese-stock-index-11795484279756.html",
-   "source": "Mint Markets",
-   "category": "Markets",
-   "published": "2026-11-24T01:37:59Z",
-   "summary": "Asian semiconductor-related stocks climbed after Nvidia Corp.’s board reinstated Jensen Huang, resuscitating investor appetite for the artificial intelligence trade. South Korea’s Kospi rose about 7%, with Nvidia memory-chip partners SK Hynix Inc. and Samsung Electronics Co. rising by at least 9% each before paring gains. Japan’s tech-heavy Nikkei 225 Stock Average jumped more than 4%, with Nvidia chip tester supplier Advantest Corp. surging 15%. Leading foundry Taiwan Semiconductor Manufacturing Co. spiked 9.9% in Taipei, helping lift the Taiex 9%."
+   "id": "53ade77bf7f74a04",
+   "title": "MCA, GSTN and CBDT: Can India End Repetitive Business Compliance?",
+   "link": "https://www.policyedge.in/p/mca-gstn-and-cbdt-can-india-end-repetitive-business-compliance",
+   "source": "The Policy Edge",
+   "category": "Indirect Tax",
+   "published": "2026-11-24T02:59:32Z",
+   "summary": "For businesses navigating multiple regulatory systems, simpler compliance may depend on whether government agencies can reuse verified information instead of repeatedly seeking the same particulars The Ministry of Corporate Affairs (MCA) extended the deadline for annual filings for FY2025–26 in October 2026, providing immediate relief to companies facing compliance pressures. Its ongoing filing-rationalisation exercise offers an opportunity to address a more persistent problem: businesses repeatedly submitting information that government agencies already possess."
   },
   {
-   "id": "8361e8834902d848",
-   "title": "Uttar Pradesh State Bio-Energy Policy, 2022: Incentives, eligibility and implementation",
-   "link": "https://www.business-standard.com/economy/uttar-pradesh/uttar-pradesh-state-bio-energy-policy-2022-incentives-eligibility-and-implementation-126112300443_1.html",
+   "id": "71da4ff3427efb9b",
+   "title": "SGB 2021-22 Series I premature redemption: Investors gain up to 167%; check RBI-fixed price, exit date and interest rate",
+   "link": "https://www.livemint.com/money/personal-finance/sgb-2021-22-series-i-premature-redemption-investors-gain-up-to-167-check-rbi-fixed-price-exit-date-and-interest-rate-11795483751270.html",
+   "source": "Mint Money",
+   "category": "Direct Tax",
+   "published": "2026-11-24T02:52:24Z",
+   "summary": "Sovereign Gold Bonds 2021-22 Series I investors can opt for premature redemption. The redemption price offers up to 167% capital gains over the original issue price. Here are the RBI-fixed price, early exit date and interest earnings."
+  },
+  {
+   "id": "fb55f7adcdec3f75",
+   "title": "Asian stocks rally as Huang's Nvidia return revives AI trade",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/asian-stocks-rally-as-huangs-nvidia-return-revives-ai-trade/articleshow/136117829.cms",
+   "source": "Economic Times Markets",
+   "category": "Markets",
+   "published": "2026-11-24T02:44:53Z",
+   "summary": "Asian shares saw significant gains as Nvidia's CEO Jensen Huang made a return that relieved market fears. The MSCI Asia-Pacific index rose by 4.6%, while Japan's Nikkei gained 4.5% after a local holiday. This movement followed a 31.5% surge in Nvidia shares, revealing optimism in the beleaguered AI sector. United States Treasury yields climbed alongside the dollar, signaling increased confidence in Fed tightening measures."
+  },
+  {
+   "id": "32dbf66878288400",
+   "title": "SEBI issues upcoming IPOs GMP advisory - ‘publication of such pre-listing premium figures may be detrimental’",
+   "link": "https://www.livemint.com/market/ipo/sebi-issues-upcoming-ipos-gmp-advisory-publication-of-such-pre-listing-premium-figures-may-be-detrimental-11795482712234.html",
+   "source": "Mint Markets",
+   "category": "Regulatory",
+   "published": "2026-11-24T02:42:22Z",
+   "summary": "SEBI urged intermediaries and market participants to stop publishing grey market premium (GMP) figures for IPOs, warning that these unregulated estimates are unverified and cannot reliably predict listing prices or returns. Investors should avoid GMP-linked transactions and use authorised platforms."
+  },
+  {
+   "id": "16658a7897d1b924",
+   "title": "Landlord declares Rs 2.73 crore rent as house property income, tax dept calls it business income; he fough",
+   "link": "https://m.economictimes.com/wealth/tax/landlord-declares-rs-2-73-crore-rent-as-house-property-income-tax-dept-calls-it-business-income-he-fought-back-and-won-know-why-itat-surat-ruled-in-his-favour/articleshow/136103081.cms",
+   "source": "The Economic Times",
+   "category": "Business",
+   "published": "2026-11-24T02:30:00Z",
+   "summary": "Mr. Chauhan, a landlord, grappled with a tax classification dilemma concerning his rental income from commercial real estate. The Income Tax Assessing Officer characterized this income as business earnings, leading to a considerable hike in his tax liability. Nonetheless, the Income Tax Appellate Tribunal determined that his rental income should qualify as income from house property. This judgment enables Mr."
+  },
+  {
+   "id": "c255249e8abb6c7e",
+   "title": "Stock market holiday: NSE, BSE shut today for Guru Nanak Jayanti",
+   "link": "https://www.business-standard.com/markets/news/stock-market-holiday-today-nse-bse-closed-for-trading-on-gurpurab-2026-126112300598_1.html",
    "source": "Business Standard",
-   "category": "Economy",
-   "published": "2026-11-24T01:30:58Z",
-   "summary": "UP State Bio-Energy Policy 2022: The policy promotes conversion of agricultural residue, livestock waste, municipal waste and other biomass into commercial energy products Bio-Energy Policy 2022: Subsidy, land and tax support to convert farm and organic waste into commercial energy. (Image: upneda.in) The policy is a five-year framework for attracting private investment into waste- and biomass-based energy projects. UPNEDA's current project-registration portal additionally lists second-generation bioethanol among the types of bio-energy projects it processes. The policy is intended to address two linked problems."
+   "category": "Markets",
+   "published": "2026-11-24T02:20:43Z",
+   "summary": "Stock market holiday today: The markets are closed for trading on account of Guru Nanak Jayanti, also called Prakash Gurpurab, the birth anniversary of the first Sikh Guru."
+  },
+  {
+   "id": "8da598f1d59d2a2b",
+   "title": "India-EU trade deal may come into force by mid-2027, says EU Ambassador",
+   "link": "https://www.business-standard.com/economy/news/india-eu-trade-deal-may-come-into-force-by-mid-2027-says-eu-ambassador-126112400064_1.html",
+   "source": "ANI",
+   "category": "Business",
+   "published": "2026-11-24T02:10:49Z",
+   "summary": "EU Ambassador Jean-Eric Paquet said negotiations concluded in January, with the European Commission proposing the agreement's signing in September. The deal will require European Parliament approval"
   },
   {
    "id": "c7dde7a1fae5e165",
@@ -27,15 +72,6 @@
    "category": "Direct Tax",
    "published": "2026-11-24T01:30:00Z",
    "summary": "HL: Stock market trader overreports F&O loss at Rs 19.5 lakh; Income Tax Dept sends her notice for undisclosed income; she wins case in ITAT Agra"
-  },
-  {
-   "id": "60fe8bef74899c5d",
-   "title": "Bank holiday today Tuesday, 24 November: Branches closed in these 21 cities across India — Check RBI list and reasons",
-   "link": "https://www.livemint.com/money/personal-finance/bank-holiday-today-tuesday-24-november-branches-closed-in-these-21-cities-across-india-check-rbi-list-and-reasons-11795479485133.html",
-   "source": "Mint Money",
-   "category": "Regulatory",
-   "published": "2026-11-24T01:19:11Z",
-   "summary": "Bank branches will remain closed in 21 cities across India on 24 November, while others will continue to operate as usual. Check the complete city-wise list to find out whether your bank branch will remain open or closed today."
   },
   {
    "id": "0bebfa40783892a0",
@@ -107,7 +143,7 @@
    "source": "Moneycontrol.com",
    "category": "Indirect Tax",
    "published": "2026-11-23T16:40:55Z",
-   "summary": "Commerce Secretary Rajesh Agrawal said neither side had flagged this issue during negotiations, adding that industry players and their UK counterparts could have raised it and sought concessions under the relevant tariff line. Discover the latest Business News , Sensex , and Nifty updates. Obtain Personal Finance insights, tax queries, and expert opinions on Moneycontrol or download the Moneycontrol App to stay updated!"
+   "summary": "Commerce Secretary Rajesh Agrawal said neither side had flagged this issue during negotiations, adding that industry players and their UK counterparts could have raised it and sought concessions under the relevant tariff line. Bond-based release of detained stocks Agrawal clarified that the government had not directed the DRI to release consignments at the preferential duty rate under CETA. It had instead requested the agency to facilitate their release against bonds, following prescribed procedures, while the classification issue is resolved. He said that, to his knowledge, the cargo had been released."
   },
   {
    "id": "0aed815af16b15be",
@@ -155,18 +191,18 @@
    "summary": "Rahul Madan, Managing Director of IIIPI, has been named chairperson-designate of the Insolvency and Bankruptcy Board of India (IBBI), succeeding Jayanti Prasad. Ad 23/11/2026, 9:05:02 pm Rahul Madan appointed as IBBI chairperson, to drive major reforms Rahul Madan, Managing Director of IIIPI, has been named chairperson-designate of the Insolvency and Bankruptcy Board of India (IBBI), succeeding Jayanti Prasad. Madan aims to advance light-touch governance and implement cross-border and group insolvency frameworks. MCA Secretary Pallavi Jain Govil emphasized creating a globally benchmarked insolvency system."
   },
   {
-   "id": "5c649e7a0beaf016",
+   "id": "b6af3147ab38b6a1",
    "title": "UK raises concern over India's 162.5% bulk Scotch duty as trade pact dispute continues",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/uk-raises-concern-over-indias-162-5-bulk-scotch-duty-as-trade-pact-dispute-continues/articleshow/136107454.cms",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/uk-raises-concern-over-indias-162-5-bulk-scotch-duty-as-trade-pact-dispute-continues/articleshow/136107454.cms?utm_source=newsletter&utm_medium=email&utm_campaign=amp_rss",
    "source": "The Times of India",
    "category": "Indirect Tax",
    "published": "2026-11-23T15:25:00Z",
    "summary": "The United Kingdom has raised concerns with India over the high import duty on bulk Scotch whisky, with New Delhi seeking an internal legal opinion to resolve the dispute linked to the India-UK trade agreement, commerce secretary Rajesh Agrawal said on Monday."
   },
   {
-   "id": "703a5d4562a5cbb1",
+   "id": "d44a1f58847d6200",
    "title": "Rahul Madan set to take over as IBBI chairperson, focus on key reforms",
-   "link": "https://www.business-standard.com/finance/news/rahul-madan-set-to-take-over-as-ibbi-chairperson-focus-on-key-reforms-126112301213_1.html",
+   "link": "https://www.business-standard.com/amp/finance/news/rahul-madan-set-to-take-over-as-ibbi-chairperson-focus-on-key-reforms-126112301213_1.html",
    "source": "Business Standard",
    "category": "Regulatory",
    "published": "2026-11-23T14:47:41Z",
@@ -200,33 +236,6 @@
    "summary": "Bombay HC upheld deletion of ₹8.40 crore bogus purchase addition and depreciation disallowance based on Section 133A survey statements. Statement recorded during survey under Section 133A cannot, by itself, sustain additions for bogus purchases or excess depreciation in the absence of independent corroborative evidence. Additions founded solely on the director’s survey statement are unsustainable. Case Summary: The Revenue challenged the ITAT order dated 16 May 2019 in ITA No. 5276/Mum/2018 for AY 2009-10, concerning deletion of additions towards alleged bogus purchases of Rs.8.40 crore and excess depreciation claimed on alleged bogus capital expenditure."
   },
   {
-   "id": "48d1992d7df0a2e5",
-   "title": "MCA Overhauls Overseas Listing Framework: Expanded Instruments, Net Worth Relief, and New Form LEAP-1",
-   "link": "https://thetaxcorp.in/article/mca-overhauls-overseas-listing-framework-expanded-instruments-net-worth-relief",
-   "source": "TaxCorp AI",
-   "category": "Regulatory",
-   "published": "2026-11-23T14:09:05Z",
-   "summary": ""
-  },
-  {
-   "id": "f55f8b8c22f7c199",
-   "title": "EPCG Exemption Survives Tariff Classification Dispute: CESTAT Chandigarh Rules in Favour of Chiripal Poly Films",
-   "link": "https://thetaxcorp.in/article/epcg-exemption-survives-tariff-classification-dispute-cestat-chandigarh-rules",
-   "source": "TaxCorp AI",
-   "category": "Indirect Tax",
-   "published": "2026-11-23T14:09:04Z",
-   "summary": ""
-  },
-  {
-   "id": "6a3d46440005c505",
-   "title": "SBI not liable as assessee-in-default for non-deduction of TDS on LTC during subsistence of Madras High Court interim order",
-   "link": "https://thetaxcorp.in/article/sbi-not-liable-as-assessee-in-default-for-non-deduction-of-tds-on-ltc-during",
-   "source": "TaxCorp AI",
-   "category": "Direct Tax",
-   "published": "2026-11-23T14:08:50Z",
-   "summary": ""
-  },
-  {
    "id": "0cdcfc3d52a36618",
    "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on November 25, 2026",
    "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64033",
@@ -243,15 +252,6 @@
    "category": "Business",
    "published": "2026-11-23T13:50:00Z",
    "summary": "As part of the Reserve Bank’s ongoing engagement with regulated entities, the Governor, Reserve Bank of India, today met in Mumbai with the Managing Directors and Chief Executive Officers (MDs & CEOs) of select Non-Banking Financial Companies (NBFCs), including Government NBFCs, Housing Finance Companies (HFCs) and Microfinance Institutions. Representatives of Sa-Dhan, the Micro Finance Institutions Network (MFIN) and the Finance Industry Development Council (FIDC) also participated. Deputy Governors Shri Swaminathan J., Dr Poonam Gupta, Shri S. C. Murmu and Shri Rohit Jain attended the meeting, along with other senior officers of the Reserve Bank."
-  },
-  {
-   "id": "662d6e86a6a922f4",
-   "title": "Ind AS 34 Interim Tax Expense: Annual Effective Rate, Year-to-Date True-Ups and Loss-Year Controls",
-   "link": "https://taxguru.in/chartered-accountant/ind-34-interim-tax-expense-annual-effective-rate-year-date-true-ups-loss-year-controls.html",
-   "source": "TaxGuru Accounts & Audit",
-   "category": "Accounting",
-   "published": "2026-11-23T13:19:41Z",
-   "summary": "Practical Ind AS 34 guide to interim income-tax expense using the estimated annual effective rate, year-to-date true-ups, multiple profit pools, loss forecasts and disclosure controls."
   },
   {
    "id": "b7d471c3ad5b2c8e",
@@ -274,6 +274,105 @@
  ],
  "breaking": [
   {
+   "id": "9fccc30b557ba191",
+   "title": "GMP no more? Sebi asks market players to stop publishing IPO grey market premiums",
+   "link": "https://www.indiatoday.in/amp/business/story/ipo-gmp-ban-grey-market-premium-sebi-advisory-stop-publishing-gmpfigures-3045558-2026-11-24",
+   "source": "India Today",
+   "category": "Regulatory",
+   "published": "2026-11-24T03:03:40Z",
+   "summary": "Sebi has asked registered intermediaries and market participants to stop publishing or circulating IPO grey market premium figures. The regulator says these unofficial figures lack oversight, investor protection and formal dispute-resolution safeguards. In an advisory issued on November 23, Sebi said unregulated pre-listing premium figures, commonly referred to as grey market premium (GMP), for upcoming IPOs were being widely published across websites, digital platforms, newspapers and by some registered intermediaries and market participants."
+  },
+  {
+   "id": "e8e5b22a2c3b933c",
+   "title": "RBI Guv meets UCB Leaders; Stresses Cybersecurity, Prudent Lending",
+   "link": "https://www.indiancooperative.com/banks/rbi-guv-meets-ucb-leaders-stresses-cybersecurity-prudent-lending/",
+   "source": "Indian Cooperative",
+   "category": "Regulatory",
+   "published": "2026-11-24T02:50:59Z",
+   "summary": "The Governor of the Reserve Bank of India (RBI) on Monday, held an interaction with Chairpersons and Managing Directors & Chief Executive Officers of select Urban Cooperative Banks (UCBs) in... Home Banks RBI Guv meets UCB Leaders; Stresses Cybersecurity, Prudent Lending Mission SAKSHAM gets positive feedback as Governor calls for stronger profitability by Ajay Jha November 24, 2026 in Banks 0 Share on Facebook Share on Twitter The Governor of the Reserve Bank of India (RBI) on Monday, held an interaction with Chairpersons and Managing Directors & Chief Executive Officers of select Urban Cooperative Banks (UCBs) in Mumbai, emphasising stronger…"
+  },
+  {
+   "id": "96314cefa08f09b7",
+   "title": "Are banks closed today for Guru Nanak Jayanti? Check full RBI holiday list",
+   "link": "https://www.moneycontrol.com/news/business/banks/are-banks-closed-today-for-guru-nanak-jayanti-check-full-rbi-holiday-list-14087570.html",
+   "source": "Moneycontrol.com",
+   "category": "Regulatory",
+   "published": "2026-11-24T02:48:35Z",
+   "summary": "Customers requiring branch-dependent services, including demand drafts, locker access, KYC updates and large cash transactions, should plan ahead and complete these activities before the relevant bank holiday. Customers planning branch visits should check the RBI’s official holiday calendar to see whether banks in their city will remain closed. December 3 : Banks in Goa will remain closed for the Feast of St Francis Xavier. December 25 : Banks across the country will remain closed for Christmas, which marks the birth of Jesus Christ."
+  },
+  {
+   "id": "cbb742e5faa714ba",
+   "title": "DG: RBI using alternate data sources for forecasts",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/dg-rbi-using-alternate-data-sources-for-forecasts/articleshow/136117736.cms",
+   "source": "The Times of India",
+   "category": "Regulatory",
+   "published": "2026-11-24T02:36:00Z",
+   "summary": "RBI is increasingly using alternative data sources, including FASTag transactions, satellite imagery and digital payment metrics, to forecast economic activity and inform policy decisions, supplementing official data released by the ministry of statistics and programme implementation (MoSPI)."
+  },
+  {
+   "id": "b9b256aef6a73c4b",
+   "title": "Chinese neuroscientist at Princeton detained by ICE at Washington airport",
+   "link": "https://www.business-standard.com/world-news/chinese-neuroscientist-at-princeton-detained-by-ice-at-washington-airport-126112400054_1.html",
+   "source": "Press Trust of India",
+   "category": "Indirect Tax",
+   "published": "2026-11-24T02:35:59Z",
+   "summary": "A Chinese neuroscience researcher at Princeton University is in the custody of immigration authorities after she was detained while trying to get on a flight back from Washington, marking another instance of federal enforcement at airports. Eva Yi Xie, a third-year doctoral student at Princeton, was detained by Immigration and Customs Enforcement officers at Ronald Reagan Washington National Airport on Thursday as she tried to fly back to New Jersey from a conference in the nation's capital, her university adviser Carlos Brody said in a social media post."
+  },
+  {
+   "id": "ea45b9ebb6ee1f40",
+   "title": "Why Trump pushed to bring Jensen Huang back on top at AI behemoth Nvidia",
+   "link": "https://www.business-standard.com/world-news/why-did-trump-push-to-bring-jensen-huang-back-on-top-at-ai-behemoth-nvidia-126112400052_1.html",
+   "source": "Press Trust of India",
+   "category": "Markets",
+   "published": "2026-11-24T02:25:38Z",
+   "summary": "President Donald Trump saw little choice but to fight to reinstate Jensen Huang at AI behemoth Nvidia. The president has staked the nation's economic growth on artificial intelligence, and worried Huang's ouster was not only tanking the stock market -- but also risked putting the US behind Beijing in the race for dominance in the field if Huang, widely seen by backers and critics as a generational talent in artificial intelligence, were to be poached by a Chinese firm."
+  },
+  {
+   "id": "587f9e4fffabeb02",
+   "title": "Sebi warns against IPO grey market premium",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/sebi-warns-against-ipo-grey-market-premium/articleshow/136117573.cms?utm_source=newsletter&utm_medium=email&utm_campaign=amp_rss",
+   "source": "The Times of India",
+   "category": "Regulatory",
+   "published": "2026-11-24T02:23:00Z",
+   "summary": "Sebi on Monday warned investors about grey market premiums (GMPs) in IPOs, the pre-listing premium figures that are available on unofficial sites. The markets regulator said it has come to its notice that trades based on GMPs are being carried out through platforms that are \"unofficial, unverified, and unregulated,\" even before they are listed on the bourses."
+  },
+  {
+   "id": "4ed99b77a65d4cee",
+   "title": "Nvidia employees cheer Huang's return as CEO, Musk reacts to reinstatement",
+   "link": "https://www.business-standard.com/world-news/nvidia-employees-cheer-huang-s-return-as-ceo-musk-reacts-to-reinstatement-126112400037_1.html",
+   "source": "ANI",
+   "category": "Business",
+   "published": "2026-11-24T02:21:46Z",
+   "summary": "Elon Musk said Nvidia employees wanted Jensen Huang back, while Democratic leader Hakeem Jeffries called the reinstatement indefensible and vowed a congressional probe into alleged business misconduct"
+  },
+  {
+   "id": "07ba9bcad9f30d08",
+   "title": "Asian shares rally as Huang returns to Nvidia, sparking Wall Street rebound",
+   "link": "https://www.business-standard.com/markets/news/asian-shares-rally-as-huang-returns-to-nvidia-sparking-wall-street-rebound-126112400069_1.html",
+   "source": "Reuters",
+   "category": "Markets",
+   "published": "2026-11-24T02:06:57Z",
+   "summary": "Asian markets rebounded sharply after Nvidia shares surged 31.5% on Wall Street, restoring nearly $1 trillion in market value and lifting technology stocks amid easing fears over the AI trade"
+  },
+  {
+   "id": "465880d6e02ee2bb",
+   "title": "Stock Market Holiday: Share Markets Shut For Guru Nanak Jayanti Today. Are Banks Closed Too?",
+   "link": "https://www.ndtv.com/business-news/stock-market-holiday-november-24-nse-nifty-bse-sensex-shut-for-guru-nanak-jayanti-are-banks-closed-12368491",
+   "source": "NDTV",
+   "category": "Markets",
+   "published": "2026-11-24T01:19:14Z",
+   "summary": "Stock Market News: Trading in equity derivatives will also remain suspended. The currency derivatives segment will remain closed as well. Both the National Stock Exchange (NSE) and the Bombay Stock Exchange (BSE) will suspend trading for the day. There will be no trading activity in the equity and equity derivatives segments, including the Nifty 50 and Sensex. The holiday is part of the stock exchanges' official trading calendar for 2026. Trading will resume as usual on Wednesday, November 25."
+  },
+  {
+   "id": "a1d975ee73949e7a",
+   "title": "Bank holiday today Tuesday, 24 November: Branches closed in these 21 cities across India — Check RBI list and reasons",
+   "link": "https://www.livemint.com/money/personal-finance/bank-holiday-today-tuesday-24-november-branches-closed-in-these-21-cities-across-india-check-rbi-list-and-reasons-11795479485133.html",
+   "source": "Livemint",
+   "category": "Regulatory",
+   "published": "2026-11-24T01:19:11Z",
+   "summary": "Bank branches will remain closed in 21 cities across India on 24 November, while others will continue to operate as usual. Check the complete city-wise list to find out whether your bank branch will remain open or closed today. Banks in several parts of India will remain closed today, Tuesday, 24 November, on account of Guru Nanak Jayanti. However, the holiday is not applicable across the country. According to the Reserve Bank of India's ( RBI ) holiday calendar, branches in 21 cities will remain closed today under the Negotiable Instruments Act."
+  },
+  {
    "id": "c7ed76ec1c35528d",
    "title": "​RBI Proposes Stop Switch to Let Bank Customers Block All Outgoing Digital Payments",
    "link": "https://the420.in/rbi-proposes-stop-switch-to-let-bank-customers-block-all-outgoing-digital-payments/",
@@ -292,7 +391,7 @@
    "summary": "The Securities and Exchange Board of India (SEBI) has adopted a strict stance regarding the grey market premium (GMP) associated with initial public offerings ​The market regulator has formally advised against the promotion and dissemination of grey market premium data linked to upcoming IPOs. Ahead of a company’s formal listing on recognized bourses, grey market premiums often circulate widely, influencing investor perception. By calling for a halt to the publicity of GMP figures, SEBI aims to prevent the spread of unregulated indicators that lack institutional oversight."
   },
   {
-   "id": "ce29dda34fcd6ea7",
+   "id": "7858d9d2109f3150",
    "title": "RBI proposes trusted approver, stop switch to curb digital fraud",
    "link": "https://timesofindia.indiatimes.com/business/india-business/rbi-proposes-trusted-approver-stop-switch-to-curb-digital-fraud/articleshow/136116676.cms",
    "source": "The Times of India",
@@ -316,6 +415,15 @@
    "source": "BigGo Finance",
    "category": "Economy",
    "published": "2026-11-23T23:55:00Z",
+   "summary": "Brazil's Ministry of Finance lowered its 2026 GDP growth projection from 2.0% to 1.9% and cut its 2027 estimate from 2.3% to 1.8%, according to the… For 2027, the GDP growth estimate fell from 2.3% to 1.8%. According to the secretariat, the revision reflects higher-for-longer interest rates and credit costs, a smaller contribution from agriculture and a lower statistical carryover. The bulletin also points to a slowdown in economic activity, associated with the Selic rate being held at a restrictive level and rising uncertainties throughout the electoral process."
+  },
+  {
+   "id": "7865db15dec96b1f",
+   "title": "SEBI proposes eliminating additional disclosure requirements for offshore funds",
+   "link": "https://newsonair.gov.in/sebi-proposes-eliminating-additional-disclosure-requirements-for-offshore-funds/",
+   "source": "News On AIR",
+   "category": "Regulatory",
+   "published": "2026-11-23T23:41:26Z",
    "summary": ""
   },
   {
@@ -344,114 +452,6 @@
    "category": "Economy",
    "published": "2026-11-23T20:23:48Z",
    "summary": ""
-  },
-  {
-   "id": "07a16bc09015dc39",
-   "title": "India’s rupee carry trade: RBI support holds but risks are building",
-   "link": "https://www.investing.com/news/forex-news/indias-rupee-carry-trade-rbi-support-holds-but-risks-are-building-93CH-5046267",
-   "source": "Investing.com",
-   "category": "Regulatory",
-   "published": "2026-11-23T19:27:12Z",
-   "summary": ""
-  },
-  {
-   "id": "6e52c171d4a46245",
-   "title": "RBI Governor asks NBFCs, HFCs to strengthen cyber defences, ensure board-level oversight",
-   "link": "https://legal.economictimes.indiatimes.com/news/regulators/rbi-governor-asks-nbfcs-hfcs-to-strengthen-cyber-defences-ensure-board-level-oversight/136112136?utm_source=webinars_news_updates&utm_medium=webinars",
-   "source": "ETLegalWorld.com",
-   "category": "Regulatory",
-   "published": "2026-11-23T18:48:43Z",
-   "summary": "He urged this during a meeting with managing directors and chief executive officers of select NBFCs and housing finance companies (HFCs), as per an official statement."
-  },
-  {
-   "id": "868cced44325cc5e",
-   "title": "AI risks, Reserve Bank of India nudge spur a cybersecurity talent rush",
-   "link": "https://www.business-standard.com/industry/banking/ai-risks-reserve-bank-of-india-nudge-spur-a-cybersecurity-talent-rush-126112301463_1.html",
-   "source": "Business Standard",
-   "category": "Business",
-   "published": "2026-11-23T18:24:23Z",
-   "summary": "RBI steps up cybersecurity scrutiny, prompting financial institutions to hire CISOs amid rising cyber threats and a shortage of skilled professionals"
-  },
-  {
-   "id": "7a6a67fa2331405e",
-   "title": "India Inc responds to PM Modi's call, seeks greater regulatory transparency",
-   "link": "https://www.business-standard.com/economy/news/india-inc-responds-to-pm-modi-s-call-seeks-greater-regulatory-transparency-126112301461_1.html",
-   "source": "Business Standard",
-   "category": "Business",
-   "published": "2026-11-23T18:18:36Z",
-   "summary": "CII urges the government to strengthen market integrity, improve regulatory transparency and ease cross-border capital flows to boost private investment"
-  },
-  {
-   "id": "b738381de60132cb",
-   "title": "Sebi asks market intermediaries to stop publishing IPO grey market premium figures",
-   "link": "https://legal.economictimes.indiatimes.com/news/regulators/sebi-asks-market-intermediaries-to-stop-publishing-ipo-grey-market-premium-figures/136112005?utm_source=latest_news&utm_medium=homepage",
-   "source": "ETLegalWorld",
-   "category": "Regulatory",
-   "published": "2026-11-23T18:16:00Z",
-   "summary": "Also, the regulator cautioned investors against treating GMP as an indicator of listing prices or expected returns. Markets regulator Sebi on Monday asked intermediaries and market participants to stop publishing unregulated pre-listing premium figures, commonly known as Grey Market Premium (GMP), for upcoming initial public offerings (IPOs)."
-  },
-  {
-   "id": "02988dfe23d71c61",
-   "title": "RBI proposes additional safeguards for electronic banking transactions",
-   "link": "https://theindianawaaz.com/rbi-proposes-additional-safeguards-for-electronic-banking-transactions/",
-   "source": "The Indian Awaaz",
-   "category": "Regulatory",
-   "published": "2026-11-23T18:11:00Z",
-   "summary": "The Reserve Bank of India (RBI) has proposed additional preventive safeguards for electronic banking transactions (EBTs) to strengthen customer protection against digital payment frauds. The draft amendment directions seek to give customers greater control over the manner and extent of use of digital payment channels. The RBI has also proposed expanding the definition of ‘negligence by banks’ to ensure uniformity in banking practices and protect customers against omissions or commissions by banks. The draft directions cover commercial banks, small finance banks, payments banks, regional rural banks and cooperative banks."
-  },
-  {
-   "id": "3e3e92d42d1d984c",
-   "title": "₹30,707 cr mcap erased as deal rattles Tata Steel, APL Apollo shareholders",
-   "link": "https://www.business-standard.com/markets/news/30-707-cr-mcap-erased-as-deal-rattles-tata-steel-apl-apollo-shareholders-126112301294_1.html",
-   "source": "Business Standard",
-   "category": "Markets",
-   "published": "2026-11-23T18:10:38Z",
-   "summary": "APL Apollo Tubes was the worst-performing midcap stock, shedding 21.4 per cent of its market capitalisation premium Tata Steel reported consolidated gross debt of ₹1.02 trillion at the end of September (Photo: Shutterstock)"
-  },
-  {
-   "id": "2adc0781ff6480f0",
-   "title": "RBI proposes ‘stop switch’ to disable debit transactions",
-   "link": "https://www.millenniumpost.in/business/rbi-proposes-stop-switch-to-disable-debit-transactions-684325",
-   "source": "MillenniumPost",
-   "category": "Regulatory",
-   "published": "2026-11-23T18:07:14Z",
-   "summary": "Mumbai: The RBI on Monday proposed making it compulsory for banks to provide customers a “stop switch” to immediately block outward debits from their accounts.Under the Reserve Bank of India... Under the Reserve Bank of India (Commercial Banks - Responsible Business Conduct) Fifth Amendment Directions, the RBI also proposed a “trusted person mechanism” as an additional transaction authentication factor. The switch would block customer-initiated debits, new payment mandates, standing instructions and UPI registration on third-party payment applications. Recurring mandates, existing standing instructions, lien marking and bank-initiated recovery of charges or loan instalments would be exempt. Credits would remain unaffected."
-  },
-  {
-   "id": "ac618fcf197caca6",
-   "title": "Razorpay payout disruption puts spotlight on payment security",
-   "link": "https://www.business-standard.com/companies/news/razorpay-payouts-disruption-puts-firm-s-payment-security-in-focus-126112301104_1.html",
-   "source": "Business Standard",
-   "category": "Business",
-   "published": "2026-11-23T18:00:44Z",
-   "summary": "Banks and payment firms have tightened checks on payout systems across the industry in recent weeks, an industry executive said"
-  },
-  {
-   "id": "661fee99cf72d902",
-   "title": "Sebi warns investors against fraudsters impersonating registered intermediaries on WhatsApp groups",
-   "link": "https://www.cnbctv18.com/economy/sebi-warns-investors-against-fraudsters-impersonating-registered-intermediaries-on-whatsapp-groups-20040297.htm",
-   "source": "CNBC TV18",
-   "category": "Regulatory",
-   "published": "2026-11-23T17:55:24Z",
-   "summary": "\"Investors are being lured to participate in purported institutional trading opportunities by portraying international stock markets as being more lucrative vis-a-vis Indian stock markets. These fraudsters are providing recommendations on shares/stocks/indices listed in international stock markets/Indian stock markets,\" the regulator noted. The fraudsters also directed investors to transfer funds to designated bank accounts held in the names of unregistered entities. Other warning signs include fake institutional trading accounts, fraudulent trading applications displaying fictitious investment portfolios, misuse of Sebi registration screenshots, forged regulator letterheads and stamps, and claims of links with Sebi employees."
-  },
-  {
-   "id": "61b036d4708a082d",
-   "title": "For tariff classification, section and chapter titles have no legal force",
-   "link": "https://www.business-standard.com/opinion/columns/for-tariff-classification-section-and-chapter-titles-have-no-legal-force-126112301440_1.html",
-   "source": "Business Standard",
-   "category": "Indirect Tax",
-   "published": "2026-11-23T17:35:09Z",
-   "summary": "Expert answers on customs classification, FEMA reporting rules and duty-free re-export procedures for businesses"
-  },
-  {
-   "id": "ce6df2f155502ed2",
-   "title": "Over 80% Indian firms yet to see AI gains: PwC chief Sanjeev Krishan",
-   "link": "https://www.business-standard.com/industry/news/over-80-indian-firms-yet-to-see-ai-gains-pwc-chief-sanjeev-krishan-126112301164_1.html",
-   "source": "Business Standard",
-   "category": "Business",
-   "published": "2026-11-23T17:34:13Z",
-   "summary": "\"It is not just a question of efficiency. For companies, it is also a question of whether investments in and for AI will succeed in their environment as well,\" said Sanjeev Krishan, Chairperson, PwC"
   }
  ],
  "trending": [
@@ -471,16 +471,34 @@
    "source": "Mint Markets",
    "category": "Regulatory",
    "published": "2026-11-23T15:06:31Z",
-   "summary": "Covered by 8 sources (The 420.in, ETLegalWorld, News On AIR…). The regulator said unregulated GMP transactions lack price discovery, settlement guarantees and investor protection, and urges investors to avoid using them to gauge listing gains."
+   "summary": "Covered by 10 sources (India Today, The Times of India, The 420.in…). The regulator said unregulated GMP transactions lack price discovery, settlement guarantees and investor protection, and urges investors to avoid using them to gauge listing gains."
   },
   {
-   "id": "6c1fe5b6ba4ad447",
-   "title": "RBI releases 2026 list of Domestic Systemically Important Banks (D-SIBs)",
-   "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64025",
-   "source": "RBI Press Releases",
-   "category": "Regulatory",
-   "published": "2026-11-23T11:00:00Z",
-   "summary": "Covered by 6 sources (RBI, Fortune India, Business Standard…). State Bank of India, HDFC Bank, and ICICI Bank continue to be identified as Domestic Systemically Important Banks (D-SIBs) under the same bucketing structure as in the 2025 list of D-SIBs . The additional Common Equity Tier 1 (CET1) requirement for these D-SIBs will be in addition to the capital conservation buffer."
+   "id": "fb55f7adcdec3f75",
+   "title": "Asian stocks rally as Huang's Nvidia return revives AI trade",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/asian-stocks-rally-as-huangs-nvidia-return-revives-ai-trade/articleshow/136117829.cms",
+   "source": "Economic Times Markets",
+   "category": "Markets",
+   "published": "2026-11-24T02:44:53Z",
+   "summary": "Covered by 5 sources (Economic Times, ANI, Reuters…). Asian shares saw significant gains as Nvidia's CEO Jensen Huang made a return that relieved market fears. The MSCI Asia-Pacific index rose by 4.6%, while Japan's Nikkei gained 4.5% after a local holiday. This movement followed a 31.5% surge in Nvidia shares, revealing optimism in the beleaguered AI sector. United States Treasury yields climbed alongside the dollar, signaling increased confidence in Fed tightening measures."
+  },
+  {
+   "id": "ea45b9ebb6ee1f40",
+   "title": "Why Trump pushed to bring Jensen Huang back on top at AI behemoth Nvidia",
+   "link": "https://www.business-standard.com/world-news/why-did-trump-push-to-bring-jensen-huang-back-on-top-at-ai-behemoth-nvidia-126112400052_1.html",
+   "source": "Press Trust of India",
+   "category": "Markets",
+   "published": "2026-11-24T02:25:38Z",
+   "summary": "Covered by 5 sources (Press Trust of India, Business Standard, Mint…). President Donald Trump saw little choice but to fight to reinstate Jensen Huang at AI behemoth Nvidia. The president has staked the nation's economic growth on artificial intelligence, and worried Huang's ouster was not only tanking the stock market -- but also risked putting the US behind Beijing in the race for dominance in the field if Huang, widely seen by backers and critics as a generational talent in artificial intelligence, were to be poached by a Chinese firm."
+  },
+  {
+   "id": "9f16526cc6eb5c4d",
+   "title": "Stock market open today or not? BSE, NSE closed on 24 Nov for Guru Nanak Jayanti? Check holiday calendar",
+   "link": "https://www.livemint.com/market/stock-market-news/stock-market-open-today-or-not-bse-nse-closed-on-24-nov-for-guru-nanak-jayanti-check-holiday-calendar-11795480929821.html",
+   "source": "Mint Markets",
+   "category": "Markets",
+   "published": "2026-11-24T01:10:03Z",
+   "summary": "Covered by 5 sources (Moneycontrol.com, Business Standard, NDTV…). Indian equity markets will close on 24 November for Guru Nanak Jayanti. MCX will pause morning trading and reopen from 5 pm to 11:30 pm, while NCDEX remains closed all day. Christmas is the final scheduled market holiday of 2026."
   },
   {
    "id": "661fee99cf72d902",
@@ -498,25 +516,16 @@
    "source": "Moneycontrol.com",
    "category": "Indirect Tax",
    "published": "2026-11-23T16:40:55Z",
-   "summary": "Covered by 5 sources (Moneycontrol.com, Aabkari Times, Mint…). Commerce Secretary Rajesh Agrawal said neither side had flagged this issue during negotiations, adding that industry players and their UK counterparts could have raised it and sought concessions under the relevant tariff line. Discover the latest Business News , Sensex , and Nifty updates. Obtain Personal Finance insights, tax queries, and expert opinions on Moneycontrol or download the Moneycontrol App to stay updated!"
+   "summary": "Covered by 4 sources (Moneycontrol.com, Mint, Economic Times…). Commerce Secretary Rajesh Agrawal said neither side had flagged this issue during negotiations, adding that industry players and their UK counterparts could have raised it and sought concessions under the relevant tariff line. Bond-based release of detained stocks Agrawal clarified that the government had not directed the DRI to release consignments at the preferential duty rate under CETA. It had instead requested the agency to facilitate their release against bonds, following prescribed procedures, while the classification issue is resolved. He said that, to his knowledge, the cargo had been released."
   },
   {
-   "id": "5c81ea1345840e60",
-   "title": "Nvidia stock skyrockets 30% after Jensen Huang becomes CEO again - Trump welcomes reinstatement",
-   "link": "https://www.livemint.com/market/stock-market-news/nvidia-brings-back-jensen-huang-as-ceo-ai-chipmaker-stock-rallies-31-11795443628972.html",
-   "source": "Mint Markets",
-   "category": "Markets",
-   "published": "2026-11-23T14:21:36Z",
-   "summary": "Covered by 5 sources (BusinessLine, Mint, Business Standard…). Nvidia’s board unanimously reinstated Jensen Huang as CEO, citing confidence in his leadership and no national security concerns after consulting US officials. President Donald Trump welcomed the decision. Nvidia shares surged about 30% at Monday’s open, while other AI-related stocks also rallied."
-  },
-  {
-   "id": "8638bcee2070b589",
-   "title": "Tata Sons board meet postponed to Nov 30 after Noel raises concerns",
-   "link": "https://www.business-standard.com/companies/news/tata-sons-board-meet-postponed-to-nov-30-after-noel-raises-concerns-126112300775_1.html",
-   "source": "Press Trust of India",
-   "category": "Business",
-   "published": "2026-11-23T11:08:58Z",
-   "summary": "Covered by 4 sources (Telegraph India, Rediff.com, Press Trust of India…). Tata Sons on Monday postponed a crucial board meeting which was set to discuss the way ahead on the listing of the holding company of the country's largest conglomerate by four days to November 30. The postponement has been necessitated after a letter from Tata Trusts chairman Noel Tata on Sunday raising concerns about the mandatory seven-day notice period for a board meeting not being followed, as the agenda was put up only four days in advance."
+   "id": "6c1fe5b6ba4ad447",
+   "title": "RBI releases 2026 list of Domestic Systemically Important Banks (D-SIBs)",
+   "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64025",
+   "source": "RBI Press Releases",
+   "category": "Regulatory",
+   "published": "2026-11-23T11:00:00Z",
+   "summary": "Covered by 4 sources (RBI, Fortune India, Business Standard…). State Bank of India, HDFC Bank, and ICICI Bank continue to be identified as Domestic Systemically Important Banks (D-SIBs) under the same bucketing structure as in the 2025 list of D-SIBs . The additional Common Equity Tier 1 (CET1) requirement for these D-SIBs will be in addition to the capital conservation buffer."
   },
   {
    "id": "68e1fbf8e095cd05",
@@ -535,20 +544,7 @@
    "category": "Direct Tax",
    "published": "2026-11-23T08:29:59Z",
    "summary": "Covered by 4 sources (The Economic Times, Livemint, TaxGuru…). Delhi ITAT quashes AY 2013–14 reassessment as alleged bogus sales did not establish ₹50 lakh escaped income under Section 149(1)(b). The Delhi ITAT held that the gross value of alleged bogus sales could not, on the facts of the case, establish escapement of income chargeable to tax of ₹50 lakh or more for reopening beyond three years under section 149(1)(b) of the Income-tax Act, 1961. The Assessing Officer treated sales of ₹1.65 crore as unexplained bank credits at the reopening stage but ultimately assessed an estimated profit of ₹20.69 lakh ."
-  },
-  {
-   "id": "60fe8bef74899c5d",
-   "title": "Bank holiday today Tuesday, 24 November: Branches closed in these 21 cities across India — Check RBI list and reasons",
-   "link": "https://www.livemint.com/money/personal-finance/bank-holiday-today-tuesday-24-november-branches-closed-in-these-21-cities-across-india-check-rbi-list-and-reasons-11795479485133.html",
-   "source": "Mint Money",
-   "category": "Regulatory",
-   "published": "2026-11-24T01:19:11Z",
-   "summary": "Covered by 3 sources (Mint, Livemint, NDTV Profit). Bank branches will remain closed in 21 cities across India on 24 November, while others will continue to operate as usual. Check the complete city-wise list to find out whether your bank branch will remain open or closed today."
   }
  ],
- "skipped_sources": [
-  "Moneycontrol Business (ParseError: mismatched tag: line 18, column 5)",
-  "Moneycontrol Economy (ParseError: mismatched tag: line 18, column 5)",
-  "Moneycontrol Latest (ParseError: mismatched tag: line 18, column 5)"
- ]
+ "skipped_sources": []
 }

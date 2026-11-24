@@ -1,50 +1,385 @@
 {
- "generated": "2026-11-24T15:28:03Z",
+ "generated": "2026-11-24T17:23:51Z",
  "daily": [
   {
-   "id": "131c2d8030058a5f",
-   "title": "Centre extends regional air connectivity fund’s tax exemption through FY30",
-   "link": "https://www.thehindubusinessline.com/economy/logistics/centre-extends-regional-air-connectivity-funds-tax-exemption-through-fy30/article71739216.ece",
-   "source": "BusinessLine Economy",
-   "category": "Business",
-   "published": "2026-11-24T15:14:08Z",
-   "summary": "Centre extends tax exemption for Regional Air Connectivity Fund Trust’s receipts through FY30 to preserve funding for UDAN regional connectivity. Accordingly, the exemption allows the trust to retain eligible government grants, airline levies, proceeds from forfeited bank guarantees and interest earned on these receipts without an income-tax deduction, supporting the funding mechanism for regional air connectivity. As per two notifications dated November 23 issued by the Central Board of Direct Taxes (CBDT), the relief covers FY2025–26 under the Income-tax Act, 1961, and tax years 2026–27 to 2029–30 under the Income-tax Act, 2025."
+   "id": "d634c59da8653de6",
+   "title": "Foreign Tax Credit Cannot Be Denied for Delayed Form 67 Filing: ITAT Hyderabad",
+   "link": "https://taxguru.in/income-tax/foreign-tax-credit-cannot-denied-delayed-form-67-filing-itat-hyderabad.html",
+   "source": "TaxGuru Income Tax",
+   "category": "Direct Tax",
+   "published": "2026-11-24T16:58:49Z",
+   "summary": "ITAT Hyderabad allows foreign tax credit, holding that the Form 67 filing deadline under Rule 128(9) is directory rather than mandatory. Summary : The Hyderabad Bench of the Income Tax Appellate Tribunal (ITAT), in Sivakumar Chiluvuri Vs ADIT , allowed the assessee’s claim for Foreign Tax Credit (FTC) for Assessment Year 2018-19, holding that the time limit prescribed under Rule 128(9) of the Income Tax Rules, 1962, for furnishing Form No.67 was directory rather than mandatory."
   },
   {
-   "id": "373ba52f4f51365d",
-   "title": "India’s LPG production hits record high during April-October 2026",
-   "link": "https://www.thehindubusinessline.com/economy/indias-lpg-production-hits-record-high-during-april-october-2026/article71739122.ece",
-   "source": "BusinessLine Economy",
+   "id": "413c8b62d7d80960",
+   "title": "National Workshop & Interactive Meet: Strengthening Statutory Audit in PSUs -An Initiative of ICAI under the aegis of CAG",
+   "link": "https://ibgnews.com/2026/11/24/national-workshop-interactive-meet-strengthening-statutory-audit-in-psus-an-initiative-of-icai-under-the-aegis-of-cag/",
+   "source": "IBG News",
+   "category": "Accounting",
+   "published": "2026-11-24T16:53:51Z",
+   "summary": "National Workshop & Interactive Meet: Strengthening Statutory Audit in PSUs - An Initiative of ICAI under the aegis of Comptroller and Auditor General of India (CAG) First-of-its-kind National Workshop and Interactive Meet, featuring two panel discussions and two technical sessions Focus on strengthening audit quality, transparency and accountability in PSUs. The Institute of Chartered Accountants..."
+  },
+  {
+   "id": "0a53d1af50bd32fb",
+   "title": "Section 80P Deduction Requires Verification of Cooperative Bank Status: ITAT Jodhpur",
+   "link": "https://taxguru.in/income-tax/section-80p-deduction-requires-verification-cooperative-bank-status-itat-jodhpur.html",
+   "source": "TaxGuru Income Tax",
+   "category": "Direct Tax",
+   "published": "2026-11-24T16:43:13Z",
+   "summary": "ITAT Jodhpur remands Section 80P(2)(d) deduction claims to verify the status of cooperative entities in light of a Supreme Court ruling. Summary : The Jodhpur Bench of the Income Tax Appellate Tribunal (ITAT), in Hanumangarh Kendriya Sahakari Bank Ltd. Vs CIT(A) , restored four appeals concerning disallowance of deductions aggregating to Rs.12,96,80,772 under Section 80P(2)(d) of the Income Tax Act, 1961, for Assessment Years 2013-14 to 2016-17."
+  },
+  {
+   "id": "0955114cfd8202ca",
+   "title": "Section 68 Addition Unsustainable Where Loan Repayment Is Undisputed: ITAT Surat",
+   "link": "https://taxguru.in/income-tax/section-68-addition-unsustainable-loan-repayment-undisputed-itat-surat.html",
+   "source": "TaxGuru Income Tax",
+   "category": "Direct Tax",
+   "published": "2026-11-24T16:42:55Z",
+   "summary": "ITAT Surat upholds deletion of Rs.8.16 lakh additions relating to alleged accommodation entries where unsecured loan repayment was established. Summary : The Surat Bench of the Income Tax Appellate Tribunal (ITAT), in DCIT Vs Gordhanbhai Ranchhodbhai Asodaria , dismissed the Revenue’s appeal against the deletion of additions aggregating to Rs.8,16,077 relating to alleged accommodation entries, interest expenditure and unaccounted commission for Assessment Year 2013-14."
+  },
+  {
+   "id": "39fa3ae1b61e90bd",
+   "title": "Entire HMT Closure Compensation Exempt Under Section 10(10B): ITAT Chandigarh",
+   "link": "https://taxguru.in/income-tax/entire-hmt-closure-compensation-exempt-section-10-10b-itat-chandigarh.html",
+   "source": "TaxGuru Income Tax",
+   "category": "Direct Tax",
+   "published": "2026-11-24T16:34:48Z",
+   "summary": "ITAT Chandigarh allowed full exemption under Section 10(10B) on compensation received by an HMT employee following closure of its Tractor Division. Summary: The Chandigarh Bench of the Income Tax Appellate Tribunal (ITAT), in Bijender Singh Dhankhar Vs ITO , allowed the assessee’s claim for exemption under Section 10(10B) of the Income Tax Act, 1961, in respect of compensation received following the closure of the Tractor Division of HMT Ltd."
+  },
+  {
+   "id": "70bdf25967e5ea5e",
+   "title": "Bogus TDS claims cause Rs 2.6 crore loss to Keralam’s income tax department",
+   "link": "https://timesofindia.indiatimes.com/city/kochi/bogus-tds-claims-cause-rs-2-6-crore-loss-to-keralams-income-tax-department/articleshow/136136384.cms",
+   "source": "The Times of India",
+   "category": "Direct Tax",
+   "published": "2026-11-24T16:09:00Z",
+   "summary": "The cybercrime police station in Kochi registered an FIR for allegedly causing a wrongful loss to the income tax department through bogus TDS claims. The accused allegedly committed a fraud to the tune of Rs 2.6 crore."
+  },
+  {
+   "id": "6ca57312cbfc306a",
+   "title": "OECD Highlights India’s WhatsApp Case in Scrutiny of Unfair Data-Sharing by Dominant Firms",
+   "link": "https://www.policyedge.in/p/oecd-highlights-indias-whatsapp-case-in-scrutiny-of-unfair-data-sharing-by-dominant-firms",
+   "source": "The Policy Edge",
+   "category": "Regulatory",
+   "published": "2026-11-24T16:05:30Z",
+   "summary": "The Competition Commission of India (CCI) found that requiring industrial customers to meet minimum payment obligations even during emergency shutdowns beyond their control unfairly shifted risk to them. The appellate tribunal upheld that finding. The CCI found a unilateral contract-termination clause was not abusive in the circumstances , considering changed market conditions, ONGC’s operational risks and how it used the clause. Exploitative conduct concerns a firm using its market power to obtain an unfair advantage directly from customers or business partners."
+  },
+  {
+   "id": "935955dfb9fe3637",
+   "title": "CBDT Notifies Tax Exemption for Regional Air Connectivity Fund Trust Under Section 10(46) for AY 2026-27",
+   "link": "https://thetaxcorp.in/article/cbdt-notifies-tax-exemption-for-regional-air-connectivity-fund-trust-under",
+   "source": "TaxCorp AI",
+   "category": "Direct Tax",
+   "published": "2026-11-24T14:08:15Z",
+   "summary": ""
+  },
+  {
+   "id": "2db939f6fde2b5f7",
+   "title": "NFRA-2 Filing for 2025-26: Applicability, Rule 3 Thresholds, and Auditor Compliance Steps",
+   "link": "https://thetaxcorp.in/article/nfra-2-filing-for-2025-26-applicability-rule-3-thresholds-and-auditor",
+   "source": "TaxCorp AI",
+   "category": "Accounting",
+   "published": "2026-11-24T14:08:13Z",
+   "summary": ""
+  },
+  {
+   "id": "63d5ea31bc478db0",
+   "title": "AY 2026-27 Audit Cases: The Separate 30-Day Verification Deadline After the CBDT Extension",
+   "link": "https://thetaxcorp.in/article/ay-2026-27-audit-cases-the-separate-30-day-verification-deadline-after-the-cbdt",
+   "source": "TaxCorp AI",
+   "category": "Direct Tax",
+   "published": "2026-11-24T14:08:07Z",
+   "summary": ""
+  },
+  {
+   "id": "a8760495a0114b1a",
+   "title": "Filing Fees, Late Fees, Interest and Penalties Across Indian Regulatory Regimes: A Practitioner's Situational Guide",
+   "link": "https://thetaxcorp.in/article/filing-fees-late-fees-interest-and-penalties-across-indian-regulatory-regimes-a",
+   "source": "TaxCorp AI",
+   "category": "Direct Tax",
+   "published": "2026-11-24T14:08:07Z",
+   "summary": ""
+  },
+  {
+   "id": "88b9998a82cdee5d",
+   "title": "​Centre Amends Scrapping Rules, Saves Automakers From Rs 25,000 Crore Burden",
+   "link": "https://the420.in/centre-amends-scrapping-rules-saves-automakers-from-rs-25000-crore-burden/",
+   "source": "The 420.in",
+   "category": "Accounting",
+   "published": "2026-11-24T13:44:42Z",
+   "summary": "The Central Government has amended vehicle scrapping regulations, relieving automobile manufacturers of a potential financial burden estimated at Rs 25,000 ​The Ministry of Environment, Forest and Climate Change issued a notification on November 20 amending the Environment Protection (End-of-Life Vehicles) Rules, 2025. The notification clarifies that producer obligations under Rule 4(6) will take effect only when an automaker permanently ceases business. Companies maintaining active operations in India are exempt from making immediate balance sheet provisions for future recycling liabilities."
+  },
+  {
+   "id": "267e942171daa60a",
+   "title": "ICAI Releases Third Edition of Technical Guide on GST Reconciliation Statement - Form GSTR-9C (November 2026)",
+   "link": "https://studycafe.in/icai-releases-third-edition-of-technical-guide-on-gst-reconciliation-statement-form-gstr-9c-november-2026-427881.html",
+   "source": "StudyCafe",
+   "category": "Indirect Tax",
+   "published": "2026-11-24T12:32:40Z",
+   "summary": "The ICAI has released the third edition of its Technical Guide on GST Reconciliation Statement (Form GSTR-9C), providing comprehensive table-wise guidance, clarifications, illustrations and practical insights. On behalf of the Institute of Chartered Accountants of India ( ICAI ) , the Publication and CDS Directorate has released a publication titled \"Technical Guide on GST Reconciliation Statement-Form GSTR-9C (November 2026)\" . This is the third edition of this publication. Its first edition was released in November 2023 , and the second one was released in December 2025 ."
+  },
+  {
+   "id": "15a77846727a6311",
+   "title": "Aluminium product makers seek zero import duty on raw metal ahead of Union Budget 2027-28",
+   "link": "https://a2ztaxcorp.net/aluminium-product-makers-seek-zero-import-duty-on-raw-metal-ahead-of-union-budget-2027-28/",
+   "source": "A2Z Taxcorp LLP",
    "category": "Economy",
-   "published": "2026-11-24T15:11:32Z",
-   "summary": "According to the Petroleum Planning & Analysis Cell, India’s average daily LPG production rose 24 per cent year on year to around 43,333 tonnes in April-October 2026, up 23 per cent from the corresponding period in 2024"
+   "published": "2026-11-24T11:55:05Z",
+   "summary": "Ahead of the Union budget for 2027-28, aluminium product manufacturers have urged the government to allow duty-free imports of raw metal to boost domestic Manufacturers’ body ALEMAI has written a letter to Finance Minister Nirmala Sitharaman, seeking to bring down the basic customs duty on primary aluminium to zero, arguing that the current 7.5 percent levy, which translates into an effective import duty of 8.25 per cent including social welfare surcharge, is hurting MSMEs (micro, small and medium enterprises) and domestic value addition."
   },
   {
-   "id": "8a67f4265549d5e8",
-   "title": "8th Pay Commission: BPMS demands 6% annual increment, five career upgrades and higher insurance cover for employees",
-   "link": "https://www.livemint.com/money/personal-finance/8th-pay-commission-bpms-demands-6-annual-increment-five-career-upgrades-and-higher-insurance-cover-for-employees-11795531431830.html",
-   "source": "Mint Money",
-   "category": "Business",
-   "published": "2026-11-24T14:54:21Z",
-   "summary": "Central government employees have submitted 73 demands to the 8th Pay Commission, including a 6% annual increment, restoration of OPS, 45-day paternity leave, five financial upgradations, higher insurance cover and improved medical benefits."
+   "id": "cf8b51972c24dc3d",
+   "title": "India-UK Trade Deal: Commerce Ministry Seeks Release Of Seized Bulk Scotch Whisky Imports Amid Customs Tariff",
+   "link": "https://www.freepressjournal.in/business/india-uk-trade-deal-commerce-ministry-seeks-release-of-seized-bulk-scotch-whisky-imports-amid-customs-tariff-dispute",
+   "source": "Free Press Journal",
+   "category": "Indirect Tax",
+   "published": "2026-11-24T11:36:00Z",
+   "summary": "The Commerce Ministry has requested the Directorate of Revenue Intelligence to release seized bulk Scotch whisky shipments from the UK amid a Customs tariff classification dispute. Officials are exploring a technical solution to honour preferential tariff commitments under the India-UK trade agreement without violating previous court rulings on import classification"
   },
   {
-   "id": "9d19f710e2f71ea3",
-   "title": "India’s non-basmati rice export surges 6.7% in April-October",
-   "link": "https://www.thehindubusinessline.com/economy/agri-business/indias-non-basmati-rice-export-surges-67-in-april-october/article71738885.ece",
-   "source": "BusinessLine Economy",
+   "id": "20afe5904aae4fb1",
+   "title": "India aluminium body urges stable policy, higher import duties ahead of annual budget",
+   "link": "https://m.economictimes.com/industry/indl-goods/svs/metals-mining/india-aluminium-body-urges-stable-policy-higher-import-duties-ahead-of-annual-budget/articleshow/136128922.cms",
+   "source": "The Economic Times",
    "category": "Economy",
-   "published": "2026-11-24T14:52:59Z",
-   "summary": "Up on demand for white and broken varieties as exporters offer the cereal at competitive prices Latest official data show that exports of non-basmati white rice recorded 18.3 per cent growth at 2.82 mt during April-October of 2026-27 against 2.38 mt in the corresponding period last year. Similarly, broken rice shipments surged 73.5 per cent to 0.98 mt from 0.56 mt. Parboiled rice shipment, once a dominant item of Indian exporters, has slipped 4.6 per cent to 4.9 mt from 5.1 mt, official data show. The parboiled rice export also included 42,558 tonnes of GI-tagged premium varieties."
+   "published": "2026-11-24T11:32:31Z",
+   "summary": "The Aluminium Association of India has requested government support ahead of the fiscal 2028 budget announcement. They proposed raising customs duties on primary aluminium and downstream products to curb rising imports. Key producers like Hindalco Industries and Vedanta are increasing investments in new capacity for future growth."
   },
   {
-   "id": "9f6c2cdfae006055",
-   "title": "Godrej Wealth enters Bengaluru, targets ₹1 lakh crore AUM by 2031",
-   "link": "https://www.thehindubusinessline.com/markets/godrej-wealth-enters-bengaluru-targets-1-lakh-crore-aum-by-2031/article71738746.ece",
-   "source": "BusinessLine Markets",
+   "id": "bd0b63f20b66cb67",
+   "title": "Centre Tweaks Vehicle Scrapping Rules, Automakers Escape Potential Multi-Crore Financial Burden",
+   "link": "https://www.freepressjournal.in/business/centre-tweaks-vehicle-scrapping-rules-automakers-escape-potential-multi-crore-financial-burden",
+   "source": "Free Press Journal",
+   "category": "Accounting",
+   "published": "2026-11-24T11:26:49Z",
+   "summary": "The government has revised vehicle scrapping rules, easing financial liabilities for automakers while retaining mandatory recycling targets and environmental compliance requirements. Centre Tweaks Vehicle Scrapping Rules | New Delhi: In a significant relief for India's automobile industry , the government has amended vehicle scrapping regulations, clarifying that operational automakers will not be required to recognise future recycling obligations as current liabilities. The move is expected to ease financial pressure on automobile manufacturers while ensuring compliance with environmental sustainability and vehicle recycling norms."
+  },
+  {
+   "id": "e7db5c663c40a5f0",
+   "title": "Budget 2027: Aluminium industry seeks customs duty changes to protect ₹4 lakh crore investment pipeline",
+   "link": "https://manufacturing.economictimes.indiatimes.com/news/industry/budget-2027-aluminium-industry-seeks-customs-duty-changes-to-protect-4-lakh-crore-investment-pipeline/136127191?utm_source=latest_news&utm_medium=homepage",
+   "source": "ET Manufacturing",
+   "category": "Indirect Tax",
+   "published": "2026-11-24T11:23:24Z",
+   "summary": "AAI has proposed a 10% basic customs duty on primary aluminium and a 15% duty on downstream product imports, among other measures, ahead of Budget 2027-28."
+  },
+  {
+   "id": "5ea8165897e5215c",
+   "title": "Cash Transaction Limit: RBI New Money Transfer Rules 2026",
+   "link": "https://www.caclubindia.com/articles/cash-transaction-limit-rbi-new-money-transfer-rules-2026-56745.asp",
+   "source": "CAclubindia",
+   "category": "Regulatory",
+   "published": "2026-11-24T11:02:00Z",
+   "summary": "The Reserve Bank of India has issued the Domestic Money Transfer (DMT) Directions, 2026 with immediate effect. The Directions consolidate various existing instr While the Directions have been presented as RBI's new Domestic Money Transfer framework, many of the transaction limits remain unchanged. The primary objective of the Directions is to consolidate existing instructions, strengthen customer protection measures and enhance operational safeguards. The Domestic Money Transfer (DMT) framework was originally introduced to facilitate small-value fund transfers through formal banking channels, particularly for migrant workers and individuals who may not have easy access to regular banking facilities."
+  },
+  {
+   "id": "b7e2ece3db744eb1",
+   "title": "RBI Notification No. RBI/2026-27/305 - Small finance banks: Rs 1 crore minimum ticket size for securitisation notes",
+   "link": "https://www.caclubindia.com/notice_circulars/rbi-notification-no-rbi-2026-27-305-small-finance-banks-rs-1-crore-minimum-ticket-size-for-securitisation-notes-11708.asp",
+   "source": "CAclubindia",
+   "category": "Regulatory",
+   "published": "2026-11-24T11:02:00Z",
+   "summary": "RBI mandates a minimum ₹1 Crore ticket size for securitisation notes for Small Finance Banks from April 1, 2027. Learn about the new rules and compliance. 2. On a review, and in exercise of the powers conferred by the section 21 and 35A of the Banking Regulation Act, 1949, the Reserve Bank being satisfied that it is necessary and expedient in the public interest so to do, hereby issues the Amendment Directions hereinafter specified. “26. “The issuance, holding and subsequent transfer of securitisation notes under these Directions shall only be in a dematerialised form."
+  },
+  {
+   "id": "b703687dd79e58e4",
+   "title": "Customs Notification No. 95/2026-Customs (NT) - Chharchhum bridge added as Dharchula-Nepal land customs route",
+   "link": "https://www.caclubindia.com/notice_circulars/customs-notification-no-95-2026-customs-nt-chharchhum-bridge-added-as-dharchula-nepal-land-customs-route-11706.asp",
+   "source": "CAclubindia",
+   "category": "Indirect Tax",
+   "published": "2026-11-24T11:02:00Z",
+   "summary": "Discover the new Dharchula-Nepal land customs route via the Chharchhum bridge. Learn about this important trade and travel update. rrra vron t- E-t ri7rf,q fllqs ql{FD +1 Gftrqa-dT €€qr 63/ I ee4-frfi {@' fi t. r trcifi 2r ltIER, lee4, fuS 6-I.0fl. €. 830 reo EqiE 21 fttsr, rsq+ &'dEd qrd il rrqq'{. TfiTIERUI b'rrm rr, {qo-s 3, tsqrus tiir fr u-orsrd 6'qr qqr qr. fr q-d-dEr{ e[l.i ffiRtrd €sirc6-{fr? c-m oflUq{fl fr."
+  },
+  {
+   "id": "29d3f2ad61add5b8",
+   "title": "Customs Notification No. 96/2026-Customs (NT) - Tariff values of edible oils, brass scrap, areca nut, gold and silver",
+   "link": "https://www.caclubindia.com/notice_circulars/customs-notification-no-96-2026-customs-nt-tariff-values-of-edible-oils-brass-scrap-areca-nut-gold-and-silver-11711.asp",
+   "source": "CAclubindia",
+   "category": "Indirect Tax",
+   "published": "2026-11-24T11:02:00Z",
+   "summary": "Check the updated tariff values for edible oils, brass scrap, areca nut, gold, and silver as per Customs Notification No. 96/2026-Customs. Effective Nov 24, 2026. S.O. … (E).– In exercise of the powers conferred by sub-section (2) of section 14 of the Customs Act, 1962 (52 of 1962), the Central Board of Indirect Taxes & Customs, being satisfied that it is necessary and expedient to do so, hereby makes the following amendments in the notification of the Government of India in the Ministry of Finance (Department of Revenue), No."
+  },
+  {
+   "id": "438d8d44bb5cb726",
+   "title": "Rashi Peripherals RPTECH Customs Duty Demand Rs 34.62 Cr",
+   "link": "https://www.kalkine.co.in/article/announcements/rashi-peripherals-nserptech-did-it-receive-a-rs-3462-cr-customs-demand",
+   "source": "Kalkine India",
+   "category": "Indirect Tax",
+   "published": "2026-11-24T10:58:00Z",
+   "summary": "Rashi Peripherals (NSE:RPTECH) received a Rs 34.62 Cr customs duty and penalty order from JNCH on 24 Nov 2026. What this means for investors. You are reading a free article with opinions that may differ from the recommendation given by Kalkine in its paid research reports. Become a Kalkine member today to get access to our research reports, in-depth technical and fundamental research. Learn More Rashi Peripherals Limited (NSE:RPTECH) disclosed on 24 November 2026 that it received a customs adjudication order from the Commissioner of Customs (NS-V), Jawaharlal Nehru Custom House, Nhava Sheva, confirming a demand of Rs 34,62,17,701, inclusive…"
+  },
+  {
+   "id": "b5cf975e1790346b",
+   "title": "Rashi Peripherals Receives Rs 34.62 Crore Customs Demand Order",
+   "link": "https://www.multibagg.ai/market-pulse/articles/rashi-peripherals-customs-demand-order-cmwukxm4s001d2dmz0g41sbpp",
+   "source": "Multibagg AI",
+   "category": "Indirect Tax",
+   "published": "2026-11-24T10:56:30Z",
+   "summary": "Rashi Peripherals disclosed a Rs 34.62 crore customs duty and penalty demand plus interest, which it plans to treat as a contingent liability. Multibagg AI is an AI powered stock research and analysis platform. We provide data, information, content, and analytics for publicly traded Indian companies listed on NSE and BSE. AI can make mistakes, check important information. Prices might be delayed by a few minutes. Rashi Peripherals Limited has received a customs order confirming a Rs 34.62 crore demand for duty and penalty, plus applicable interest, according to its 24 November 2026 filing."
+  },
+  {
+   "id": "1ff18cf54647b835",
+   "title": "ICAI workshop reviews audit quality and accountability in public sector undertakings",
+   "link": "https://flipit.money/flips/icai-workshop-reviews-audit-quality-and-accountability-in-public-sector-undertakings",
+   "source": "FlipItMoney",
+   "category": "Accounting",
+   "published": "2026-11-24T10:54:43Z",
+   "summary": "A national workshop on statutory audits in public sector undertakings (PSUs) in New Delhi gathered 550 participants to discuss audit quality, financial reportin CAG K. Sanjay Murthy opened the workshop by underscoring the growing need to evaluate systems and internal controls, especially as PSUs embrace digital processes. He highlighted the role of data analytics in strengthening audit procedures, urged a closer look at cybersecurity risks, and emphasized the importance of robust data governance with the increasing integration of digitalisation in financial operations."
+  },
+  {
+   "id": "85348c4180698c24",
+   "title": "Explained: India-UK Scotch whisky classification issue",
+   "link": "https://www.deccanherald.com/business/explained-india-uk-scotch-whisky-classification-issue-4229489",
+   "source": "Deccan Herald",
+   "category": "Indirect Tax",
+   "published": "2026-11-24T10:39:33Z",
+   "summary": "Trade pact: India and the UK face a customs classification dispute over bulk Scotch whisky imports, impacting duty rates and preferential trade benefits."
+  },
+  {
+   "id": "efffbc73858f4905",
+   "title": "NIELIT Delhi Recruitment 2026 – Apply Online for Data Analyst, Cloud Administrator Posts",
+   "link": "https://www.freejobalert.com/articles/nielit-delhi-recruitment-2026-apply-online-for-data-analyst-cloud-administrator-posts-3084177",
+   "source": "FreeJobAlert.Com",
+   "category": "Regulatory",
+   "published": "2026-11-24T10:31:06Z",
+   "summary": "The National Institute of Electronics and Information Technology (NIELIT Delhi) has published the Recruitment 2026 notification for 2 vacancies, including Data Analyst and Cloud Administrator posts. Online form submission will begin on 23 November 2026 and end on 06 December 2026. Eligible candidates can apply through the official website, nielit.gov.in."
+  },
+  {
+   "id": "8328dcc44aae41cb",
+   "title": "Vehicle scrapping rules eased, automakers spared ₹25,000 crore burden",
+   "link": "https://www.business-standard.com/industry/news/environment-ministry-amends-vehicle-scrapping-rules-automakers-financial-burden-126112400575_1.html",
+   "source": "Business Standard",
+   "category": "Accounting",
+   "published": "2026-11-24T10:08:23Z",
+   "summary": "The Environment Ministry has clarified that provisions for future recycling liabilities will apply only when automakers permanently shut down, addressing a key industry concern"
+  },
+  {
+   "id": "8fa2280dbd040855",
+   "title": "PSU statutory audits: ICAI and CAG discuss cybersecurity, financial reporting and audit standards",
+   "link": "https://timesofindia.indiatimes.com/education/news/psu-statutory-audits-icai-and-cag-discuss-cybersecurity-financial-reporting-and-audit-standards/articleshow/136126369.cms",
+   "source": "The Times of India",
+   "category": "Accounting",
+   "published": "2026-11-24T10:03:00Z",
+   "summary": "A national workshop on statutory audits in public sector undertakings (PSUs) brought together around 550 participants in New Delhi to discuss audit quality, financial reporting, transparency and accountability. The discussions covered the responsibilities of statutory auditors, emerging challenges in audit practices and the need for consistency in financial reporting across Central and State PSUs."
+  },
+  {
+   "id": "b180f84b793d7477",
+   "title": "Greenply Industries Faces Arbitral Award of Rs 4.76 Crore Over Unpaid Manpower Supply Dues",
+   "link": "https://studycafe.in/greenply-industries-faces-arbitral-award-of-rs-4-76-crore-over-unpaid-manpower-supply-dues-427875.html",
+   "source": "StudyCafe",
+   "category": "Accounting",
+   "published": "2026-11-24T09:36:51Z",
+   "summary": "Greenply Industries has received an arbitral award of Rs 4.76 crore from the West Bengal Micro Small Enterprises Facilitation Council in a dispute concerning unpaid manpower supply service dues. The award has been passed in the matter of M/s. A.S. Multy Services Vs M/s. Greenply Industries Limited . Initially, the company was alleged to have not paid dues towards manpower supply services availed by the Company at its various warehouses from M/s. A.S. Multy Services . Thereafter, the matter was transferred to the West Bengal Micro Small Enterprises Facilitation Council, Kolkata, West Bengal."
+  }
+ ],
+ "breaking": [
+  {
+   "id": "b97ee364e91fb5c7",
+   "title": "IIFCL IPO: Govt to part sale stake, company to issue fresh shares",
+   "link": "https://www.business-standard.com/markets/ipo/iifcl-ipo-govt-to-part-sale-stake-company-to-issue-fresh-shares-126112400446_1.html",
+   "source": "Press Trust of India",
+   "category": "Regulatory",
+   "published": "2026-11-24T17:18:39Z",
+   "summary": "The government is looking to part sale its equity shareholding in IIFCL along with a fresh issue of shares by the company in the initial public offering (IPO), which is likely by the end of the current fiscal year, an official said. The Cabinet had earlier this year approved the IPO and listing of India Infrastructure Finance Company Ltd (IIFCL), and the work is on to file a draft paper with market regulator Sebi for approval."
+  },
+  {
+   "id": "77389a9cbe8e670b",
+   "title": "Ease of doing business remains a state-level challenge: USISPF chief",
+   "link": "https://www.business-standard.com/world-news/ease-of-doing-business-remains-a-state-level-challenge-usispf-chief-126112300971_1.html",
+   "source": "Business Standard",
    "category": "Business",
-   "published": "2026-11-24T14:51:44Z",
-   "summary": "Godrej Wealth expands to Bengaluru, aiming ₹1 lakh crore AUM by 2031 with AI-powered, high-touch wealth management for HNIs and UHNI clients. Godrej Wealth, the wealth management arm of Godrej Industries Group, has entered Bengaluru as part of its expansion strategy, targeting ₹1 lakh crore in assets under management (AUM) across 35 locations by 2031. The company will focus on high net-worth (HNI) and ultra high net-worth (UHNI) individuals, tapping into wealth generated by the city’s technology, start-up and global capability centre (GCC) ecosystems."
+   "published": "2026-11-24T17:02:18Z",
+   "summary": "USISPF chief Mukesh Aghi says pending Section 301 probes are delaying the India-US trade deal, but mid-term election results are unlikely to affect negotiations"
+  },
+  {
+   "id": "876c9837312c4569",
+   "title": "Labour Ministry to seek tax relief for EPFO's new withdrawal plan",
+   "link": "https://www.business-standard.com/finance/news/labour-ministry-to-seek-tax-relief-for-epfo-s-new-withdrawal-plan-126112400963_1.html",
+   "source": "Business Standard",
+   "category": "Direct Tax",
+   "published": "2026-11-24T16:52:49Z",
+   "summary": "The Labour Ministry will seek amendments to the Income Tax Act, 2025, to ensure tax exemptions for periodic EPF withdrawals and contributions under the proposed plan."
+  },
+  {
+   "id": "3e43490cadd79ed4",
+   "title": "Global Market Today Live Updates: Trump may have gained $15 million from Nvidia stock rally after Huang’s return",
+   "link": "https://indianexpress.com/article/world/global-market-today-live-updates-nikkei-225-dow-jones-kospi-vix-tsx-world-stock-markets-latest-news-10974572/",
+   "source": "The Indian Express",
+   "category": "Markets",
+   "published": "2026-11-24T16:37:09Z",
+   "summary": ""
+  },
+  {
+   "id": "3d8714ad8eeb5f3a",
+   "title": "Union Budget needs seven reforms to unlock infrastructure investment",
+   "link": "https://www.business-standard.com/opinion/columns/union-budget-needs-seven-reforms-to-unlock-infrastructure-investment-126112401115_1.html",
+   "source": "Business Standard",
+   "category": "Economy",
+   "published": "2026-11-24T16:33:57Z",
+   "summary": "The seven proposals include raising infrastructure spending to ₹14 trillion, prioritising railways, reviving municipal bonds and ring-fencing asset monetisation proceeds. premium India needs a stronger infrastructure investment pipeline, better urban financing and greater private sector participation to sustain economic growth, with seven Budget proposals outlining ways to accelerate infrastructure development. | Image: Bloom"
+  },
+  {
+   "id": "f0cd0d507a585675",
+   "title": "India needs a trained regulatory cadre to strengthen economic oversight",
+   "link": "https://www.business-standard.com/opinion/columns/india-needs-a-trained-regulatory-cadre-to-strengthen-economic-oversight-126112401101_1.html",
+   "source": "Business Standard",
+   "category": "Economy",
+   "published": "2026-11-24T16:31:16Z",
+   "summary": "A dedicated regulatory cadre, backed by UPSC-led recruitment and specialised training, can strengthen accountability and expertise across India's statutory regulators. premium India needs a specialised regulatory cadre with structured recruitment, training and cross-sector experience to strengthen the quality, accountability and independence of statutory regulators, argues former civil servant K P Krishnan. | Image: Shutt"
+  },
+  {
+   "id": "1579c3849220caef",
+   "title": "Xiaomi's revenue falls 5.2% as global memory crunch hits smartphone sales",
+   "link": "https://www.business-standard.com/companies/quarterly-results/xiaomi-s-revenue-falls-5-2-as-global-memory-crunch-hits-smartphone-sales-126112401129_1.html",
+   "source": "Bloomberg",
+   "category": "Economy",
+   "published": "2026-11-24T16:18:36Z",
+   "summary": "Rising memory costs hurt shipments of budget phones, while EV investments deepen losses Xiaomi faces rising memory costs and falling smartphone shipments as the global chip shortage squeezes its business."
+  },
+  {
+   "id": "3bb80fa9c4c39106",
+   "title": "The article a CII president will write in 2047: A roadmap for industry",
+   "link": "https://www.business-standard.com/opinion/columns/the-article-a-cii-president-will-write-in-2047-a-roadmap-for-industry-126112401097_1.html",
+   "source": "Business Standard",
+   "category": "Business",
+   "published": "2026-11-24T15:58:55Z",
+   "summary": "From deeper domestic capabilities to international competitiveness, here are 6 priorities for industry"
+  },
+  {
+   "id": "bb6b1e2bf54f3626",
+   "title": "RBI has already answered its own listing question in case of Tata Sons",
+   "link": "https://www.business-standard.com/opinion/columns/rbi-has-already-answered-its-own-listing-question-in-case-of-tata-sons-126112401094_1.html",
+   "source": "Business Standard",
+   "category": "Regulatory",
+   "published": "2026-11-24T15:55:01Z",
+   "summary": "Tata Sons met public-company standards without selling shares. The regulator's own rules show that transparency needs no listing premium The regulator itself admits, in writing, that listed-company transparency is possible without listing. That is where this debate belongs"
+  },
+  {
+   "id": "4c070555b252723e",
+   "title": "Economic activity growth hits 36-month high of 12.8% in October: ICRA",
+   "link": "https://www.business-standard.com/economy/news/economic-activity-growth-hits-36-month-high-of-12-8-in-october-icra-126112401084_1.html",
+   "source": "Business Standard",
+   "category": "Economy",
+   "published": "2026-11-24T15:40:53Z",
+   "summary": "Growth was partly driven by a low base, while improved performance across 11 of 16 high-frequency indicators supported October's expansion, the rating agency said"
+  },
+  {
+   "id": "7e47a3e59ff353d0",
+   "title": "JSW Motors unveils new vehicle badge ahead of its Dec 3 product debut",
+   "link": "https://www.business-standard.com/industry/auto/jsw-motors-unveils-new-vehicle-badge-ahead-of-its-dec-3-product-debut-126112401042_1.html",
+   "source": "Business Standard",
+   "category": "Business",
+   "published": "2026-11-24T15:08:05Z",
+   "summary": "JSW Motors' first offering is expected to be a plug-in hybrid SUV based on China's Chery platform; the company will manufacture cars in Maharashtra and have a separate dealership network"
+  },
+  {
+   "id": "2c35ff8291f79eef",
+   "title": "SEBI's MF Lite: Will Passive Fund Investors See Cost Benefits at Last?",
+   "link": "https://flipit.money/flips/sebis-mf-lite-will-passive-fund-investors-see-cost-benefits-at-last",
+   "source": "FlipItMoney",
+   "category": "Regulatory",
+   "published": "2026-11-24T14:51:31Z",
+   "summary": "SEBI's MF Lite framework, effective March 16, 2025, introduces simplified regulations for eligible passive MFs, including index funds and ETFs with minimum AUM Ad 24/11/2026, 8:18:01 pm SEBI's MF Lite: Will Passive Fund Investors See Cost Benefits at Last? SEBI's MF Lite framework, effective March 16, 2025, introduces simplified regulations for eligible passive MFs, including index funds and ETFs with minimum AUM thresholds. It relaxes compliance, governance, and documentation requirements to lower operational costs and encourage new entrants, potentially increasing competition and leading to more affordable passive investment options."
   },
   {
    "id": "8363c2459fa828cc",
@@ -56,240 +391,40 @@
    "summary": "Axis Bank added 281,705 cards during the month, while industry-wide additions crossed 1.4 million; HDFC Bank added just 52,478 cards, down sharply from September. Axis Bank led credit card additions in October, adding 281,705 cards as industry-wide additions more than doubled year-on-year, while HDFC Bank's monthly additions dropped sharply from September."
   },
   {
-   "id": "0aa767c6bbe37207",
-   "title": "Dual Approval by Additional CIT and Principal CIT Invalidates Reassessment: ITAT Delhi",
-   "link": "https://taxguru.in/income-tax/dual-approval-additional-cit-principal-cit-invalidates-reassessment-itat-delhi.html",
-   "source": "TaxGuru Income Tax",
-   "category": "Direct Tax",
-   "published": "2026-11-24T14:33:20Z",
-   "summary": "Delhi ITAT quashes reassessment beyond four years as dual approval by Additional CIT and Principal CIT violated Section 151 requirements. The assessee, Yodel Instruments Private Limited, filed an appeal against the order dated 21.04.2026 passed by the National Faceless Appeal Centre, Delhi, arising from the reassessment order dated 12.12.2019 passed under Section 143(3) read with Section 147 of the Income-tax Act, 1961, for AY 2012-13. During the appellate proceedings, the assessee raised an additional legal ground challenging the validity of the approval obtained under Section 151 for reopening the assessment."
-  },
-  {
-   "id": "677b80b646663d73",
-   "title": "Suspended Director Cannot Seek Inspection of Creditor Claims Behind Creditor’s Back: NCLT Mumbai",
-   "link": "https://taxguru.in/company-law/suspended-director-cannot-seek-inspection-creditor-claims-creditors-nclt-mumbai.html",
-   "source": "TaxGuru Company Law",
+   "id": "dc9915d246145c40",
+   "title": "RBI says forex inflows under swap facility reach $72.85 billion",
+   "link": "https://newsonair.gov.in/rbi-says-forex-inflows-under-swap-facility-reach-72-85-billion/?utm",
+   "source": "News On AIR",
    "category": "Regulatory",
-   "published": "2026-11-24T14:28:19Z",
-   "summary": "NCLT Mumbai rejects suspended director’s plea to inspect creditor claim forms, citing lack of locus standi and non-joinder of a necessary party. Summary: NCLT Mumbai dismissed an application under Section 60(5) of the Insolvency and Bankruptcy Code, 2016 filed by a suspended director of A A Estates Private Ltd seeking inspection and copies of claim forms submitted by creditors during the corporate insolvency resolution process (CIRP) . The applicant questioned the difference between the claims admitted in the CIRP of RNA Corp and A A Estates."
-  },
-  {
-   "id": "20c6604364c8d1d6",
-   "title": "Extraordinary Impairment Loss Excluded from Operating Expenses for Transfer Pricing Benchmarking: ITAT Chennai",
-   "link": "https://taxguru.in/income-tax/extraordinary-impairment-loss-excluded-operating-expenses-transfer-pricing-benchmarking-itat-chennai.html",
-   "source": "TaxGuru Income Tax",
-   "category": "Direct Tax",
-   "published": "2026-11-24T14:26:42Z",
-   "summary": "ITAT Chennai excludes ₹4.64 crore impairment loss from operating expenses, rejects an unsuitable comparable and deletes management fee TP adjustment. 1. Aforesaid appeal by assessee for Assessment Year (AY) 2013-14 arises out of final assessment order dated 21.06.2017 passed by learned Deputy Commissioner of Income Tax, Corp. Circle 1(1), Chennai (in Short ‘AO) u/s 143(3) r.w.s. 144C of the Act pursuant to the directions of learned Dispute Resolution Panel-2, Bangalore [in shot ‘DRP’] dated 02.05.2017."
-  },
-  {
-   "id": "e0d1cb39d1a306cf",
-   "title": "Management Fee ALP Cannot Be Fixed at Nil Without Applying Prescribed TP Method: ITAT Chennai",
-   "link": "https://taxguru.in/income-tax/management-fee-alp-cannot-fixed-nil-without-applying-prescribed-tp-method-itat-chennai.html",
-   "source": "TaxGuru Income Tax",
-   "category": "Direct Tax",
-   "published": "2026-11-24T14:26:17Z",
-   "summary": "ITAT Chennai deletes management fee TP adjustment and directs benchmarking of FCCD interest at SBI Prime Lending Rate plus 2%. Regarding interest on Fully and Compulsorily Convertible Debentures (FCCDs), the assessee had issued debentures to its Associated Enterprise, Flakt Woods Cyprus Ltd., carrying interest at 12% per annum. The TPO initially proposed a transfer pricing adjustment of Rs. 89.38 lakh by adopting comparable debenture interest rates available in the public domain."
-  },
-  {
-   "id": "62900a8841421517",
-   "title": "Rupee gains despite dollar strength; SBI warns against sharp depreciation",
-   "link": "https://www.business-standard.com/finance/news/rupee-gains-despite-dollar-strength-sbi-warns-against-sharp-depreciation-126112400965_1.html",
-   "source": "Business Standard",
-   "category": "Regulatory",
-   "published": "2026-11-24T14:13:46Z",
-   "summary": "SBI Research says excessive rupee depreciation could amplify economic shocks, while a 25 basis point rate hike by the RBI would be sufficient given the inflation outlook"
-  },
-  {
-   "id": "821557822af4950a",
-   "title": "South Indian Bank shares in focus as RBI approves SBI Mutual Fund to acquire up to 9.99% stake; stock up 612% in 5 years",
-   "link": "https://www.livemint.com/market/stock-market-news/south-indian-bank-shares-in-focus-as-rbi-approves-sbi-mutual-fund-to-acquire-up-to-9-99-stake-stock-up-612-in-5-years-11795526894476.html",
-   "source": "Mint Markets",
-   "category": "Regulatory",
-   "published": "2026-11-24T13:51:37Z",
-   "summary": "The RBI approved SBI Mutual Fund’s proposal to acquire up to a 9.99% stake in South Indian Bank, subject to regulatory conditions. The approval comes as the bank’s shares hit record highs; it also reported higher second-quarter profit and income, alongside improved asset quality."
-  },
-  {
-   "id": "4e404156a3cd0844",
-   "title": "PE/VC investments in India surge to USD 8.7 billion in October, highest monthly level in five years: EY-IVCA report",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/news/pe/vc-investments-in-india-surge-to-usd-8-7-billion-in-october-highest-monthly-level-in-five-years-ey-ivca-report/articleshow/136132831.cms",
-   "source": "Economic Times Markets",
-   "category": "Markets",
-   "published": "2026-11-24T13:47:50Z",
-   "summary": "Private equity and venture capital investments in India surged to USD 8.7 billion in October 2026. This monthly figure is the highest recorded in the past five years, supported by eight large deals totaling USD 7.3 billion. Financial services attracted the majority of investments, amounting to USD 5.9 billion during this period. Despite the increase in investments, exit activity declined, with 21 exits valued at USD 544 million."
-  },
-  {
-   "id": "084408452e49880c",
-   "title": "Uttarakhand's Baini-Bhuli Yojana: 5.23 lakh women to get ₹20,000 aid in 2 instalments—check who will benefit",
-   "link": "https://www.livemint.com/money/personal-finance/uttarakhands-baini-bhuli-yojana-5-23-lakh-women-to-get-rs-20-000-aid-in-2-instalments-check-who-will-benefit-11795522896531.html",
-   "source": "Mint Money",
-   "category": "Business",
-   "published": "2026-11-24T13:44:07Z",
-   "summary": "The state government has allocated ₹523 crore for the initiative. The first instalment of ₹10,000 to be transferred directly into beneficiaries' bank accounts in December."
-  },
-  {
-   "id": "6e9ac66715d81a9b",
-   "title": "830% jump in five years! RMC Switchgears receives ₹522 crore LoI, 3 times its market cap; will shares rebound?",
-   "link": "https://www.livemint.com/market/stock-market-news/830-jump-in-five-years-rmc-switchgears-receives-rs-522-crore-loi-3-times-its-market-cap-will-shares-rebound-11795524825577.html",
-   "source": "Mint Markets",
-   "category": "Markets",
-   "published": "2026-11-24T13:05:23Z",
-   "summary": "RMC Switchgears received a Letter of Intent for an estimated ₹522 crore turnkey distribution-infrastructure project in Maharashtra—nearly three times its ₹173 crore market capitalisation. A Ksheerasagar Published 24 Nov 2026, 06:35 PM IST Prefer Livemint on Google Shares of RMC Switchgears are likely to remain in investors' focus in Wednesday's trade, November 25, after the company received a Letter of Intent (LoI) for an estimated ₹ 522 crore project in Maharashtra, nearly three times its market capitalisation. In an exchange filing on Tuesday, the company said it had received the LoI for a turnkey distribution-infrastructure package in Maharashtra."
-  },
-  {
-   "id": "034f7ba701dd2f06",
-   "title": "Nasdaq drops over 1% as Nvidia-fueled AI rally fades, Anthropic tanks 8%: US Stock Market Live Updates",
-   "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-anthropic-iphone-google-meta-tesla-earnings-treasury-yield-news-24-nov-2026/liveblog/136131363.cms",
-   "source": "Economic Times Markets",
-   "category": "Markets",
-   "published": "2026-11-24T13:00:48Z",
-   "summary": "Dow Jones | Nasdaq | US Stock Market Live: Wall Street opened lower as AI stocks retreated after Nvidia's rally, while investors awaited key US inflation data for clues on the Federal Reserve's next policy move."
-  },
-  {
-   "id": "46edb88f8d4c2393",
-   "title": "Don't let non-disclosure of information sink your family's death claim",
-   "link": "https://www.business-standard.com/finance/personal-finance/don-t-let-non-disclosure-of-information-sink-your-family-s-death-claim-126112400848_1.html",
-   "source": "Business Standard",
-   "category": "Business",
-   "published": "2026-11-24T12:49:52Z",
-   "summary": "Disclose existing policies and medical history, check the proposal form before signing, and get written proof of corrections made in the policy"
-  },
-  {
-   "id": "f6feef26e356bfeb",
-   "title": "Shift in pension and insurance money to equities dampens long-term G-sec demand: RBI DG",
-   "link": "https://economictimes.indiatimes.com/markets/bonds/shift-in-pension-and-insurance-money-to-equities-dampens-long-term-g-sec-demand-rbi-dg/articleshow/136130860.cms",
-   "source": "Economic Times Markets",
-   "category": "Regulatory",
-   "published": "2026-11-24T12:39:55Z",
-   "summary": "The demand for long-term government securities has seen a marginal decline recently. Insurance companies and pension funds are increasingly focusing on equities instead of sovereign debt. This change has impacted the stability of the government securities market and highlighted challenges in liquidity distribution. The Reserve Bank of India emphasizes the need for a coordinated approach and broader participation from institutional investors."
-  },
-  {
-   "id": "5483f41e73d2dfe9",
-   "title": "A 50 bps jumbo rate hike can lead to financial stability concerns, hurt growth: Report",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/news/a-50-bps-jumbo-rate-hike-can-lead-to-financial-stability-concerns-hurt-growth-report/articleshow/136130764.cms",
-   "source": "Economic Times Markets",
-   "category": "Regulatory",
-   "published": "2026-11-24T12:38:23Z",
-   "summary": "SBI economists have lowered their rate hike expectations for the upcoming RBI policy review. They now anticipate a 0.25 per cent increase rather than the previously expected 0.50 per cent. This adjustment stems from concerns regarding financial stability and potential impacts on economic growth. The RBI's monetary policy committee is scheduled to meet from December 2 to December 4."
-  },
-  {
-   "id": "f8f063d8ad27fd2c",
-   "title": "Can bank recover home loan in a stalled project? SC gives buyers relief",
-   "link": "https://www.business-standard.com/finance/personal-finance/can-bank-recover-home-loan-in-a-stalled-project-sc-gives-buyers-relief-126112400586_1.html",
-   "source": "Business Standard",
-   "category": "Business",
-   "published": "2026-11-24T10:17:28Z",
-   "summary": "It must first prove buyers' default and examine construction-linked disbursals before pursuing coercive action"
-  },
-  {
-   "id": "c3e02ed3bf46d3a1",
-   "title": "India, China set for record Russian oil imports in 2026 amid Iran war",
-   "link": "https://www.business-standard.com/economy/news/china-india-set-for-record-russian-oil-imports-in-2026-amid-iran-war-126112400502_1.html",
-   "source": "Reuters",
-   "category": "Economy",
-   "published": "2026-11-24T09:38:32Z",
-   "summary": "Seaborne Russian oil shipments to the two countries averaged 3.4 million barrels per day through mid-November, up 530,000 bpd from a year earlier, but are expected to ease in 2027"
-  },
-  {
-   "id": "2f114c7cafc85196",
-   "title": "Investors become richer by ₹34.61 trillion as Sensex surges in November",
-   "link": "https://www.business-standard.com/markets/news/investors-become-richer-by-34-61-trillion-as-sensex-surges-in-november-126112400402_1.html",
-   "source": "Press Trust of India",
-   "category": "Markets",
-   "published": "2026-11-24T08:10:51Z",
-   "summary": "Equity markets have rallied sharply this month, with the BSE Sensex climbing nearly 11 per cent, making equity investors richer by Rs 34.61 lakh crore amid strong foreign fund inflows, lower crude oil prices, better-than-expected Q2 earnings and a global sell-off in AI-linked stocks. The 30-share BSE benchmark Sensex jumped 7,976.46 points, or 10.71 per cent till November 23. Following the bullish trend in equities, the market capitalisation of BSE-listed companies has surged by Rs 34.61 lakh crore to Rs 5,08,98,444.87 crore (USD 5.48 trillion) this month."
-  },
-  {
-   "id": "1c5581944e0998f3",
-   "title": "Oil prices extend losses, hover near three-month lows on supply concerns",
-   "link": "https://www.business-standard.com/markets/commodities/oil-prices-extend-losses-hover-near-three-month-lows-on-supply-concerns-126112400254_1.html",
-   "source": "Reuters",
-   "category": "Markets",
-   "published": "2026-11-24T05:30:54Z",
-   "summary": "Brent fell 0.7 per cent to $88.71 a barrel, while WTI slipped 0.8 per cent to $79.57, as traders weighed rising supply against persistent shipping risks in the Strait of Hormuz"
-  },
-  {
-   "id": "dcb879f342235033",
-   "title": "TAKE shares rally 24% in three weeks as company returns to profitability",
-   "link": "https://www.business-standard.com/markets/news/take-shares-rally-24-in-three-weeks-as-company-returns-to-profitability-126112300872_1.html",
-   "source": "Press Trust of India",
-   "category": "Markets",
-   "published": "2026-11-24T03:44:18Z",
-   "summary": "Shares of TAKE Ltd have surged nearly 24 per cent in three weeks, hitting the 5 per cent upper circuit for the second consecutive trading session, as investors responded to the company's return to profitability and expansion into preventive healthcare, consumer wellness and technology-led health solutions. The stock closed at Rs 14.35 on Monday, compared with Rs 11.10 at the beginning of the month, reflecting growing market interest in the company's evolving business strategy and improving financial performance, according to stock exchange data."
-  },
-  {
-   "id": "ab0319336b6471c8",
-   "title": "Nvidia shares soar 31% as Jensen Huang's return sparks Wall Street rally",
-   "link": "https://www.business-standard.com/markets/news/nvidia-shares-soar-31-as-jensen-huang-s-return-sparks-wall-street-rally-126112400047_1.html",
-   "source": "Reuters",
-   "category": "Markets",
-   "published": "2026-11-24T03:11:15Z",
-   "summary": "Nvidia's rally lifted the Nasdaq 100 by 6.5% and the S&P 500 by 4.7%, while shorter-dated Treasury yields and the dollar climbed on bets of a more hawkish Fed"
-  },
-  {
-   "id": "07ba9bcad9f30d08",
-   "title": "Asian shares rally as Huang returns to Nvidia, sparking Wall Street rebound",
-   "link": "https://www.business-standard.com/markets/news/asian-shares-rally-as-huang-returns-to-nvidia-sparking-wall-street-rebound-126112400069_1.html",
-   "source": "Reuters",
-   "category": "Markets",
-   "published": "2026-11-24T02:06:57Z",
-   "summary": "Asian markets rebounded sharply after Nvidia shares surged 31.5% on Wall Street, restoring nearly $1 trillion in market value and lifting technology stocks amid easing fears over the AI trade"
-  },
-  {
-   "id": "0cdcfc3d52a36618",
-   "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on November 25, 2026",
-   "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64033",
-   "source": "RBI Press Releases",
-   "category": "Regulatory",
-   "published": "2026-11-23T13:55:00Z",
-   "summary": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Wednesday, November 25, 2026, as under: Sl. No. Notified Amount (₹ crore) Tenor (day) Window Timing Date of Reversal 1 50,000 1 09:30 AM to 10:00 AM November 26, 2026 (Thursday) 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 . Ajit Prasad Deputy General Manager (Communications) Press Release: 2026-2027/1555"
-  },
-  {
-   "id": "14a0fe3755b34046",
-   "title": "Governor, Reserve Bank of India meets Managing Directors & Chief Executive Officers of select NBFCs, HFCs and Industry Representatives in Mumbai on November 23, 2026",
-   "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64032",
-   "source": "RBI Press Releases",
-   "category": "Business",
-   "published": "2026-11-23T13:50:00Z",
-   "summary": "As part of the Reserve Bank’s ongoing engagement with regulated entities, the Governor, Reserve Bank of India, today met in Mumbai with the Managing Directors and Chief Executive Officers (MDs & CEOs) of select Non-Banking Financial Companies (NBFCs), including Government NBFCs, Housing Finance Companies (HFCs) and Microfinance Institutions. Representatives of Sa-Dhan, the Micro Finance Institutions Network (MFIN) and the Finance Industry Development Council (FIDC) also participated. Deputy Governors Shri Swaminathan J., Dr Poonam Gupta, Shri S. C. Murmu and Shri Rohit Jain attended the meeting, along with other senior officers of the Reserve Bank."
-  },
-  {
-   "id": "b7d471c3ad5b2c8e",
-   "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2021-22 Series I due on November 25, 2026",
-   "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64030",
-   "source": "RBI Press Releases",
-   "category": "Regulatory",
-   "published": "2026-11-23T12:40:00Z",
-   "summary": "In terms of GOI notification F. No. 4(5)-B(W&M)/2021 dated May 12, 2021 (SGB 2021-22 Series I - Issue date May 25, 2021) on Sovereign Gold Bond Scheme, premature redemption of Gold Bond may be permitted after fifth year from the date of issue of such Gold Bond on the date on which interest is payable. Accordingly, the next due date of premature redemption of the above tranche shall be on November 25, 2026. 2."
-  },
-  {
-   "id": "42403df5542d77c9",
-   "title": "Auction of Government of India Dated Securities",
-   "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64029",
-   "source": "RBI Press Releases",
-   "category": "Regulatory",
-   "published": "2026-11-23T12:15:00Z",
-   "summary": "Government of India (GoI) has announced the sale (re-issue) of four dated securities for a notified amount of ₹33,000 crore as per the following details: Sr No Security Date of Repayment Notified Amount (₹ Crore) GoI specific Notification Auction Date Settlement Date 1 6.20% GS 2029 Aug 17, 2029 9,000 F.No.4(1)-B(W&M)/2026 dated November 23, 2026 November 27, 2026 (Friday) November 30, 2026 (Monday) 2 6.57% GS 2033 Aug 17, 2033 12,000 3 7.63% GS 2056 Sep 15, 2056 9,000 4 7.50% GOI SGrB 2056 Apr 27, 2056 3,000 Total 33,000 2."
-  }
- ],
- "breaking": [
-  {
-   "id": "7e47a3e59ff353d0",
-   "title": "JSW Motors unveils new vehicle badge ahead of its Dec 3 product debut",
-   "link": "https://www.business-standard.com/industry/auto/jsw-motors-unveils-new-vehicle-badge-ahead-of-its-dec-3-product-debut-126112401042_1.html",
-   "source": "Business Standard",
-   "category": "Business",
-   "published": "2026-11-24T15:08:05Z",
-   "summary": "JSW Motors' first offering is expected to be a plug-in hybrid SUV based on China's Chery platform; the company will manufacture cars in Maharashtra and have a separate dealership network"
+   "published": "2026-11-24T14:41:30Z",
+   "summary": ""
   },
   {
    "id": "976d7ee871e446de",
-   "title": "India Inc must accelerate investment, create quality jobs: CII president",
+   "title": "India Inc must create quality jobs, accelerate investment: CII President",
    "link": "https://www.business-standard.com/industry/news/india-inc-must-accelerate-investment-create-quality-jobs-cii-president-126112400983_1.html",
    "source": "Business Standard",
    "category": "Business",
-   "published": "2026-11-24T14:22:19Z",
+   "published": "2026-11-24T14:22:03Z",
    "summary": "CII President R Mukundan called for greater investment, innovation and faster project execution, urging Indian industry to work together to achieve the goal of Viksit Bharat."
+  },
+  {
+   "id": "62900a8841421517",
+   "title": "Rupee gains despite stronger $; sharp fall may amplify shocks: Report",
+   "link": "https://www.business-standard.com/finance/news/rupee-gains-despite-dollar-strength-sbi-warns-against-sharp-depreciation-126112400965_1.html",
+   "source": "Business Standard",
+   "category": "Regulatory",
+   "published": "2026-11-24T14:13:47Z",
+   "summary": "SBI Research says excessive rupee depreciation could amplify economic shocks, while a 25 basis point rate hike by the RBI would be sufficient given the inflation outlook"
+  },
+  {
+   "id": "2d218d7ef200c9fa",
+   "title": "Rupee gains despite dollar strength; SBI warns against sharp depreciation",
+   "link": "https://www.business-standard.com/finance/news/rupee-gains-despite-dollar-strength-sbi-warns-against-sharp-depreciation-126112400965_1.html",
+   "source": "Business Standard",
+   "category": "Markets",
+   "published": "2026-11-24T14:13:46Z",
+   "summary": "SBI Research says excessive rupee depreciation could amplify economic shocks, while a 25 basis point rate hike by the RBI would be sufficient given the inflation outlook"
   },
   {
    "id": "9cb1369c07a7c5f7",
@@ -297,89 +432,37 @@
    "link": "https://www.business-standard.com/markets/news/apl-apollo-deal-may-lead-to-short-term-financial-stress-for-tata-steel-126112400943_1.html",
    "source": "Business Standard",
    "category": "Markets",
-   "published": "2026-11-24T13:53:32Z",
+   "published": "2026-11-24T13:53:21Z",
    "summary": "The deal may increase Tata Steel's debt and lead to equity dilution in the near term, but could strengthen its downstream capacity, distribution reach and product portfolio"
   },
   {
-   "id": "129f13405750f0e9",
-   "title": "Scindia announces advisory panel to address telecom startup, MSME issues",
-   "link": "https://www.business-standard.com/india-news/scindia-announces-advisory-panel-to-address-telecom-startup-msme-issues-126112400886_1.html",
-   "source": "Business Standard",
-   "category": "Business",
-   "published": "2026-11-24T13:14:11Z",
-   "summary": "The advisory panel will address concerns of telecom startups and MSMEs, facilitate government support and help Indian entrepreneurs focus on indigenous technology development."
-  },
-  {
-   "id": "8ada6e880fb08fe6",
-   "title": "Corporate India's earnings growth to stay resilient in FY27: Ind Ra",
-   "link": "https://www.business-standard.com/industry/news/corporate-india-s-earnings-growth-to-stay-resilient-in-fy27-ind-ra-126112400696_1.html",
-   "source": "Press Trust of India",
-   "category": "Economy",
-   "published": "2026-11-24T11:36:39Z",
-   "summary": "India Ratings and Research (Ind-Ra) on Tuesday said corporate India's earnings growth is expected to remain resilient through FY27, supported by private capex, premium consumption and operating efficiencies. The agency's analysis of more than 886 listed non-financial large corporates, each with quarterly revenue exceeding Rs 100 crore, indicates a trailing 12-month EBITDA growth of 14-16 per cent YoY. Over half of these companies reported more than 20 per cent YoY growth in the September quarter."
-  },
-  {
-   "id": "c06b873fe79fd1a0",
-   "title": "IKEA India revenue rises 14% to ₹2,100 crore in FY26; eyes FY29 profit",
-   "link": "https://www.business-standard.com/companies/quarterly-results/ikea-india-revenue-rises-14-to-2-100-crore-in-fy26-eyes-fy29-profit-126112400653_1.html",
-   "source": "Business Standard",
-   "category": "Business",
-   "published": "2026-11-24T10:59:42Z",
-   "summary": "The Swedish furniture retailer plans to expand its network to 30 stores by FY30, with around 20 of them expected to be smaller city stores, while strengthening its ecommerce business"
-  },
-  {
-   "id": "df6dece5a27e5b6c",
-   "title": "GSK India eyes doubling oncology patient reach, lines up 7 new cancer drugs",
-   "link": "https://www.business-standard.com/companies/news/gsk-india-eyes-doubling-oncology-patient-reach-lines-up-7-new-cancer-drugs-126112400613_1.html",
-   "source": "Business Standard",
-   "category": "Business",
-   "published": "2026-11-24T10:30:33Z",
-   "summary": "GSK India aims to double its cancer patient reach with the launch of Blenrep and targets 15 per cent of its revenue from new molecules over the next three years."
-  },
-  {
-   "id": "2ef9c45e47d5d8c2",
-   "title": "Tata Motors PV to raise vehicle prices by avg 0.5% from December 1",
-   "link": "https://www.business-standard.com/industry/auto/tata-motors-pv-to-raise-vehicle-prices-by-avg-0-5-from-december-1-126112400561_1.html",
-   "source": "Press Trust of India",
-   "category": "Business",
-   "published": "2026-11-24T10:21:18Z",
-   "summary": "Tata Motors Passenger Vehicles Ltd (TMPV) on Tuesday announced an average price increase of 0.5 per cent across its entire portfolio of cars and SUVs, including internal combustion engine (ICE) and electric vehicles (EVs), effective December 1, 2026. The price revision is aimed at partially offsetting the impact of rising input costs, which continue to remain elevated, the company said in a statement. Tata Motors Passenger Vehicles has now announced four rounds of price increases in the current financial year."
-  },
-  {
-   "id": "3c4090f52a8e5667",
-   "title": "Cosine Robots raises ₹22.36 crore to manufacture robotic joints in India",
-   "link": "https://www.business-standard.com/companies/news/cosine-robots-raises-22-36-crore-to-manufacture-robotic-joints-in-india-126112400577_1.html",
-   "source": "Business Standard",
-   "category": "Business",
-   "published": "2026-11-24T10:13:49Z",
-   "summary": "The Avaana Capital-led funding round will help Cosine Robots scale its R&D and production facility for actuators that power machines ranging from robotic arms to humanoids."
-  },
-  {
-   "id": "4b467de9e6d0a2d7",
-   "title": "Vehicle scrapping rules eased, automakers spared ₹25,000 crore burden",
-   "link": "https://www.business-standard.com/industry/news/environment-ministry-amends-vehicle-scrapping-rules-automakers-financial-burden-126112400575_1.html",
-   "source": "Business Standard",
-   "category": "Business",
-   "published": "2026-11-24T10:08:23Z",
-   "summary": "The Environment Ministry has clarified that provisions for future recycling liabilities will apply only when automakers permanently shut down, addressing a key industry concern"
-  },
-  {
-   "id": "7e26cce00da4a7ae",
-   "title": "Tiles outperform peer segments on price hikes, housing demand and gas costs",
-   "link": "https://www.business-standard.com/markets/news/tiles-building-materials-q2fy27-earnings-kajaria-somany-cera-126112400555_1.html",
-   "source": "Business Standard",
-   "category": "Economy",
-   "published": "2026-11-24T09:50:15Z",
-   "summary": "Leading tile makers posted 25 per cent aggregate revenue growth, outperforming plastic pipes and wood panels, while better operating leverage supported margins premium Tile realisation for Kajaria increased 11.4 per cent YoY, while Somany's rose 20.1 per cent, partly reflecting higher gas costs | Image: Canva"
-  },
-  {
-   "id": "1110a98a80de2493",
-   "title": "Ex-RBI chief Raghuram Rajan sees Nvidia governance risk in Huang's return",
-   "link": "https://www.business-standard.com/world-news/ex-rbi-chief-raghuram-rajan-sees-nvidia-governance-risk-in-huang-s-return-126112400550_1.html",
-   "source": "Bloomberg",
+   "id": "75d201efbe91b31f",
+   "title": "Indonesia raises $1.92 billion from regular bonds auction, finance ministry says",
+   "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N3LR048:0-indonesia-raises-1-92-billion-from-regular-bonds-auction-finance-ministry-says/",
+   "source": "TradingView",
    "category": "Regulatory",
-   "published": "2026-11-24T09:46:58Z",
-   "summary": "The former RBI governor questioned whether Nvidia would maintain checks and balances on Huang and investigate potential wrongdoing, while raising concerns over returns on debt-funded AI investment"
+   "published": "2026-11-24T13:39:53Z",
+   "summary": "Indonesia raised 35 trillion rupiah ($1.92 billion) from a regular bond auction on Tuesday, higher than the indicative target of 30 trillion rupiah, its finance ministry said.Total incoming bids were 70.01 trillion rupiah, lower than the 79.71 trillion rupiah in the previous auction on November 10…"
+  },
+  {
+   "id": "eb8e6d0f03d0418f",
+   "title": "CBDT Releases 43 Supplementary FAQs on Foreign Assets of Small Taxpayers Disclosure Scheme, 2026 (FAST-DS)",
+   "link": "https://blog.saginfotech.com/cbdt-releases-43-supplementary-faqs-fast-ds-2026",
+   "source": "SAG Infotech Official Tax Blog",
+   "category": "Direct Tax",
+   "published": "2026-11-24T13:38:16Z",
+   "summary": "The Income Tax Department has provided supplementary FAQs for the Foreign Assets of Small Taxpayers, Disclosure Scheme (FAST-DS) 2026, stating the method by which taxpayers declare foreign assets and income that were missed in their income tax returns. These explanations include returning non-residents, jointly held foreign bank accounts, the scheme’s fee structure, and valuation of"
+  }
+ ],
+ "trending": [
+  {
+   "id": "df6c503ae4821212",
+   "title": "SEBI Warns Investors Against IPO Grey Market Premium (GMP), Advises Discontinuation",
+   "link": "https://www.caclubindia.com/news/sebi-warns-investors-against-ipo-grey-market-premium-gmp-advises-discontinuation-26971.asp",
+   "source": "CAclubindia",
+   "category": "Regulatory",
+   "published": "2026-11-24T03:45:00Z",
+   "summary": "Covered by 13 sources (CAclubindia, LiveLawBiz, FlipItMoney…). SEBI cautions investors against relying on unofficial IPO Grey Market Premium (GMP) figures. Learn why and what steps to take for safer IPO investments. The advisory comes amid the growing practice of websites, digital platforms, newspapers and even certain SEBI-registered intermediaries and market participants publishing GMP figures as indicators of an IPO's likely listing price or potential listing-day returns. Grey Market Premium refers to the unofficial premium at which shares of an upcoming IPO are supposedly traded before their formal listing on a recognised stock exchange."
   },
   {
    "id": "8794ef8f7131f114",
@@ -388,7 +471,16 @@
    "source": "Business Standard",
    "category": "Regulatory",
    "published": "2026-11-24T09:27:57Z",
-   "summary": "RBI's draft rules let customers restrict digital payments, set transaction limits and add an approval layer for high-value transfers"
+   "summary": "Covered by 11 sources (India Today, Connect Gujarat -, Business Standard…). RBI's draft rules let customers restrict digital payments, set transaction limits and add an approval layer for high-value transfers"
+  },
+  {
+   "id": "fb55f7adcdec3f75",
+   "title": "Asian stocks rally as Huang's Nvidia return revives AI trade",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/asian-stocks-rally-as-huangs-nvidia-return-revives-ai-trade/articleshow/136117829.cms",
+   "source": "Economic Times Markets",
+   "category": "Markets",
+   "published": "2026-11-24T02:44:53Z",
+   "summary": "Covered by 6 sources (Mint, The Indian Express, BusinessLine…). Asian shares saw significant gains as Nvidia's CEO Jensen Huang made a return that relieved market fears. The MSCI Asia-Pacific index rose by 4.6%, while Japan's Nikkei gained 4.5% after a local holiday. This movement followed a 31.5% surge in Nvidia shares, revealing optimism in the beleaguered AI sector. United States Treasury yields climbed alongside the dollar, signaling increased confidence in Fed tightening measures."
   },
   {
    "id": "6926401f310db894",
@@ -397,90 +489,43 @@
    "source": "Press Trust of India",
    "category": "Regulatory",
    "published": "2026-11-24T09:11:07Z",
-   "summary": "The Reserve Bank of India (RBI) has approved an SBI Mutual Fund's proposal to acquire up to a 9.99 per cent stake in private sector lender South Indian Bank, the bank said in a regulatory filing. The approval was communicated to the bank on November 23 and is subject to compliance with applicable regulatory conditions. \"The RBI has accorded its approval to SBI Mutual Fund for acquiring aggregate holding of up to 9.99 per cent of the paid-up share capital or voting rights in the Bank subject to the conditions specified therein,\" South Indian Bank said in the filing."
+   "summary": "Covered by 5 sources (Mint, Press Trust of India, Rediff MoneyWiz…). The Reserve Bank of India (RBI) has approved an SBI Mutual Fund's proposal to acquire up to a 9.99 per cent stake in private sector lender South Indian Bank, the bank said in a regulatory filing. The approval was communicated to the bank on November 23 and is subject to compliance with applicable regulatory conditions."
   },
   {
-   "id": "aeb5321821ff4a3a",
-   "title": "India must move beyond yarn, fabric to win global apparel orders: BCG-CII",
-   "link": "https://www.business-standard.com/industry/news/india-must-move-beyond-yarn-fabric-to-win-global-apparel-orders-bcg-cii-126112400487_1.html",
-   "source": "Business Standard",
-   "category": "Economy",
-   "published": "2026-11-24T09:07:51Z",
-   "summary": "India's textile industry employs over 45 mn people, but its relatively small share of global apparel exports highlights gap between manufacturing capacity and export competitiveness, says new report"
-  },
-  {
-   "id": "a65ab08b4a88c15d",
-   "title": "China leveraging India's supply-chain dependence to curb its rise: US panel",
-   "link": "https://www.business-standard.com/world-news/us-panel-china-using-control-industrial-inputs-curb-india-rise-126112400488_1.html",
-   "source": "Business Standard",
-   "category": "Economy",
-   "published": "2026-11-24T09:02:51Z",
-   "summary": "The US commission's report alleged that China is using export curbs, technology restrictions and control over industrial inputs to undermine India's manufacturing ambitions and constrain its economic"
-  },
-  {
-   "id": "f84d1805ce2b2207",
-   "title": "Explained: Why has US put Nvidia-linked Megaspeed on trade blacklist?",
-   "link": "https://www.business-standard.com/world-news/explained-why-has-us-put-nvidia-linked-megaspeed-on-trade-blacklist-126112400486_1.html",
-   "source": "Business Standard",
-   "category": "Business",
-   "published": "2026-11-24T08:57:24Z",
-   "summary": "The US has added Megaspeed to its Entity List, which means the company will need a US government licence to buy advanced AI chips and other restricted technology"
-  },
-  {
-   "id": "4c2055c610fb3320",
-   "title": "Adani Group planning $120 bn in capex over next 5-6 years: Jefferies",
-   "link": "https://www.business-standard.com/companies/news/adani-group-plans-120-billion-investment-over-next-5-6-years-jefferies-126112400462_1.html",
-   "source": "Press Trust of India",
-   "category": "Business",
-   "published": "2026-11-24T08:52:32Z",
-   "summary": "Adani Group plans to invest more than USD 120 billion over the next five to six years across infrastructure, energy and data centres while seeking to keep net debt below 3.5 times earnings (EBITDA), according to a Jefferies research note on the group's annual conference. The group is leaning on its financial record as it expands in power, ports, transmission and data centres. At its annual investor conference, the group said its net debt-to-EBITDA ratio had declined from a peak of around 3.6-3.8 times during 2019-23."
-  },
-  {
-   "id": "c5c9d0a867627a40",
-   "title": "Underwriting auction pricing needs to reflect market conditions: RBI Dy Guv",
-   "link": "https://www.business-standard.com/finance/news/rbi-primary-dealers-government-bond-underwriting-auctions-rohit-jain-126112400411_1.html",
-   "source": "Business Standard",
-   "category": "Regulatory",
-   "published": "2026-11-24T07:58:45Z",
-   "summary": "Deputy Governor Rohit Jain also flagged weaker demand for long-term government bonds, concentrated secondary-market trading and modest retail participation"
-  },
-  {
-   "id": "5302a62aac14a0a2",
-   "title": "Audi India announces hike in vehicle prices by up to 2% from January 1",
-   "link": "https://www.business-standard.com/industry/auto/audi-india-announces-hike-in-vehicle-prices-by-up-to-2-from-january-1-126112400326_1.html",
-   "source": "Press Trust of India",
-   "category": "Business",
-   "published": "2026-11-24T07:04:27Z",
-   "summary": "German luxury carmaker Audi on Tuesday said it will increase ex-showroom prices of its models in India by up to 2 per cent with effect from January 1, 2027, to offset rising input costs. The latest hike marks Audi India's second price revision in 2026, as the automaker had previously raised prices by up to 2 per cent across its model range from April 1 this year. The price revision will be applicable across its model range, the company said in a statement."
-  }
- ],
- "trending": [
-  {
-   "id": "dcb879f342235033",
-   "title": "TAKE shares rally 24% in three weeks as company returns to profitability",
-   "link": "https://www.business-standard.com/markets/news/take-shares-rally-24-in-three-weeks-as-company-returns-to-profitability-126112300872_1.html",
+   "id": "ea45b9ebb6ee1f40",
+   "title": "Why Trump pushed to bring Jensen Huang back on top at AI behemoth Nvidia",
+   "link": "https://www.business-standard.com/world-news/why-did-trump-push-to-bring-jensen-huang-back-on-top-at-ai-behemoth-nvidia-126112400052_1.html",
    "source": "Press Trust of India",
    "category": "Markets",
-   "published": "2026-11-24T03:44:18Z",
-   "summary": "Covered by 6 sources (BusinessLine, Mint, Business Standard…). Shares of TAKE Ltd have surged nearly 24 per cent in three weeks, hitting the 5 per cent upper circuit for the second consecutive trading session, as investors responded to the company's return to profitability and expansion into preventive healthcare, consumer wellness and technology-led health solutions. The stock closed at Rs 14.35 on Monday, compared with Rs 11.10 at the beginning of the month, reflecting growing market interest in the company's evolving business strategy and improving financial performance, according to stock exchange data."
+   "published": "2026-11-24T02:25:38Z",
+   "summary": "Covered by 5 sources (Mint, BusinessLine, Business Standard…). President Donald Trump saw little choice but to fight to reinstate Jensen Huang at AI behemoth Nvidia. The president has staked the nation's economic growth on artificial intelligence, and worried Huang's ouster was not only tanking the stock market -- but also risked putting the US behind Beijing in the race for dominance in the field if Huang, widely seen by backers and critics as a generational talent in artificial intelligence, were to be poached by a Chinese firm."
   },
   {
-   "id": "ede7ee38957bed10",
-   "title": "Wall Street soars on Huang's return to Nvidia, Treasury yields rise",
-   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-wall-street-soars-on-huangs-return-to-nvidia-treasury-yields-rise/articleshow/136116751.cms",
+   "id": "5483f41e73d2dfe9",
+   "title": "A 50 bps jumbo rate hike can lead to financial stability concerns, hurt growth: Report",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/a-50-bps-jumbo-rate-hike-can-lead-to-financial-stability-concerns-hurt-growth-report/articleshow/136130764.cms",
    "source": "Economic Times Markets",
-   "category": "Markets",
-   "published": "2026-11-24T00:54:33Z",
-   "summary": "Covered by 4 sources (Bloomberg, ANI, Economic Times…). US stocks rebounded sharply on Monday after Nvidia reinstated Jensen Huang as chief executive following pressure from President Donald Trump, reversing part of last week’s tech-led market rout. Nvidia jumped 31%, helping the Nasdaq 100 rise 6.5% and the S&P 500 4.7%, while Treasury yields and the dollar also climbed as investors reassessed both AI-sector sentiment and the Federal Reserve outlook."
+   "category": "Regulatory",
+   "published": "2026-11-24T12:38:23Z",
+   "summary": "Covered by 4 sources (Economic Times, Rediff MoneyWiz, bfsi.economictimes.indiatimes.com…). SBI economists have lowered their rate hike expectations for the upcoming RBI policy review. They now anticipate a 0.25 per cent increase rather than the previously expected 0.50 per cent. This adjustment stems from concerns regarding financial stability and potential impacts on economic growth. The RBI's monetary policy committee is scheduled to meet from December 2 to December 4."
   },
   {
-   "id": "2f114c7cafc85196",
-   "title": "Investors become richer by ₹34.61 trillion as Sensex surges in November",
-   "link": "https://www.business-standard.com/markets/news/investors-become-richer-by-34-61-trillion-as-sensex-surges-in-november-126112400402_1.html",
-   "source": "Press Trust of India",
-   "category": "Markets",
-   "published": "2026-11-24T08:10:51Z",
-   "summary": "Covered by 3 sources (BusinessLine, Press Trust of India, Economic Times). Equity markets have rallied sharply this month, with the BSE Sensex climbing nearly 11 per cent, making equity investors richer by Rs 34.61 lakh crore amid strong foreign fund inflows, lower crude oil prices, better-than-expected Q2 earnings and a global sell-off in AI-linked stocks. The 30-share BSE benchmark Sensex jumped 7,976.46 points, or 10.71 per cent till November 23. Following the bullish trend in equities, the market capitalisation of BSE-listed companies has surged by Rs 34.61 lakh crore to Rs 5,08,98,444.87 crore (USD 5.48 trillion) this month."
+   "id": "cf8b51972c24dc3d",
+   "title": "India-UK Trade Deal: Commerce Ministry Seeks Release Of Seized Bulk Scotch Whisky Imports Amid Customs Tariff",
+   "link": "https://www.freepressjournal.in/business/india-uk-trade-deal-commerce-ministry-seeks-release-of-seized-bulk-scotch-whisky-imports-amid-customs-tariff-dispute",
+   "source": "Free Press Journal",
+   "category": "Indirect Tax",
+   "published": "2026-11-24T11:36:00Z",
+   "summary": "Covered by 4 sources (Free Press Journal, Aabkari Times, BusinessLine…). The Commerce Ministry has requested the Directorate of Revenue Intelligence to release seized bulk Scotch whisky shipments from the UK amid a Customs tariff classification dispute. Officials are exploring a technical solution to honour preferential tariff commitments under the India-UK trade agreement without violating previous court rulings on import classification"
+  },
+  {
+   "id": "ada890e3bf257578",
+   "title": "CBDT Notifies Regional Air Connectivity Fund Trust for Conditional Income Tax Exemption",
+   "link": "https://taxguru.in/income-tax/cbdt-notifies-regional-air-connectivity-fund-trust-conditional-income-tax-exemption.html",
+   "source": "TaxGuru Income Tax",
+   "category": "Direct Tax",
+   "published": "2026-11-24T10:00:55Z",
+   "summary": "Covered by 4 sources (TaxCorp AI, LiveChennai, TaxGuru…). CBDT Notification 152/2026 exempts specified income of the Regional Air Connectivity Fund Trust for tax years 2026-27 to 2029-30, subject to conditions. Summary: CBDT Notification No. 152/2026, dated 23 November 2026 and issued as S.O. 6349(E), notifies the Regional Air Connectivity Fund Trust (PAN: AADTR1130P), a trust constituted by the Central Government, for exemption in respect of its specified income. The Central Government exercised its powers under Schedule III, Table Serial No. 36, read with section 11 of the Income-tax Act, 2025 ."
   },
   {
    "id": "c255249e8abb6c7e",
@@ -489,25 +534,26 @@
    "source": "Business Standard",
    "category": "Markets",
    "published": "2026-11-24T02:20:58Z",
-   "summary": "Covered by 3 sources (BusinessLine, BS Rich Content, Business Standard). Stock market holiday today: The markets are closed for trading on account of Guru Nanak Jayanti, also called Prakash Gurpurab, the birth anniversary of the first Sikh Guru."
+   "summary": "Covered by 4 sources (BusinessLine, BS Rich Content, Business Standard…). Stock market holiday today: The markets are closed for trading on account of Guru Nanak Jayanti, also called Prakash Gurpurab, the birth anniversary of the first Sikh Guru."
   },
   {
-   "id": "9e1edfb5be21ea2f",
-   "title": "India, UK working to resolve technical glitch over Scotch whisky duty concessions under trade pact",
-   "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-uk-working-to-resolve-technical-glitch-over-scotch-whisky-duty-concessions-under-trade-pact/articleshow/136109640.cms",
-   "source": "Economic Times Economy",
-   "category": "Indirect Tax",
-   "published": "2026-11-23T16:56:35Z",
-   "summary": "Covered by 3 sources (BusinessLine, Mint, Economic Times). The Commerce Ministry is working with the Finance Ministry, importers and UK authorities to resolve a customs classification issue affecting duty concessions on Scotch whisky imports under the India-UK trade pact. Commerce Secretary Rajesh Agarwal said India remains committed to its tariff obligations and has urged the DRI to release pending consignments."
+   "id": "b97ee364e91fb5c7",
+   "title": "IIFCL IPO: Govt to part sale stake, company to issue fresh shares",
+   "link": "https://www.business-standard.com/markets/ipo/iifcl-ipo-govt-to-part-sale-stake-company-to-issue-fresh-shares-126112400446_1.html",
+   "source": "Press Trust of India",
+   "category": "Regulatory",
+   "published": "2026-11-24T17:18:39Z",
+   "summary": "Covered by 3 sources (Press Trust of India, Mint, Economic Times). The government is looking to part sale its equity shareholding in IIFCL along with a fresh issue of shares by the company in the initial public offering (IPO), which is likely by the end of the current fiscal year, an official said. The Cabinet had earlier this year approved the IPO and listing of India Infrastructure Finance Company Ltd (IIFCL), and the work is on to file a draft paper with market regulator Sebi for approval."
+  },
+  {
+   "id": "b452f187c0245515",
+   "title": "Jay Chaudhry",
+   "link": "https://www.wsj.com/business/deals/crowdstrike-to-buy-zscaler-in-43-9-billion-stock-swap-4c926031",
+   "source": "WSJ",
+   "category": "Business",
+   "published": "2026-11-24T16:50:00Z",
+   "summary": "About 200+ searches in India. CrowdStrike to Buy Zscaler in $44 Billion Stock Swap."
   }
  ],
- "skipped_sources": [
-  "CBDT / Income Tax updates (HTTPError: HTTP Error 503: Service Unavailable)",
-  "GST / CBIC updates (HTTPError: HTTP Error 503: Service Unavailable)",
-  "ICAI / Accounting updates (HTTPError: HTTP Error 503: Service Unavailable)",
-  "MCA / Company law updates (HTTPError: HTTP Error 503: Service Unavailable)",
-  "CAclubindia (HTTPError: HTTP Error 503: Service Unavailable)",
-  "Google News Business (India) (HTTPError: HTTP Error 503: Service Unavailable)",
-  "Regulator & Ministry news (HTTPError: HTTP Error 503: Service Unavailable)"
- ]
+ "skipped_sources": []
 }

@@ -1,122 +1,203 @@
 {
- "generated": "2026-11-26T04:04:30Z",
+ "generated": "2026-11-26T05:15:56Z",
  "daily": [
   {
-   "id": "e5148f723cf940ec",
-   "title": "Gold, silver prices today, 26 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
-   "link": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-26-november-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11795339905275.html",
-   "source": "Mint Money",
-   "category": "Business",
-   "published": "2026-11-26T03:57:43Z",
-   "summary": "Gold and silver prices today, 26 November: Check latest 24K, 22K gold and 999 silver retail rates across Delhi, Mumbai, Kolkata and other major Indian cities, along with MCX market updates."
+   "id": "555218d95255a493",
+   "title": "RBI to conduct Second Overnight Variable Rate Repo (VRR) auction under LAF on November 26, 2026",
+   "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64046",
+   "source": "RBI Press Releases",
+   "category": "Regulatory",
+   "published": "2026-11-26T05:05:00Z",
+   "summary": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a second Variable Rate Repo (VRR) auction on Thursday, November 26, 2026, as under: Sl. No. Notified Amount (₹ crore) Tenor (day) Window Timing Date of Reversal 1 50,000 1 11:00 AM to 11:30 AM November 27, 2026 (Friday) 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 . Ajit Prasad Deputy General Manager (Communications) Press Release: 2026-2027/1568"
   },
   {
-   "id": "6bd2822366886abd",
-   "title": "CBIC Adds Two New Grounds for GST Registration Cancellation Under CGST Rules 2026",
-   "link": "https://www.caclubindia.com/news/cbic-adds-two-new-grounds-for-gst-registration-cancellation-under-cgst-rules-2026-26976.asp",
-   "source": "CAclubindia",
-   "category": "Indirect Tax",
-   "published": "2026-11-26T03:54:00Z",
-   "summary": "CBIC adds two new grounds for GST registration cancellation: no business activity at declared premises and issuing invoices without supply. Ensure compliance. The corrigendum was issued on 25th November 2026 through Notification No. G.S.R. 1005(E). It corrects the English version of the CGST (Amendment) Rules, 2026, originally published in the Gazette of India on 26th October 2026, vide G.S.R. 919(E). Through the corrigendum, CBIC has inserted two additional clauses, namely clauses (f) and (g), in the relevant provision on page 118 of the original amendment rules."
+   "id": "e2a56e5d962c813c",
+   "title": "GTRI calls US tariff under Section 301 coercive bargaining tool, urges India to reject it",
+   "link": "https://www.thehindubusinessline.com/economy/gtri-calls-us-tariff-under-section-301-coercive-bargaining-tool-urges-india-to-reject-it/article71745146.ece",
+   "source": "BusinessLine Economy",
+   "category": "Economy",
+   "published": "2026-11-26T05:01:58Z",
+   "summary": "GTRI urges India to reject US Section 301 tariffs, warning they weaponize concessions via a dual-rate regime and bypass real capacity issues. In its report, GTRI said the proposed tariffs by US President Donald Trump effectively revive the reciprocal tariff regime under a different name, with a dual-rate structure designed to pressure countries into signing trade agreements. \"The new tariffs proposed by US President Donald Trump under Section 301 excess-capacity investigations recreate the reciprocal-tariff regime under a new name,\" the report said."
+  },
+  {
+   "id": "037b99f7c9da3914",
+   "title": "RBI data shows gold reserves dipped by over 8% to $106 billion in September 2026: Details here",
+   "link": "https://www.livemint.com/money/rbi-data-shows-gold-reserves-dipped-by-over-8-to-106-billion-in-september-2026-details-here-11795668849936.html",
+   "source": "Mint Money",
+   "category": "Regulatory",
+   "published": "2026-11-26T05:00:51Z",
+   "summary": "Despite the decline in gold reserves, the overall foreign exchange reserve grew by over 6 per cent to $737.79 billion from April to September this year."
+  },
+  {
+   "id": "3a5afa66e472770f",
+   "title": "Trump's tariff policy: A timeline of changing duties, deals on Indian goods",
+   "link": "https://www.business-standard.com/economy/news/india-us-trade-tariffs-trump-trade-deal-sanctions-goods-timeline-duties-126112600186_1.html",
+   "source": "Business Standard",
+   "category": "Economy",
+   "published": "2026-11-26T04:59:23Z",
+   "summary": "India-US tariff timeline: The US has changed its tariff policy on Indian goods several times under President Donald Trump, with duties announced, withdrawn and proposed again At present, Indian goods entering the US attract a 10 per cent tariff over and above regular Customs duties. (Photo: Reuters)"
+  },
+  {
+   "id": "6ecb256383e6529a",
+   "title": "Sweet surge! Why sugar stocks jumped up to 14% today? Balrampur Chini, Shree Renuka, Bajaj Hindusthan - Rally reason?",
+   "link": "https://www.livemint.com/market/stock-market-news/sweet-surge-why-sugar-stocks-jumped-up-to-14-today-balrampur-chini-shree-renuka-bajaj-hindusthan-rally-reason-11795667663817.html",
+   "source": "Mint Markets",
+   "category": "Markets",
+   "published": "2026-11-26T04:58:57Z",
+   "summary": "Sugar stocks surged after ISMA forecast a 15% fall in gross sugar production in 2026-27. However, with no ethanol diversion assumed, estimated net output is about 5% below the previous season."
+  },
+  {
+   "id": "b1553eae468b0eb6",
+   "title": "BSE shares jump 48% in 2026 so far: HDFC Securities upgrades to BUY, hikes target; sees 18% returns | Revised price",
+   "link": "https://www.livemint.com/market/stock-market-news/bse-shares-jump-48-in-2026-so-far-hdfc-securities-upgrades-to-buy-hikes-target-sees-18-returns-revised-price-11795665701890.html",
+   "source": "Mint Markets",
+   "category": "Markets",
+   "published": "2026-11-26T04:57:32Z",
+   "summary": "BSE shares rose about 3% after HDFC Sec upgraded the stock to Buy from Add and raised its target price to ₹4,450. The brokerage cited recovering derivatives volumes, market-share gains and regulatory changes, while noting that Oct’s activity was boosted by volatility and an extra Sensex expiry."
+  },
+  {
+   "id": "40064f9a43828532",
+   "title": "Rupee depreciates 20 paise to 92.40 against US dollar in early trade",
+   "link": "https://www.business-standard.com/finance/news/rupee-depreciates-20-paise-to-92-40-against-us-dollar-in-early-trade-126112600182_1.html",
+   "source": "Press Trust of India",
+   "category": "Markets",
+   "published": "2026-11-26T04:56:17Z",
+   "summary": "Foreign fund inflows favoured the Indian currency, but it faced pressure after crude oil prices reversed easing, hovering above the $95-per-barrel level On Wednesday, the rupee jumped 65 paise to settle at 92.20, the highest level this fiscal year so far | Image: Bloomberg"
   },
   {
    "id": "227cf30cf73e65b9",
-   "title": "Sensex today | Stock Market Live: Sensex gains 200 pts, Nifty above 25,800 in early trade; US tariffs in focus",
+   "title": "Sensex today | Stock Market Live: Sensex up 300 pts, Nifty above 25,850; US tariffs in focus",
    "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-26-november-2026/article71742218.ece",
    "source": "BusinessLine Markets",
    "category": "Markets",
-   "published": "2026-11-26T03:50:45Z",
+   "published": "2026-11-26T04:53:16Z",
    "summary": "Sensex, Nifty, Share Prices Live Updates: Sensex traded 207.95 pts or 0.25% positive at 84,146.23 by 9.16 am after opening at 84,301.40 from 83,938.28 previous close. Nifty 50 inched up 28.30 pts or 0.11% to 25,847.55."
   },
   {
-   "id": "bc2536b784ec0a93",
-   "title": "CBDT Notifies 1% and 3% Transfer Pricing Tolerance Range for AY 2026-27",
-   "link": "https://www.caclubindia.com/news/cbdt-notifies-1-percent-and-3-percent-transfer-pricing-tolerance-range-for-ay-2026-27-26975.asp",
+   "id": "9ef042884ee879fc",
+   "title": "Adani firms plan public bond sale to raise at least Rs 2,000 crore",
+   "link": "https://economictimes.indiatimes.com/markets/bonds/adani-firms-plan-public-bond-sale-to-raise-at-least-220-million/articleshow/136178950.cms",
+   "source": "Economic Times Markets",
+   "category": "Business",
+   "published": "2026-11-26T04:49:08Z",
+   "summary": "Adani Enterprises and Adani Power are planning public bond offerings to raise at least Rs 20 billion ($220 million), according to sources. The fundraising could help revive India's subdued public debt market, where issuances have lagged the previous fiscal year's levels. Both companies are working with local bond arrangers."
+  },
+  {
+   "id": "08d9ad147337f827",
+   "title": "Limits of GST First Appellate Authority: Binding Precedents, Remand and Additional Evidence",
+   "link": "https://taxguru.in/goods-and-service-tax/limits-gst-appellate-authority-binding-precedents-remand-additional-evidence.html",
+   "source": "TaxGuru GST",
+   "category": "Indirect Tax",
+   "published": "2026-11-26T04:48:33Z",
+   "summary": "Analysis of GST first appellate jurisdiction under Section 107, binding precedents, prohibited remand, enhancement, limitation and Rule 112 evidence. The appellate authority is a creature of the statute. It has no inherent power. Whatever it does must be traced to Section 107 and to Rules 108 to 113 of the Central Goods and Services Tax Rules, 2017 . Section 107(11) states its power in plain words: after making such further inquiry as may be necessary, it shall pass such order as it thinks just and proper, confirming, modifying or annulling the decision or order appealed against, but it shall not…"
+  },
+  {
+   "id": "c32b118dd5b34412",
+   "title": "Madras HC Quashes Third GST Notice Repeating Same ITC Issue, Period and Amount",
+   "link": "https://taxguru.in/goods-and-service-tax/madras-hc-quashes-gst-notice-repeating-itc-issue-period-amount.html",
+   "source": "TaxGuru GST",
+   "category": "Indirect Tax",
+   "published": "2026-11-26T04:46:56Z",
+   "summary": "Madras HC sets aside a third GST notice involving Rs.56.17 crore in alleged excess ITC as it duplicated an earlier notice pending adjudication. A taxpayer answers a GST notice. The Department accepts the reply and drops the proceedings. Nearly two years later, the same issue appears in another notice. The taxpayer replies again. While that reply is awaiting adjudication, a third notice is issued covering the identical issue, the same tax period and the exact same amount. This is the sequence recorded by the Madras High Court in Popular Mega Motors India Private Limited v."
+  },
+  {
+   "id": "a1d4374d2a46cf40",
+   "title": "Multibagger stock Diamond Power gains 2% on order wins from Adani group",
+   "link": "https://www.business-standard.com/markets/news/multibagger-stock-diamond-power-gains-2-on-order-wins-from-adani-group-126112600174_1.html",
+   "source": "Business Standard",
+   "category": "Markets",
+   "published": "2026-11-26T04:46:16Z",
+   "summary": "Diamond Power stock has delivered spectacular returns to investors, gaining 155 per cent on a year-to-date (YTD) basis and 3353 per cent over three years."
+  },
+  {
+   "id": "64cc3b8117ba4158",
+   "title": "Dhampur, Balrampur, Renuka zoom up to 14%; here's why sugar stocks rallied",
+   "link": "https://www.business-standard.com/markets/news/dhampur-balrampur-renuka-zoom-up-to-14-here-s-why-sugar-stocks-rallied-today-126112600164_1.html",
+   "source": "Business Standard",
+   "category": "Markets",
+   "published": "2026-11-26T04:44:11Z",
+   "summary": "According to reports, India's net sugar production is projected to decline to a decade low of 26.52 MT in the 2026-27 marketing year due to lower sugarcane output and poor monsoon rains."
+  },
+  {
+   "id": "9f0bb598e0e4d232",
+   "title": "Crude oil price rises on reports of Houthi attack on Saudi refinery",
+   "link": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-price-rises-on-reports-of-houthi-attack-on-saudi-refinery/article71745177.ece",
+   "source": "BusinessLine Markets",
+   "category": "Markets",
+   "published": "2026-11-26T04:40:36Z",
+   "summary": "Oil futures rise on reports of Houthi attack on Saudi refinery, signaling higher risk premium amid Strait of Hormuz tensions. Crude oil futures traded higher on Thursday morning following reports of the Houthi attack on a refinery in Saudi Arabia. At 10.01 am on Thursday, January Brent oil futures were at $95.25, up by 0.68 per cent, and January crude oil futures on WTI (West Texas Intermediate) were at $84.32, up by 0.76 per cent."
+  },
+  {
+   "id": "bbef782bb43e1e00",
+   "title": "Jyoti Structures shares spike 9% on ₹272-crore transmission line order win",
+   "link": "https://www.business-standard.com/markets/news/jyoti-structures-shares-spike-9-on-272-crore-transmission-line-order-win-126112600163_1.html",
+   "source": "Business Standard",
+   "category": "Markets",
+   "published": "2026-11-26T04:37:05Z",
+   "summary": "The order is a continuation of an earlier EPC contract awarded by Sterlite Power Transmission in September 2022."
+  },
+  {
+   "id": "69900d515c9954d3",
+   "title": "Gold sinks to 1-year low despite inflation: Why are investors dumping bullion?",
+   "link": "https://www.livemint.com/money/personal-finance/gold-sinks-to-1-year-low-despite-inflation-why-are-investors-dumping-bullion-11795665217240.html",
+   "source": "Mint Money",
+   "category": "Economy",
+   "published": "2026-11-26T04:35:59Z",
+   "summary": "Gold fell to a more than one-year low as persistent US inflation fueled expectations of higher interest rates, reducing bullion’s appeal. A broader market sell-off and risk aversion also pressured prices, while silver, platinum and palladium rose."
+  },
+  {
+   "id": "167f4995339d13f2",
+   "title": "Download RBI Bulletin November 2026 PDF | Reserve Bank of India",
+   "link": "https://www.caclubindia.com/share_files/rbi-bulletin-november-2026-85835.asp",
+   "source": "CAclubindia",
+   "category": "Regulatory",
+   "published": "2026-11-26T04:26:00Z",
+   "summary": "Download the November 2026 RBI Bulletin PDF for free. Features articles on the economy, imported inflation, NBFC sector performance, and US monetary policy impact."
+  },
+  {
+   "id": "aa8058ff37e80c92",
+   "title": "Download TDS on Corporate Payments IT Act 2025 Calculator",
+   "link": "https://www.caclubindia.com/share_files/tds-on-corporate-payments-as-per-it-act-2025-85836.asp",
    "source": "CAclubindia",
    "category": "Direct Tax",
-   "published": "2026-11-26T03:49:00Z",
-   "summary": "Discover the new 1% and 3% transfer pricing tolerance ranges for AY 2026-27, notified by CBDT. Learn how this impacts your business transactions. The Ministry of Finance, through Notification No. 153/2026 dated November 25, 2026 , issued the Income-tax (Removal of Difficulties) Order, 2026, under Section 535 of the Income-tax Act, 2025. The notification addresses difficulties arising in determining the Arm's Length Price (ALP) for the tax year ending March 31, 2026, corresponding to Assessment Year 2026-27."
+   "published": "2026-11-26T04:26:00Z",
+   "summary": "Free download: TDS calculator for corporate payments under India's IT Act 2025. Useful for companies & deductors managing domestic withholding tax. Covers rates & sections."
   },
   {
-   "id": "01a9d485e49e183b",
-   "title": "Britannia Industries among 4 stocks closing above VWAP",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/news/britannia-industries-among-4-stocks-closing-above-vwap/slideshow/136177856.cms",
-   "source": "Economic Times Markets",
-   "category": "Markets",
-   "published": "2026-11-26T03:45:17Z",
-   "summary": "Four Nifty500 stocks closed more than 2% above their respective volume-weighted average prices on November 25, according to StockEdge’s technical scan, indicating that they ended the session above their average traded levels."
+   "id": "457e55585c3d3bd3",
+   "title": "US tariff threat: Indian traders urge Modi to hit back with 25% duty",
+   "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-tariff-threat-indian-traders-urge-modi-to-hit-back-with-25-duty/articleshow/136178272.cms",
+   "source": "Economic Times Economy",
+   "category": "Economy",
+   "published": "2026-11-26T04:16:45Z",
+   "summary": "The Chamber of Trading Industry (CTI) has urged the government to consider imposing a 25 per cent retaliatory tariff on US goods if Washington proceeds with higher duties on Indian products, warning that the proposed measures could affect exports worth USD 48 billion and put around five lakh jobs at risk."
   },
   {
-   "id": "cd569f1f58811b20",
-   "title": "Avenue Supermarts among 3 stocks showing RSI trending up",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/news/avenue-supermarts-among-3-stocks-showing-rsi-trending-up/slideshow/136177712.cms",
-   "source": "Economic Times Markets",
-   "category": "Markets",
-   "published": "2026-11-26T03:41:43Z",
-   "summary": "Three Nifty500 stocks that gained over 5% on November 26 featured in StockEdge’s RSI Trending Up scan, with their Relative Strength Index (RSI) crossing above 50 from below, signalling strengthening price momentum."
+   "id": "c0bb284ff045d2d2",
+   "title": "USTR proposes new tariffs on 14 trading partners, including 25% on India; Indian experts react",
+   "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/ustr-proposes-new-tariffs-on-14-trading-partners-including-25-on-india-indian-experts-react/videoshow/136178264.cms",
+   "source": "Economic Times Economy",
+   "category": "Economy",
+   "published": "2026-11-26T04:11:31Z",
+   "summary": "Amid the proposed US tariffs of 17% on Indian goods under a trade deal and 25% without one, CTI Chairman Brijesh Goyal said traders were angry and urged PM Modi to impose a reciprocal 25% tariff on US goods. Indian experts also shared their reactions."
   },
   {
-   "id": "9bc6aaa4b8c29cd1",
-   "title": "Oil prices rise on supply concerns as Iran claims mine strikes on ships",
-   "link": "https://www.business-standard.com/markets/commodities/oil-prices-rise-on-supply-concerns-as-iran-claims-mine-strikes-on-ships-126112600085_1.html",
-   "source": "Reuters",
-   "category": "Markets",
-   "published": "2026-11-26T03:38:36Z",
-   "summary": "Brent ‌crude futures were 10 cents, or 0.1%, higher at $94.71 a barrel by 0137 GMT while US West Texas Intermediate crude futures rose 35 cents, or 0.4%, to $84.03 a barrel"
+   "id": "026037e08774b761",
+   "title": "SEBI Relaxes KYC Norms for Investors: Aadhaar Mobile Verification Made Optional",
+   "link": "https://www.caclubindia.com/news/sebi-relaxes-kyc-norms-for-investors-aadhaar-mobile-verification-made-optional-26978.asp",
+   "source": "CAclubindia",
+   "category": "Regulatory",
+   "published": "2026-11-26T04:05:00Z",
+   "summary": "SEBI simplifies investor onboarding! Aadhaar mobile verification is now optional, KYC records are more portable, and documentation is eased. Learn more. Through Circular No. HO/38/14/(25)2026-MIRSD-POD3 dated November 25, 2026 , SEBI has announced several measures aimed at making the KYC process more convenient for investors while rationalising the risk management framework followed by KYC Registration Agencies (KRAs). The changes cover multiple aspects of KYC compliance, including centralisation of client information, verification of Aadhaar-linked mobile numbers, changes in name, overseas address proof requirements and the handling of inactive or unlinked KYC records."
   },
   {
-   "id": "a8121e8fbd6b0565",
-   "title": "GST on Free Warranty Replacements: Rules for Manufacturers, Distributors and Importers",
-   "link": "https://www.caclubindia.com/articles/gst-on-free-warranty-replacements-rules-for-manufacturers-distributors-and-importers-56724.asp",
+   "id": "e2515704c0fb5b8c",
+   "title": "CBIC Amends GST Rule 20: New Conditions for Automatic Cancellation of GST Registration from 1st Dec 2026",
+   "link": "https://www.caclubindia.com/news/cbic-amends-gst-rule-20-new-conditions-for-automatic-cancellation-of-gst-registration-from-1st-dec-2026-26977.asp",
    "source": "CAclubindia",
    "category": "Indirect Tax",
-   "published": "2026-11-26T03:36:00Z",
-   "summary": "Understand GST on free warranty replacements, ITC reversal, distributor transactions, extended warranties and import of replacement parts under CBIC Circular 195/07/2023-GST. An extended warranty bought separately is a separate supply. Bought with the original supply, it may form part of a composite or mixed supply; bought later, it is a distinct taxable supply. Where a foreign OEM sends replacement parts into India free of cost, customs duty and IGST still apply at import on the assessable value, despite the absence of consideration. The Indian subsidiary acting as importer should document the warranty claims to support valuation and any duty-related claims."
-  },
-  {
-   "id": "34e6f4246a51b531",
-   "title": "Audit Careers in BFSI: Skills Beyond a CA Qualification",
-   "link": "https://www.caclubindia.com/articles/audit-careers-in-bfsi-skills-beyond-a-ca-qualification-56747.asp",
-   "source": "CAclubindia",
-   "category": "Accounting",
-   "published": "2026-11-26T03:36:00Z",
-   "summary": "Explore the essential skills Chartered Accountants need to build a successful BFSI audit career, including risk-based auditing, IT controls, data analytics, regulatory compliance and professional qualifications. As financial institutions adopt digital banking platforms, automated processes, sophisticated risk management systems and technology-driven controls, the responsibilities of audit professionals have become more complex. Employers need professionals who can identify risks, evaluate internal controls, understand financial systems, assess regulatory compliance and communicate meaningful findings to management. For Chartered Accountants and finance professionals looking to develop careers in BFSI audit, understanding these additional capabilities can help them make better career decisions."
-  },
-  {
-   "id": "020af55843afb432",
-   "title": "Pros and cons of investing in L&T",
-   "link": "https://www.livemint.com/market/stock-market-news/lt-share-price-l-t-outlook-l-t-pros-and-cons-investing-in-lt-11795609579480.html",
-   "source": "Mint Markets",
-   "category": "Markets",
-   "published": "2026-11-26T03:30:50Z",
-   "summary": "Should investors consider the stock of L&T? Find out… It’s engaged in providing engineering, procurement, and construction (EPC) solutions in sectors such as Infrastructure, hydrocarbon, power , process industries, defence , information technology, and financial services. It operates in over 50 countries. It operates across the following business segments – projects, hi-tech manufacturing, and services, through segments such as infrastructure & utilities, energy , manufacturing & products, and technology platforms & services, the last of which houses its growing data center, semiconductor, and digital platforms businesses which the stock market is most excited about."
-  },
-  {
-   "id": "182fbb7345683251",
-   "title": "How interest rate changes affect debt funds: Short- vs long-duration funds",
-   "link": "https://www.business-standard.com/finance/personal-finance/how-interest-rate-changes-affect-debt-funds-short-vs-long-duration-funds-126112501024_1.html",
-   "source": "Business Standard",
-   "category": "Business",
-   "published": "2026-11-26T03:30:15Z",
-   "summary": "When interest rates rise, prices of longer-duration bonds may come under greater pressure, while the impact on shorter-duration bonds is generally less pronounced"
-  },
-  {
-   "id": "0d0460eb51284890",
-   "title": "Foodlink F&B IPO review: Why brokerages are divided on ₹361-crore issue",
-   "link": "https://www.business-standard.com/markets/news/foodlink-f-b-ipo-review-why-brokerages-are-divided-on-361-crore-issue-126112600087_1.html",
-   "source": "Business Standard",
-   "category": "Markets",
-   "published": "2026-11-26T03:29:45Z",
-   "summary": "Foodlink F&B IPO review: Brokerages are divided on the issue, with Anand Rathi assigning a 'Subscribe - Long Term' rating, while SBI Securities has given it a 'Neutral' rating."
-  },
-  {
-   "id": "b627eacf3e6761f0",
-   "title": "Positive Breakout: These 5 stocks rose above their 200 DMAs",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-5-stocks-rose-above-their-200-dmas/slideshow/136177467.cms",
-   "source": "Economic Times Markets",
-   "category": "Markets",
-   "published": "2026-11-26T03:29:35Z",
-   "summary": "In the Nifty 500 pack, five stocks gained over 4% and closed above their respective 200-day moving averages (DMA) on November 19, 2026, according to StockEdge's technical scan data. The 200-DMA is a key technical indicator used to assess a stock's long-term trend."
+   "published": "2026-11-26T03:59:00Z",
+   "summary": "CBIC amends GST Rule 20 from Dec 1, 2026. Learn new conditions for automatic GST registration cancellation and when officers will review applications. Through Notification No. 08/2026-Central Tax dated November 25, 2026 , the Central Government has introduced changes to sub-rules (5) and (6) of Rule 20. The amended provisions will come into effect from December 1, 2026 . Under the amended Rule 20, the processing of a GST registration cancellation application will depend on whether the taxpayer has fulfilled the prescribed return-filing and payment requirements."
   },
   {
    "id": "c431764dd4fbcf43",
@@ -126,24 +207,6 @@
    "category": "Indirect Tax",
    "published": "2026-11-26T03:22:01Z",
    "summary": "CBI says two Bhubaneswar CGST Superintendents were caught accepting ₹3 lakh after an alleged ₹4 lakh demand linked to a four-year company audit. Summary : The Central Bureau of Investigation (CBI) said it apprehended two Central Goods and Services Tax (CGST) Superintendents in Bhubaneswar on 23 November 2026 in a bribery case . The agency registered the case on the same day after receiving a complaint against the two officers. According to the press release, the complaint alleged that the officers had demanded ₹4 lakh from the complainant to process the audit of his company ."
-  },
-  {
-   "id": "9c830dc52ef98279",
-   "title": "Rupee has room to rally further before RBI steps in, say strategists",
-   "link": "https://www.business-standard.com/finance/news/rupee-has-room-to-rally-further-before-rbi-steps-in-say-strategists-126112600079_1.html",
-   "source": "Bloomberg",
-   "category": "Regulatory",
-   "published": "2026-11-26T03:11:58Z",
-   "summary": "ANZ Banking Group sees room for the rupee to gain to 90-91 per dollar, while ICICI Securities Primary Dealership expects it to reach at least 91, about 1.4% stronger than its current level"
-  },
-  {
-   "id": "298b6673d1eb7cfd",
-   "title": "Indian shares set to extend gains on strong foreign flows; US tariffs in focus",
-   "link": "https://www.livemint.com/market/indian-shares-set-to-extend-gains-on-strong-foreign-flows-us-tariffs-in-focus-11795662523778.html",
-   "source": "Mint Markets",
-   "category": "Markets",
-   "published": "2026-11-26T03:10:01Z",
-   "summary": "US tariffs will also be in focus after the Trump administration proposed levies on imports from 14 trading partners, including India, to combat what it calls structural excess industrial capacity."
   },
   {
    "id": "349a3b9259d3162f",
@@ -162,24 +225,6 @@
    "category": "Economy",
    "published": "2026-11-25T22:30:00Z",
    "summary": ""
-  },
-  {
-   "id": "6dfd3c34eef7f290",
-   "title": "HERIF launched to boost funding for Telangana universities",
-   "link": "https://www.thehansindia.com/amp/news/cities/hyderabad/herif-launched-to-boost-funding-for-telangana-universities-1145806",
-   "source": "The Hans India",
-   "category": "Business",
-   "published": "2026-11-25T20:27:01Z",
-   "summary": "New initiative to promote research, innovation and industry-academia collaboration Hyderabad: Prof V Balakista Reddy, Chairman, Telangana Council of Higher Education (TGCHE), announced the launch of the Higher Education Research & Innovation Foundation (HERIF), a dedicated Section 8 not-for-profit company, aimed at mobilising alternative sources of funding to strengthen public universities in Telangana. Addressing the media on Wednesday, he said that through HERIF, universities can explore diverse resource-mobilisation opportunities, including Corporate Social Responsibility (CSR) contributions, industry-sponsored research, consultancy services, corporate training, executive education, alum contributions, philanthropic donations, institutional endowments, and national and international research grants."
-  },
-  {
-   "id": "a2d3c190cb0a7c5c",
-   "title": "Fast-Track Merger vs NCLT Route In 2026: Which Should Companies Choose?",
-   "link": "https://www.legal500.com/intelligence/india/corporate-commercial-law/fast-track-merger-vs-nclt-route-in-2026-which-should-companies-choose",
-   "source": "Legal 500",
-   "category": "Regulatory",
-   "published": "2026-11-25T20:13:29Z",
-   "summary": "Indian companies navigating mergers in 2026 face a critical choice between the fast-track Regional Director route under Section 233 and the traditional NCLT… • Full-service law firm established in 2004 by Mr. Vipul Maheshwari, headquartered in New Delhi,... Before a merger scheme can take effect, someone has to approve it. For most companies that someone is the National Company Law Tribunal (NCLT) , acting under Sections 230–232 of the Companies Act, 2013. Section 233 offers a shortcut for eligible companies: approval from the Regional Director (RD) of the Ministry of Corporate Affairs. The tribunal route is judicial and detailed."
   },
   {
    "id": "05c57859f5b53d60",
@@ -209,51 +254,6 @@
    "summary": "Jain shared these insights while participating in a panel discussion on “Auditing Central PSUs: Accountability, Reporting and the Auditor’s Role” at the National Workshop and Interactive Meet on Strengthening Statutory Audit in PSUs Copied New Delhi: NBCC (India) Limited Director (Finance) CMA Anjeev Kumar Jain has emphasised the need for early engagement with statutory auditors, robust financial reporting practices and greater Board-level oversight to strengthen statutory audits in public sector undertakings (PSUs)."
   },
   {
-   "id": "11814b488deaaf10",
-   "title": "Importer Need Not Challenge Assessment For Refund After Anti-Dumping Duty Set At Nil: Bombay High Court",
-   "link": "https://www.livelawbiz.com/amp/customs/high-court/importer-need-not-challenge-assessment-for-refund-after-anti-dumping-duty-set-at-nil-bombay-high-court-560017",
-   "source": "LiveLawBiz",
-   "category": "Indirect Tax",
-   "published": "2026-11-25T15:52:08Z",
-   "summary": "The Bombay High Court has held that an importer need not challenge the assessment of bills of entry to claim a refund of provisional anti-dumping duty when the final duty is determined as nil.“The... “The refund becomes automatic after the Second Notification is issued under Section 9A(1) of the Customs Tariff Act, 1975, and the same was required to be processed since the Anti-Dumping Duty was finally determined as 'Nil'. There is no necessity for the Respondent to thereafter file an appeal against the assessment or reassessment,” a bench of Justice B.P. Colabawalla and Justice Farhan P. Dubash observed."
-  },
-  {
-   "id": "c258d7cf427adfdb",
-   "title": "GTRI asks CBIC to release guidelines on resolving Scotch classification dispute",
-   "link": "https://flipit.money/flips/gtri-asks-cbic-to-release-guidelines-on-resolving-scotch-classification-dispute",
-   "source": "FlipItMoney",
-   "category": "Indirect Tax",
-   "published": "2026-11-25T15:39:11Z",
-   "summary": "Economic think tank GTRI urged India's CBIC to issue guidelines on Scotch whisky and bulk spirits classification after customs authorities began reclassifying b Ad 25/11/2026, 9:07:02 pm GTRI asks CBIC to release guidelines on resolving Scotch classification dispute Economic think tank GTRI urged India's CBIC to issue guidelines on Scotch whisky and bulk spirits classification after customs authorities began reclassifying bulk Scotch under a different tariff code, doubling the basic customs duty from 75% to 150% and violating the India-UK trade pact. GTRI emphasized aligning with international customs rules and Indian court precedents to resolve the dispute."
-  },
-  {
-   "id": "350e69a8912c9192",
-   "title": "Attempt to evade Tk 75 lakh in revenue thru misuse of bond facility detected",
-   "link": "https://www.bssnews.net/others/450186",
-   "source": "Bangladesh Sangbad Sangstha (BSS)",
-   "category": "Business",
-   "published": "2026-11-25T15:15:11Z",
-   "summary": ""
-  },
-  {
-   "id": "7b7afca76ad07379",
-   "title": "Supreme Court Clarifies NFRA Interim Order Applies Only to Parties in 11 Writ Petitions",
-   "link": "https://thetaxcorp.in/article/supreme-court-clarifies-nfra-interim-order-applies-only-to-parties-in-11-writ",
-   "source": "TaxCorp AI",
-   "category": "Accounting",
-   "published": "2026-11-25T14:27:24Z",
-   "summary": ""
-  },
-  {
-   "id": "f5950a6ba669c1fc",
-   "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on November 26, 2026",
-   "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64043",
-   "source": "RBI Press Releases",
-   "category": "Regulatory",
-   "published": "2026-11-25T13:50:00Z",
-   "summary": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Thursday, November 26, 2026, as under: Sl. No. Notified Amount (₹ crore) Tenor (day) Window Timing Date of Reversal 1 75,000 1 09:30 AM to 10:00 AM November 27, 2026 (Friday) 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 . Ajit Prasad Deputy General Manager (Communications) Press Release: 2026-2027/1565"
-  },
-  {
    "id": "55833b6760fc437e",
    "title": "47th Half-Yearly Report on Management of Foreign Exchange Reserves: April – September 2026",
    "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64042",
@@ -274,13 +274,112 @@
  ],
  "breaking": [
   {
-   "id": "0a7856f5fcf9158b",
-   "title": "Indian economy stands out amidst uneven global performance: RBI",
-   "link": "https://www.fortuneindia.com/economy/indian-economy-stands-out-amidst-uneven-global-performance-rbi/172359",
-   "source": "Fortune India",
+   "id": "570ddf0735723979",
+   "title": "India bonds tumble as Brent tops $95 per barrel, RBI flags food inflation risks",
+   "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4770AR:0-india-bonds-tumble-as-brent-tops-95-per-barrel-rbi-flags-food-inflation-risks/",
+   "source": "TradingView",
    "category": "Regulatory",
-   "published": "2026-11-26T03:50:51Z",
-   "summary": "Discover how the Indian economy shines amidst global challenges, driven by strong credit demand and resilience in domestic activity, as highlighted in RBI's November bulletin. The Reserve Bank of India (RBI) said the Indian economy has stood out amidst uneven economic performance globally, on the back of strong credit demand. In the monthly bulletin for November, RBI said supply side challenges, elevated energy prices, and geopolitical uncertainty continue to remain significant headwinds. \"Supply side challenges, elevated energy prices, and geopolitical uncertainty remain significant headwinds to the global economic outlook,\" the bulletin said."
+   "published": "2026-11-26T04:40:00Z",
+   "summary": "By Dharamraj DhutiaIndian government bonds fell in early deals on Thursday, more than giving back the previous day's gains as oil prices surged and the local central bank highlighted broad-based food inflation pressures just days ahead of its monetary policy decision.The benchmark 6.94% 2036 bond…"
+  },
+  {
+   "id": "c8a1d6fb5a7fc913",
+   "title": "Indian economy stood out amid uneven global growth: RBI",
+   "link": "https://nagalandpost.com/indian-economy-stood-out-amid-uneven-global-growth-rbi/",
+   "source": "Nagaland Post",
+   "category": "Regulatory",
+   "published": "2026-11-26T04:35:14Z",
+   "summary": "Thursday, November 26, 2026 Nagaland Post Nagaland Post Nagaland Northeast National World Infotainment NagaBuzz Sports Nagaland Sports Business Editorial Opinion Nagaland Post Nagaland Northeast National World Infotainment NagaBuzz Sports Nagaland Sports Business Editorial Opinion Business News Indian economy stood out amid uneven global growth: RBI Indian economy stood out amid uneven global growth: RBI November 26, 2026 Mumbai, Nov 25 (IANS): The Indian economy stood out amidst uneven economic performance globally, with high-frequency indicators of the country’s domestic economic activity showing resilience in October, underpinned by strong credit demand, according to the RBI’s November bulletin released on Wednesday."
+  },
+  {
+   "id": "69d1fe51d0d6ae39",
+   "title": "SRF, Cipla, Thermax: Who's impacted by US tariffs and who's not; Jefferies answers",
+   "link": "https://www.business-standard.com/markets/news/srf-cipla-thermax-who-s-impacted-by-us-tariffs-and-who-s-not-jefferies-answers-126112600149_1.html",
+   "source": "Business Standard",
+   "category": "Economy",
+   "published": "2026-11-26T04:33:12Z",
+   "summary": "However, the brokerage noted that a significant portion of India's $104 billion annual exports to the US remains outside the current tariff framework or is subject to sector-specific levies."
+  },
+  {
+   "id": "65cd18a3def3bef1",
+   "title": "RBI brings back 60 tonnes of gold in six months, domestic holdings rise to 84%",
+   "link": "https://www.moneycontrol.com/news/business/banks/rbi-brings-back-60-tonnes-of-gold-in-six-months-domestic-holdings-rise-to-84-14089309.html",
+   "source": "Moneycontrol.com",
+   "category": "Regulatory",
+   "published": "2026-11-26T04:26:28Z",
+   "summary": "The central bank’s total gold reserves remained unchanged at 880.52 tonnes, while the value of its holdings declined to $106.08 billion The Reserve Bank of India brought 60.08 tonnes of gold back home between April and September, taking its domestically held reserves to roughly 84 percent from 77.23 percent at the end of March. By the end of September, the central bank held 740.13 tonnes of its 880.52-tonne gold reserves in the country, up from 680.05 tonnes in March, according to its half-yearly foreign exchange report."
+  },
+  {
+   "id": "13a3c8560b43a651",
+   "title": "RBI withdraws net liquidity of ₹29,026 crore through money market operations on November 25",
+   "link": "https://tradersunion.com/news/central-banks/show/4423607-rbi-money-market-liquidity-absorption/",
+   "source": "Traders Union",
+   "category": "Regulatory",
+   "published": "2026-11-26T04:21:32Z",
+   "summary": ""
+  },
+  {
+   "id": "c886502476bded8e",
+   "title": "Siemens Energy jumps 9% as Sept qtr PAT rises 81%; ₹12 dividend declared",
+   "link": "https://www.business-standard.com/markets/news/siemens-energy-jumps-9-as-sept-qtr-pat-rises-81-12-dividend-declared-126112600125_1.html",
+   "source": "Business Standard",
+   "category": "Business",
+   "published": "2026-11-26T04:16:24Z",
+   "summary": "Siemens Energy India has posted an 81.5 per cent Y-o-Y rise in net profit to ₹653 crore in the September quarter, supported by higher export contribution and disciplined order execution."
+  },
+  {
+   "id": "0689185a9624e34b",
+   "title": "Sebi’s IPO grey market advisory is well-intentioned…",
+   "link": "https://the-ken.com/kaching/sebis-ipo-grey-market-advisory-is-well-intentioned/?utm_source=daily_email&utm_medium=email&utm_campaign=daily_story_crossdiscovery",
+   "source": "The Ken",
+   "category": "Regulatory",
+   "published": "2026-11-26T04:15:48Z",
+   "summary": "… but hard to implement in a well-entrenched ecosystem Array ( ) × Email Whitelisting If a pre-filled email hasn’t opened up for you, please do one of the following: Copy the text below and send it as an email to [email protected] Subject : Email Whitelisting Body : Hi, I'd like to receive all communications from The Ken. In the meantime, if you want to tell someone about The Ken, gift them a story. Your email is on its way!"
+  },
+  {
+   "id": "40c8bf210524d79b",
+   "title": "Opening multiple demat or mutual fund accounts? SEBI simplifies KYC norms: 8 key changes for investors from 24 December",
+   "link": "https://www.livemint.com/money/personal-finance/opening-multiple-demat-or-mutual-fund-accounts-sebi-simplifies-kyc-norms-8-key-changes-for-investors-from-24-december-11795659284549.html",
+   "source": "Livemint",
+   "category": "Regulatory",
+   "published": "2026-11-26T04:10:58Z",
+   "summary": "SEBI has announced eight changes to simplify the KYC process for investors opening demat, trading and mutual fund accounts with multiple intermediaries. The new rules will reduce paperwork and avoid repeated verification. Here's what changes from 24 December. Opening a demat, trading or mutual fund account could become simpler as the Securities and Exchange Board of India ( SEBI ) has announced eight changes to the Know Your Customer (KYC) process. The changes will reduce repeated documentation, make KYC records portable across market intermediaries and improve the management of client information by KYC Registration Agencies (KRAs)."
+  },
+  {
+   "id": "78859e63b3f900cf",
+   "title": "SEBI Proposes Early Pay-Out of Up to 80% of Sale Proceeds for Farmer Producer Organisations",
+   "link": "https://taxguru.in/sebi/sebi-proposes-early-pay-80-percent-sale-proceeds-farmer-producer-organisations.html",
+   "source": "TaxGuru",
+   "category": "Regulatory",
+   "published": "2026-11-26T04:06:04Z",
+   "summary": "SEBI proposes early pay-out of up to 80% of sale proceeds for FPOs in commodity derivatives, with safeguards and broker exposure limits. Summary : The Securities and Exchange Board of India (SEBI), through its consultation paper dated November 25, 2026, has proposed an Early Pay-Out (EPO) framework for Farmer Producer Organisations (FPOs) participating in the agricultural commodity derivatives segment. The proposal seeks to address liquidity and working capital constraints faced by FPOs due to delays in realisation of sale proceeds until contract expiry."
+  },
+  {
+   "id": "c91f13773e7424b5",
+   "title": "SEBI Simplifies KYC Process and Rationalises Risk Management Framework for KRAs",
+   "link": "https://taxguru.in/sebi/sebi-simplifies-kyc-process-rationalises-risk-management-framework-kras.html",
+   "source": "TaxGuru",
+   "category": "Regulatory",
+   "published": "2026-11-26T04:05:22Z",
+   "summary": "SEBI simplifies KYC onboarding, centralises client information, eases verification and portability, and revises KRA compliance norms from December 24, 2026. Summary : SEBI, vide Circular No. HO/38/14/(25)2026-MIRSD-POD3 dated November 25, 2026, has simplified client onboarding and rationalised the risk management framework applicable to KYC Registration Agencies (KRAs) . The revised framework centralises supplementary client information, including income range, occupation, FATCA and CRS information, politically exposed person status, CKYC ID, DIGIPIN and validity of officially valid documents."
+  },
+  {
+   "id": "a0a21763278dec42",
+   "title": "SEBI Retains BSE 200 and Nifty CPSE in Half-Yearly Significant Indices Review",
+   "link": "https://taxguru.in/sebi/sebi-retains-bse-200-nifty-cpse-yearly-significant-indices-review.html",
+   "source": "TaxGuru",
+   "category": "Regulatory",
+   "published": "2026-11-26T04:03:43Z",
+   "summary": "SEBI keeps its Significant Indices list unchanged after the January–June 2026 review and retains BSE 200 and Nifty CPSE despite both missing the AUM threshold. Summary : SEBI completed its half-yearly review of Significant Indices under the SEBI (Index Providers) Regulations, 2024 for the period from 1 January to 30 June 2026. Its circular dated 25 November 2026 keeps the list in Annexure-A to the circular of 5 May 2026 unchanged."
+  },
+  {
+   "id": "a93c1b420c756379",
+   "title": "LG Electronics India falls 3% as parent launches ₹2,320-cr stake sale",
+   "link": "https://www.business-standard.com/markets/news/lg-electronics-india-falls-3-as-parent-launches-2-320-cr-stake-sale-126112600116_1.html",
+   "source": "Business Standard",
+   "category": "Business",
+   "published": "2026-11-26T03:58:35Z",
+   "summary": "LG Electronics Inc, launched a block deal to sell up to a 2 per cent stake in the company for as much as ₹2,320.5 crore."
   },
   {
    "id": "080a4fe624ffcef0",
@@ -288,7 +387,7 @@
    "link": "https://www.businessworld.in/article/inflationary-pressures-spread-across-states-consumer-categories-rbi-paper-635236",
    "source": "BW Businessworld",
    "category": "Regulatory",
-   "published": "2026-11-26T03:48:32Z",
+   "published": "2026-11-26T03:49:50Z",
    "summary": "Rising food and services prices widen inflationary pressures, with 11 states recording inflation above 6 per cent in October, ahead of the RBI's December 4 monetary policy review Inflationary pressures in India are becoming more widespread, with a growing number of consumer goods and services recording faster price increases in October, according to a Reserve Bank of India (RBI) staff paper released on Wednesday, raising concerns ahead of the central bank's monetary policy decision next week."
   },
   {
@@ -325,7 +424,16 @@
    "source": "HDFC Sky",
    "category": "Regulatory",
    "published": "2026-11-26T03:30:08Z",
-   "summary": "India's net FDI turned negative at $4.95 billion in September as gross inflows declined, repatriation rose and overseas investments surged. Tech Mahindra ₹1,801.20 0.00 ( 0.00% ) - BSE ₹3,775.20 0.00 ( 0.00% ) - Bajaj Finance ₹1,131.35 0.00 ( 0.00% ) - Bharat Electronics ₹404.30 0.00 ( 0.00% ) - Cipla ₹1,433.20 0.00 ( 0.00% ) - SBI ₹1,138.15 0.00 ( 0.00% ) - Titan Company ₹4,686.60 0.00 ( 0.00% ) - Dr."
+   "summary": "India's net FDI turned negative at $4.95 billion in September as gross inflows declined, repatriation rose and overseas investments surged. BSE ₹3,888.60 113.40 ( 3.00% ) Nestle ₹1,331.80 -26.70 ( -1.97% ) Infosys ₹1,162 32.00 ( 2.83% ) Bajaj Finserv ₹1,889.70 -35.30 ( -1.83% ) HCL Technologies ₹1,410.50 30.50 ( 2.21% ) Bajaj Finance ₹1,113.10 -18.25 ( -1.61% ) HDFC Bank ₹862.85 16.65 ( 1.97% ) Maruti Suzuki ₹13,987 -213.00 ( -1.50% ) Hindalco Industries ₹904 14.10 ( 1.58% ) InterGlobe Aviation ₹5,643.50 -76.50 ( -1.34% ) TCS ₹2,555.70 38.40 ( 1.53% ) Eicher Motors ₹8,229 -107.00 ( -1.28% )…"
+  },
+  {
+   "id": "0d0460eb51284890",
+   "title": "Foodlink F&B IPO review: Why brokerages are divided on ₹361-crore issue",
+   "link": "https://www.business-standard.com/markets/news/foodlink-f-b-ipo-review-why-brokerages-are-divided-on-361-crore-issue-126112600087_1.html",
+   "source": "Business Standard",
+   "category": "Markets",
+   "published": "2026-11-26T03:29:45Z",
+   "summary": "Foodlink F&B IPO review: Brokerages are divided on the issue, with Anand Rathi assigning a 'Subscribe - Long Term' rating, while SBI Securities has given it a 'Neutral' rating."
   },
   {
    "id": "be53a5c92b4923d2",
@@ -344,114 +452,6 @@
    "category": "Business",
    "published": "2026-11-26T03:15:39Z",
    "summary": "The bond grader said it may cut Nvidia's AA rating, the third-highest level, after a 90-day review, known as putting the company on CreditWatch with negative implications"
-  },
-  {
-   "id": "238130a456552783",
-   "title": "SEBI Clarifies Valuer Registration Requirement for Merchant Bankers Under Regulation 13A",
-   "link": "https://taxguru.in/sebi/sebi-clarifies-valuer-registration-requirement-merchant-bankers-regulation-13a.html",
-   "source": "TaxGuru",
-   "category": "Regulatory",
-   "published": "2026-11-26T03:00:03Z",
-   "summary": "SEBI’s informal guidance to Navigant explains the registration needed for merchant bankers undertaking valuations under Regulation 13A. Summary : In an interpretive letter dated 16 November 2026, SEBI’s Nodal Co-ordination Cell responded to Navigant Corporate Advisors Limited, a registered merchant banker, on the application of Regulation 13A of the SEBI (Merchant Bankers) Regulations, 1992 to valuation activities under the Income Tax Act and the Foreign Exchange Management (Non-Debt Instruments) Rules, 2019 . The department stated that a merchant banker carrying out valuation activities must obtain registration from the relevant regulatory authority."
-  },
-  {
-   "id": "c1deb568aa4764e8",
-   "title": "From worst to best currency: Rupee closes in on 91 to dollar as RBI steps in, FPIs stage record return",
-   "link": "https://indianexpress.com/article/business/rupee-91-dollar-rbi-fpi-10978976/",
-   "source": "The Indian Express",
-   "category": "Regulatory",
-   "published": "2026-11-26T02:56:18Z",
-   "summary": ""
-  },
-  {
-   "id": "f6f66a352fe5d7d4",
-   "title": "India’s RBI raises domestic gold holdings to 740 tonnes in September By Investing.com",
-   "link": "https://in.investing.com/news/stock-market-news/indias-rbi-raises-domestic-gold-holdings-to-740-tonnes-in-september-93CH-5726120",
-   "source": "Investing.com India",
-   "category": "Regulatory",
-   "published": "2026-11-26T02:48:45Z",
-   "summary": ""
-  },
-  {
-   "id": "1ac99eea59219903",
-   "title": "SEBI may ease SIF norms further, consider giving fund managers more flexibility",
-   "link": "https://www.moneycontrol.com/news/business/markets/sebi-may-ease-sif-norms-further-consider-giving-fund-managers-more-flexibility-14089123.html",
-   "source": "Moneycontrol.com",
-   "category": "Regulatory",
-   "published": "2026-11-26T02:48:15Z",
-   "summary": "At Moneycontrol FiDEX 2.0, SEBI Executive Director Manoj Kumar says regulator is encouraged by the category's growth; specific changes are still under discussion. Market regulator Securities and Exchange Board of India (SEBI) may further liberalise the regulatory framework for specialised investment funds (SIFs), with a view to giving fund managers greater flexibility to deploy investment strategies, Executive Director Manoj Kumar said in Mumbai. Kumar, however, did not specify the proposed changes, saying several matters were still under discussion. His remarks come amid industry demands for greater flexibility in deploying long-short strategies through SIFs, including higher gross exposure limits."
-  },
-  {
-   "id": "851dbcf2101ea450",
-   "title": "Nvidia CEO's return fuels debate over misogyny, impunity for rich, powerful",
-   "link": "https://www.business-standard.com/world-news/nvidia-ceo-s-return-fuels-debate-over-misogyny-impunity-for-rich-powerful-126112600068_1.html",
-   "source": "Press Trust of India",
-   "category": "Business",
-   "published": "2026-11-26T02:47:52Z",
-   "summary": "In an extraordinary turnaround following a pressure campaign from Huang's tech allies and President Donald Trump, Nvidia's board voted on Monday unanimously to reinstate him"
-  },
-  {
-   "id": "9e2a0860db4f4448",
-   "title": "RBI Draft Proposes Stop Switch and Trusted Person Authentication for Regional Rural Banks",
-   "link": "https://taxguru.in/rbi/rbi-draft-proposes-stop-switch-trusted-person-authentication-regional-rural-banks.html",
-   "source": "TaxGuru",
-   "category": "Regulatory",
-   "published": "2026-11-26T02:45:24Z",
-   "summary": "Summary : The Reserve Bank of India’s draft Fifth Amendment Directions, 2026 propose new safeguards against fraudulent electronic banking transactions at Regional Rural Banks (RRBs). The draft builds on the June 2026 Third Amendment Directions and the April 2026 discussion paper on digital payment fraud safeguards . Most provisions would take effect on 1 July 2027, or earlier if an RRB chooses. Clauses (i) to (iv), (vii) and (viii) of the proposed definition of bank negligence would take effect on 1 January 2027."
-  },
-  {
-   "id": "f03df9164c4bddab",
-   "title": "RBI Proposes Preventive Safeguards for Electronic Banking Transactions Across Seven Bank Categories",
-   "link": "https://taxguru.in/rbi/rbi-proposes-preventive-safeguards-electronic-banking-transactions-bank-categories.html",
-   "source": "TaxGuru",
-   "category": "Regulatory",
-   "published": "2026-11-26T02:43:37Z",
-   "summary": "RBI proposes stronger customer controls for digital payments and a wider definition of bank negligence. Comments are due by December 14, 2026. Summary : The Reserve Bank of India invited public comments on seven draft amendments to its Responsible Business Conduct Directions in Press Release 2026-2027/1548, dated November 23, 2026. The proposals build on the June 24, 2026 amendments on customer protection in fraudulent electronic banking transactions, including the Third Amendment Directions for commercial banks . The June amendments strengthened the framework for limiting customer liability in unauthorised electronic banking transactions."
-  },
-  {
-   "id": "2725863e6e23100a",
-   "title": "Asian shares bounce as AI concerns, fresh US tariffs lurk in background",
-   "link": "https://www.business-standard.com/markets/news/asian-shares-bounce-as-ai-concerns-fresh-us-tariffs-lurk-in-background-126112600046_1.html",
-   "source": "Reuters",
-   "category": "Markets",
-   "published": "2026-11-26T02:42:48Z",
-   "summary": "Nvidia stock ended down 3.9% at $149.30 on Wednesday, $2.3 trillion short of its October peak of $243.37 Japan's Nikkei gained 1.6% and South Korea's main index rose 1.9%. Japan is down 8% for the month, while South Korea has shed 16% and Taiwan 15% | Image: Bloomberg Asian shares eked out a rare rally on Thursday after Wall Street fought back from deep lows, though concerns over the circular financing of AI and a new round of US tariffs ​made for a muted mood in a holiday-thinned session."
-  },
-  {
-   "id": "8f810b8a3e4a177c",
-   "title": "SEBI to open new office in Kochi",
-   "link": "https://www.newindianexpress.com/cities/kochi/2026/Nov/26/sebi-to-open-new-office-in-kochi",
-   "source": "The New Indian Express",
-   "category": "Regulatory",
-   "published": "2026-11-26T02:38:56Z",
-   "summary": "KOCHI: In a bid to provide better services and improve accessibility to investors, the Securities and Exchange Board of India (SEBI) will open an office in Koch SEBI is introducing new measures to strengthen investor protection and financial literacy, SEBI chairman said. SEBI is developing facilities that will enable investors to lodge complaints through its app and receive responses to queries in multiple languages with the assistance of artificial intelligence. The MITRA platform helps investors trace inactive and unclaimed mutual fund investments. Continuous surveillance and action are also being taken against market manipulation, misleading investment advice and fraudulent activities."
-  },
-  {
-   "id": "84768ce7cc10f20f",
-   "title": "Stocks to watch: LG Electronics, Siemens Energy, Wipro, sugar stocks",
-   "link": "https://www.business-standard.com/markets/news/stocks-to-watch-lg-electronics-siemens-energy-wipro-sugar-stocks-126112600059_1.html",
-   "source": "Business Standard",
-   "category": "Markets",
-   "published": "2026-11-26T02:33:01Z",
-   "summary": "Textiles, shrimp exporters, gems and jewellery sectors could remain in focus after the US proposed tariffs of up to 25 per cent on Indian goods."
-  },
-  {
-   "id": "7cfb307bb92ccf15",
-   "title": "India bonds may pare gains as RBI flags broad-based food price pressures, oil rises",
-   "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47704Y:0-india-bonds-may-pare-gains-as-rbi-flags-broad-based-food-price-pressures-oil-rises/",
-   "source": "TradingView",
-   "category": "Regulatory",
-   "published": "2026-11-26T02:32:00Z",
-   "summary": "Indian government bonds are expected to reverse some of the previous day's gains, tracking a rise in oil prices and the central bank's latest commentary on food inflation being broad-based just days before its monetary policy decision.The benchmark 6.94% 2036 bond (IN069436G=CC) yield is expected t…"
-  },
-  {
-   "id": "9efac986029da2c8",
-   "title": "Stock Market LIVE: Sensex rises 300 pts, Nifty tops 25,800; Nifty IT gains 2%",
-   "link": "https://www.business-standard.com/markets/news/stock-market-live-november-26-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126112600049_1.html",
-   "source": "Business Standard",
-   "category": "Markets",
-   "published": "2026-11-26T02:31:33Z",
-   "summary": "Sensex Today | Stock Market LIVE Updates Thursday: In the broader markets, the Nifty MidCap 100 and the Nifty SmallCap 100 rose 0.27 per cent and 0.38 per cent, respectively"
   }
  ],
  "trending": [
@@ -462,7 +462,7 @@
    "source": "Mint Markets",
    "category": "Markets",
    "published": "2026-11-26T01:08:13Z",
-   "summary": "Covered by 5 sources (BusinessLine, Mint, Business Standard…). Indian markets are poised to open higher today, supported by positive Asian trading and a premium in Gift Nifty. Sensex and Nifty surged Wednesday on foreign inflows, softer oil prices and bank-stock gains. Analysts see a bullish outlook but advise buying on dips, with key resistance near 26,000."
+   "summary": "Covered by 5 sources (BusinessLine, Business Standard, Economic Times…). Indian markets are poised to open higher today, supported by positive Asian trading and a premium in Gift Nifty. Sensex and Nifty surged Wednesday on foreign inflows, softer oil prices and bank-stock gains. Analysts see a bullish outlook but advise buying on dips, with key resistance near 26,000."
   },
   {
    "id": "05c57859f5b53d60",
@@ -489,7 +489,7 @@
    "source": "Business Standard",
    "category": "Regulatory",
    "published": "2026-11-25T15:09:03Z",
-   "summary": "Covered by 5 sources (Investing.com India, Startup Fortune, Investing.com Nigeria…). The RBI held 740.13 tonnes of its total gold reserves of 880.52 tonnes domestically at the end of September 2026, up from 680.05 tonnes at the end of March"
+   "summary": "Covered by 5 sources (Moneycontrol.com, Investing.com India, Startup Fortune…). The RBI held 740.13 tonnes of its total gold reserves of 880.52 tonnes domestically at the end of September 2026, up from 680.05 tonnes at the end of March"
   },
   {
    "id": "49e7dbad696a9174",
@@ -498,16 +498,7 @@
    "source": "Economic Times Markets",
    "category": "Regulatory",
    "published": "2026-11-25T13:09:04Z",
-   "summary": "Covered by 5 sources (Moneycontrol.com, News On AIR, Economic Times…). Sebi introduced a proposal for an early pay-out framework designed to assist Farmer Producer Organisations. This framework would allow FPOs to access up to 80 percent of sale proceeds before contract expiry. The initiative aims to alleviate liquidity challenges by providing timely payments to farmers. Corporate trading members will offer this facility based on certain conditions and net worth requirements. Public comments on the proposal are invited until December 16."
-  },
-  {
-   "id": "d276b754905b6c60",
-   "title": "Rupee recovers FY27 losses, hits eight-month high of 92.29 against dollar",
-   "link": "https://www.business-standard.com/finance/news/rupee-jumps-23-paise-to-92-62-against-us-dollar-during-early-trade-126112500154_1.html",
-   "source": "Press Trust of India",
-   "category": "Markets",
-   "published": "2026-11-25T04:18:07Z",
-   "summary": "Covered by 5 sources (BusinessLine, Business Standard, Mint…). The rupee jumped 23 paise to 92.62 against the US dollar in early trade on Wednesday, buoyed by strong foreign-fund inflows amid a buying rush in domestic equity markets and sliding overseas crude oil prices. A strong American currency, however, capped gains in the local currency, forex traders said. In the interbank foreign exchange market, the rupee opened at 92.65 and climbed to 92.62 against the greenback, up 23 paise from its previous close."
+   "summary": "Covered by 5 sources (TaxGuru, Moneycontrol.com, News On AIR…). Sebi introduced a proposal for an early pay-out framework designed to assist Farmer Producer Organisations. This framework would allow FPOs to access up to 80 percent of sale proceeds before contract expiry. The initiative aims to alleviate liquidity challenges by providing timely payments to farmers. Corporate trading members will offer this facility based on certain conditions and net worth requirements. Public comments on the proposal are invited until December 16."
   },
   {
    "id": "b065fccd28794e2d",
@@ -546,13 +537,40 @@
    "summary": "Covered by 4 sources (Press Trust of India, Mint, Business Standard…). India rejected US claims of structural excess capacity, saying it has none in any sector. New Delhi said it remains committed to concluding a bilateral trade deal, as Washington proposed tariffs of 17% if an agreement is reached and 25% otherwise."
   },
   {
-   "id": "5fddf8603de3f158",
-   "title": "India Vix",
-   "link": "https://bfsi.economictimes.indiatimes.com/articles/sensex-plunges-nearly-1484-pts-in-worst-single-day-fall-in-over-4-months-nifty-below-25350/136102667",
+   "id": "111276e9eebfb651",
+   "title": "Net FDI turns negative at USD 4.95 billion in Sep on flow moderation, higher outflows: RBI",
+   "link": "https://economictimes.indiatimes.com/news/economy/finance/net-fdi-turns-negative-at-usd-4-95-bn-in-sep-on-flow-moderation-higher-outflows-rbi/articleshow/136166680.cms",
+   "source": "Economic Times Economy",
+   "category": "Regulatory",
+   "published": "2026-11-25T15:37:51Z",
+   "summary": "Covered by 4 sources (HDFC Sky, Business Standard, Economic Times…). The month of September 2026 marked a decline in net foreign direct investment in India, reaching negative USD 4.95 billion, primarily due to decreasing gross inflows and more substantial foreign investment repatriations. In contrast, outward direct investment from India rose to USD 4.41 billion. Although foreign portfolio investments faced a drop of USD 6.652 billion in October, they bounced back in November, achieving USD 12."
+  },
+  {
+   "id": "500ee960df220c36",
+   "title": "Crystal Crop Protection Share Price",
+   "link": "https://www.kotakneo.com/news/ipos/crystal-crop-protection-ipo-allotment-status-check-online/",
+   "source": "Kotak Neo",
+   "category": "Business",
+   "published": "2026-11-26T04:40:00Z",
+   "summary": "About 500+ searches in India. Crystal Crop Protection IPO Allotment Status: Check Online on MUFG Intime, NSE & BSE for Live Updates."
+  },
+  {
+   "id": "c081bd91a14b9e0a",
+   "title": "Nmdc Share Price",
+   "link": "https://www.multibagg.ai/market-pulse/articles/itc-hdfc-nmdc-returns-cmww0oehp001m2hql2q9nmj5t",
+   "source": "Multibagg AI",
+   "category": "Business",
+   "published": "2026-11-26T04:40:00Z",
+   "summary": "About 200+ searches in India. ITC Limited, HDFC Bank, NMDC Limited post divergent returns."
+  },
+  {
+   "id": "fbafa5734002c929",
+   "title": "Pb Fintech Share Price",
+   "link": "https://bfsi.economictimes.indiatimes.com/articles/irdai-forms-expert-panel-to-examine-2-18-l-responses/136118073",
    "source": "bfsi.economictimes.indiatimes.com",
    "category": "Business",
-   "published": "2026-11-26T03:30:00Z",
-   "summary": "About 1000+ searches in India. Sensex plunges nearly 1,484 pts in worst single-day fall in over 4 months; Nifty below 25,350."
+   "published": "2026-11-26T04:30:00Z",
+   "summary": "About 200+ searches in India. Irdai Forms Expert Panel to Examine 2.18 L Responses."
   }
  ],
  "skipped_sources": []

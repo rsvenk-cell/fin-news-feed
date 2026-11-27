@@ -1,122 +1,131 @@
 {
- "generated": "2026-11-27T13:19:21Z",
+ "generated": "2026-11-27T14:59:51Z",
  "daily": [
   {
-   "id": "ba18134b30917837",
-   "title": "FPI Participation in Exchange Traded Commodity Derivatives (ETCDs)",
-   "link": "https://www.sebi.gov.in/legal/circulars/nov-2026/fpi-participation-in-exchange-traded-commodity-derivatives-etcds-_105989.html",
-   "source": "SEBI",
+   "id": "345f093d0cf156dc",
+   "title": "RBI allows white-label ATM operators to buy cash directly from its offices",
+   "link": "https://www.business-standard.com/finance/news/rbi-allows-white-label-atm-operators-to-buy-cash-directly-from-its-offices-126112701254_1.html",
+   "source": "Business Standard",
+   "category": "Regulatory",
+   "published": "2026-11-27T14:47:57Z",
+   "summary": "The central bank has mandated greater ATM deployment in semi-urban and rural areas, while allowing operators to have multiple sponsor banks and offer cardless cash withdrawals"
+  },
+  {
+   "id": "15320b6933c6a290",
+   "title": "Mahanadi Coalfields shares make muted debut on stock exchanges",
+   "link": "https://www.thehindubusinessline.com/markets/mahanadi-coalfields-shares-make-muted-debut-on-stock-exchanges/article71751363.ece",
+   "source": "BusinessLine Markets",
    "category": "Markets",
-   "published": "2026-11-27T13:19:21Z",
-   "summary": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto"
+   "published": "2026-11-27T14:37:43Z",
+   "summary": "Mahanadi Coalfields debuts mutedly on NSE/BSE with modest discounts, amid mixed investor signals and structural shifts toward renewables. Shares of Mahanadi Coalfields, the largest coal producing subsidiary of State-run coal behemoth Coal India, on Friday made a muted debut on stock exchanges and ended with a discount of nearly 3 per cent against the issue price of ₹136. On the NSE, the stock made its debut at ₹134, registering a discount of 1.47 per cent. It ended at ₹132.50 apiece, around 2.57 per cent below the issue price."
   },
   {
-   "id": "02a9640068e82d92",
-   "title": "Appeal No. 7169 of 2026",
-   "link": "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7169-of-2026_105981.html",
-   "source": "SEBI",
+   "id": "c6c423f584c87107",
+   "title": "Sebi grants Tata Steel extension till Dec 8 for APL Apollo Tubes open offer",
+   "link": "https://www.business-standard.com/markets/news/sebi-grants-tata-steel-extension-till-dec-8-for-apl-apollo-tubes-open-offer-126112701221_1.html",
+   "source": "Business Standard",
    "category": "Regulatory",
-   "published": "2026-11-27T13:19:21Z",
-   "summary": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto"
+   "published": "2026-11-27T14:33:13Z",
+   "summary": "The extension comes amid concerns raised by proxy advisers, institutional investors, and other shareholders over the deal; the deadline for filing the draft letter remains unchanged"
   },
   {
-   "id": "fbc2572450e31c08",
-   "title": "Appeal No. 7168 of 2026 filed by Ravi",
-   "link": "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7168-of-2026-filed-by-ravi_105979.html",
-   "source": "SEBI",
-   "category": "Regulatory",
-   "published": "2026-11-27T13:19:21Z",
-   "summary": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto"
-  },
-  {
-   "id": "b691df95186b9b4a",
-   "title": "Clarification on certain media reports regarding Consultation Paper on Strengthening the Governance of Market Infrastructure Institutions (MIIs)",
-   "link": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/clarification-on-certain-media-reports-regarding-consultation-paper-on-strengthening-the-governance-of-market-infrastructure-institutions-miis-_105978.html",
-   "source": "SEBI",
-   "category": "Regulatory",
-   "published": "2026-11-27T13:19:21Z",
-   "summary": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto"
-  },
-  {
-   "id": "cba74108bae79764",
-   "title": "CCS Haryana Agricultural University Employee’s Leave Encashment Fully Exempt: ITAT Delhi",
-   "link": "https://taxguru.in/income-tax/ccs-haryana-agricultural-university-employees-leave-encashment-fully-exempt-itat-delhi.html",
-   "source": "TaxGuru Income Tax",
-   "category": "Direct Tax",
-   "published": "2026-11-27T13:18:12Z",
-   "summary": "ITAT Delhi allows full exemption of ₹15,14,830 under Section 10(10AA)(i) to a retired CCS Haryana Agricultural University scientist. Summary: In Anand Singh Redhu v. ITO , ITA No. 50/Del/2026 , decided on 27 November 2026 for AY 2015–16 , the Delhi ITAT held that the entire retirement leave encashment of ₹15,14,830 received by a former scientist of Chaudhary Charan Singh Haryana Agricultural University, Hisar , was exempt under section 10(10AA)(i) of the Income-tax Act, 1961."
-  },
-  {
-   "id": "2135f85577ece2d8",
-   "title": "ITAT Delhi Quashes Reassessment as AO Changes Allegation from Property Sale to Purchase",
-   "link": "https://taxguru.in/income-tax/itat-delhi-quashes-reassessment-ao-allegation-property-sale-purchase.html",
-   "source": "TaxGuru Income Tax",
-   "category": "Direct Tax",
-   "published": "2026-11-27T13:17:12Z",
-   "summary": "ITAT Delhi quashes ₹80.15 lakh reassessment as the Section 148A notice alleged property sale while the reopening order alleged unexplained purchase. Summary: The Delhi Bench of the Income Tax Appellate Tribunal (ITAT), in Vimlesh Vs Assessing Officer , quashed the reassessment for AY 2017–18 involving an addition of ₹80,15,200 under Section 69 read with Section 115BBE of the Income-tax Act, 1961, on account of a foundational jurisdictional defect arising from contradictory allegations during proceedings under Section 148A."
-  },
-  {
-   "id": "adad231e47a8d5c7",
-   "title": "CREDAI seeks lower capital gain tax, incentives for affordable housing",
-   "link": "https://www.thehindubusinessline.com/economy/credai-seeks-lower-capital-gain-tax-incentives-for-affordable-housing/article71750846.ece",
+   "id": "1efdd20ed486a58d",
+   "title": "RBI pushes banks to accelerate MSME loans, promote cash-flow-based lending",
+   "link": "https://www.thehindubusinessline.com/companies/msme/rbi-pushes-banks-to-accelerate-msme-loans-promote-cash-flow-based-lending/article71751394.ece",
    "source": "BusinessLine Economy",
-   "category": "Business",
-   "published": "2026-11-27T13:13:21Z",
-   "summary": "As on date for land or building acquired before June 23, 2024, the taxpayers (resident individual and HUF) have to pay 20 per cent with indexation or 12.5 per cent without indexation as long term capital gain tax"
+   "category": "Regulatory",
+   "published": "2026-11-27T14:32:14Z",
+   "summary": "RBI Deputy Governor Swaminathan J urges banks to speed up MSME loans, expand digital lending and TReDS adoption, and reduce collateral dependence. The 31st meeting of the Standing Advisory Committee (SAC) to review the flow of credit to micro, small and medium enterprises (MSMEs) took place in Kolkata on November 27, 2026. Reserve Bank of India (RBI) Deputy Governor Swaminathan J chaired the session, which focused on accelerating credit sanctions and reducing collateral dependence for small businesses. According to the RBI, the Deputy Governor recognised the role of MSMEs in India’s economy and development goals during the deliberations."
   },
   {
-   "id": "6beedac696307bec",
-   "title": "Swaraj Green Power and Fuel files updated papers for ₹1,100-cr IPO",
-   "link": "https://www.thehindubusinessline.com/markets/swaraj-green-power-and-fuel-files-updated-papers-for-1100-cr-ipo/article71750399.ece",
-   "source": "BusinessLine Markets",
-   "category": "Markets",
-   "published": "2026-11-27T13:12:03Z",
-   "summary": "The proposed IPO comprises a fresh issue of shares worth ₹800 crore and an offer for sale (OFS) of shares valued at ₹300 crore by promoter Ranjeetsingh Hindurao Naik Nimbalkar"
+   "id": "55968a8be7c4d2d9",
+   "title": "India faces uphill task in getting GI tag for its basmati rice from New Zealand",
+   "link": "https://www.thehindubusinessline.com/economy/agri-business/india-faces-uphill-task-in-getting-gi-tag-from-new-zealand-for-its-basmati-rice/article71749819.ece",
+   "source": "BusinessLine Economy",
+   "category": "Economy",
+   "published": "2026-11-27T14:30:33Z",
+   "summary": "Under the India-NZ FTA, both nations have committed to reviewing the GI section of IPR, but Kiwi National Interest Analysis terms the fragrant rice as ‘common’"
   },
   {
-   "id": "f9d964f1ff7e426a",
-   "title": "South Korea's Kospi crashes 48% from record high: How the AI trade unwind is hitting investors and pension funds",
-   "link": "https://www.livemint.com/market/stock-market-news/south-koreas-kospi-crashes-48-from-record-high-how-the-ai-trade-unwind-is-hitting-investors-and-pension-funds-11795784179412.html",
+   "id": "9793be08f0c82ab8",
+   "title": "Tata Steel-APL Apollo deal under Sebi scrutiny? What Chairman Tuhin Kanta Pandey said on minority shareholders",
+   "link": "https://www.livemint.com/market/tata-steel-apl-apollo-deal-under-sebi-scrutiny-what-chairman-tuhin-kanta-pandey-said-on-minority-shareholders-11795787306824.html",
    "source": "Mint Markets",
-   "category": "Markets",
-   "published": "2026-11-27T13:07:17Z",
-   "summary": "South Korea’s Kospi has fallen 48% from its record high as investors reassess AI-related investments. The downturn cut the National Pension Service’s assets by 202 trillion won by the end of September, despite strong returns earlier in the year."
+   "category": "Regulatory",
+   "published": "2026-11-27T14:26:30Z",
+   "summary": "Sebi Chairman Tuhin Kanta Pandey said protecting minority shareholders is a priority as the regulator examines Tata Steel’s proposed transaction with APL Apollo. Investors and proxy advisers have questioned the deal’s structure, warning it could shift costs to minority shareholders."
   },
   {
-   "id": "6da0d0cf5c97c5a6",
-   "title": "HEG Ltd lists at 25% premium, hits lower circuit",
-   "link": "https://www.thehindubusinessline.com/companies/heg-ltd-lists-at-25-premium-hits-lower-circuit/article71750686.ece",
-   "source": "BusinessLine Markets",
-   "category": "Markets",
-   "published": "2026-11-27T13:06:42Z",
-   "summary": "HEG Ltd debuts on NSE/BSE with 25% premium, but falls to lower circuit amid profit-booking after demerger and plans expansion. Shares of HEG Ltd, formerly HEG Graphite Ltd, debuted on the stock exchanges on Friday at a premium of about 25 per cent, but fell to the 5 per cent lower circuit after listing as investors booked profits. On the NSE, the stock opened at ₹587, up ₹118.75, or 25.36 per cent, from the pre-listing value of ₹468.25. On the BSE, it listed at ₹580, a 24.99 per cent premium to ₹464.05."
+   "id": "7e0e0863620b7c00",
+   "title": "India’s milk production rises 2.4% to top 253 million tonnes in 2025-26",
+   "link": "https://www.thehindubusinessline.com/economy/agri-business/indias-milk-production-rises-24-to-top-253-million-tonnes-in-2025-26/article71750999.ece",
+   "source": "BusinessLine Economy",
+   "category": "Economy",
+   "published": "2026-11-27T14:18:18Z",
+   "summary": "India's milk output rose 2.4% to 253.81 Mt in 2025-26, with per capita milk up to 492 g/day, led by UP and Tamil Nadu. However, the pace of growth in India’s milk production continued to slow down during the year. The growth rate in milk production slowed down to 2.4 per cent during 2025-26 from the previous year’s 3.58 per cent. In fact, the growth rate in milk output has more than halved in the past five years, even as the production volumes continue to rise."
   },
   {
-   "id": "cc308cc90204d328",
-   "title": "GST Refund Rules 2026: Major Changes in FORM GST RFD-01 from 1 December 2026",
-   "link": "https://taxguru.in/goods-and-service-tax/gst-refund-rules-2026-major-form-gst-rfd-01-1-december-2026.html",
+   "id": "39ae9112d82fe08a",
+   "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on November 30, 2026",
+   "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64061",
+   "source": "RBI Press Releases",
+   "category": "Regulatory",
+   "published": "2026-11-27T14:15:00Z",
+   "summary": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Monday, November 30, 2026, as under: Sl. No. Notified Amount (₹ crore) Tenor (day) Window Timing Date of Reversal 1 50,000 1 09:30 AM to 10:00 AM December 01, 2026 (Tuesday) 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 . Ajit Prasad Deputy General Manager (Communications) Press Release: 2026-2027/1583"
+  },
+  {
+   "id": "488db20d4faa9da0",
+   "title": "136 vessels of Indian interest impacted in troubled waters since March",
+   "link": "https://www.business-standard.com/economy/news/136-vessels-of-indian-interest-impacted-in-troubled-waters-since-march-126112701185_1.html",
+   "source": "Business Standard",
+   "category": "Economy",
+   "published": "2026-11-27T14:13:58Z",
+   "summary": "Wars and piracy have claimed the lives of 16 Indian seafarers since March, with five missing and 34 injured, while 11 Indian crew members remain in the captivity of pirates"
+  },
+  {
+   "id": "b87bfc896d84114e",
+   "title": "Time and Place of Supply Under GST: Provisions, Rules and Practical Illustrations",
+   "link": "https://taxguru.in/goods-and-service-tax/time-place-supply-gst-provisions-rules-practical-illustrations.html",
    "source": "TaxGuru GST",
    "category": "Indirect Tax",
-   "published": "2026-11-27T13:00:27Z",
-   "summary": "GSTN revises FORM GST RFD-01 from 1 December 2026 with new refund categories, HSN/SAC reporting, individual JSON validation and revised declarations. The Goods and Services Tax Network (GSTN) is introducing significant changes to the refund application functionality available on the GST Portal through FORM GST RFD-01 with effect from 1 December 2026 . These enhancements are being implemented pursuant to the amendments introduced under Notification No. 05/2026-Central Tax dated 26 October 2026 , amending the Central Goods and Services Tax Rules, 2017."
+   "published": "2026-11-27T13:58:11Z",
+   "summary": "Understand GST time and place of supply rules, forward and reverse charge, tax rate changes, imports, exports and intermediary services. A question that arises in the mind of every GST-registered supplier is: When does the tax liability arise? This question is answered by the time and place of supply rules under the GST Act, 2017. The liability to pay GST arises at the time of supply. The applicable provisions are contained in Sections 12 (goods), 13 (services), and 14 (change in the rate of tax) of the CGST Act, 2017 ."
   },
   {
-   "id": "8168641a4dbba9bc",
-   "title": "Average credit card transaction size falls 13% to ₹3,585 in Oct: CareEdge",
-   "link": "https://www.business-standard.com/finance/news/average-credit-card-transaction-size-falls-13-to-3-585-in-oct-careedge-126112701053_1.html",
-   "source": "Business Standard",
-   "category": "Business",
-   "published": "2026-11-27T12:58:36Z",
-   "summary": "Credit card spending hit a record ₹2.45 trillion in October, while the number of transactions rose 31.8 per cent year-on-year, indicating more frequent use for smaller purchases"
+   "id": "b784a850e9394d42",
+   "title": "Automatic GST Registration Cancellation from 1 December 2026: Revised Rule 20",
+   "link": "https://taxguru.in/goods-and-service-tax/automatic-gst-registration-cancellation-1-december-2026-revised-rule-20.html",
+   "source": "TaxGuru GST",
+   "category": "Indirect Tax",
+   "published": "2026-11-27T13:55:57Z",
+   "summary": "Notification 08/2026 removes the Rs 2.5 lakh B2B tax limit and GSTR-10 condition for automatic GST registration cancellation from 1 December 2026. From 01-12-2026, a taxpayer who asks for cancellation of GST registration and is fully compliant will have the registration cancelled by the GST portal itself, without any order from the proper officer. Turnover or B2B tax liability will no longer matter. The change is made by Notification No. 08/2026-Central Tax dated 25-11-2026 (G.S.R. 1006(E)) ."
   },
   {
-   "id": "ddfa1538ecc51915",
-   "title": "On-Money Addition Based on Unsupported 100-Fold Excel Entry Multiplication Quashed: ITAT Delhi",
-   "link": "https://taxguru.in/income-tax/money-addition-based-unsupported-100-fold-excel-entry-multiplication-quashed-itat-delhi.html",
+   "id": "d21dd6fd5e47dc13",
+   "title": "Evolution of India-Mauritius DTAA: From Treaty Origins to Contemporary Landscape of Anti-Abuse Frameworks",
+   "link": "https://taxguru.in/income-tax/evolution-india-mauritius-dtaa-treaty-origins-contemporary-landscape-anti-abuse-frameworks.html",
    "source": "TaxGuru Income Tax",
    "category": "Direct Tax",
-   "published": "2026-11-27T12:56:03Z",
-   "summary": "ITAT Delhi deletes Omaxe on-money addition based on multiplying seized Excel entries by 100 without concrete supporting evidence. Summary: In Gaurav Paintal v. ACIT , ITA No. 5160/Del/2026 , decided on 27 November 2026 for AY 2017–18 , the Delhi ITAT deleted an addition for alleged cash on-money paid to the Omaxe Group . The Assessing Officer relied on entries in an Excel file seized during a search of the group and adopted the Investigation Wing’s premise that the figures had been suppressed by a factor of 100 ."
+   "published": "2026-11-27T13:51:29Z",
+   "summary": "Evolution of India-Mauritius DTAA, 2016 and 2024 protocols, capital gains taxation, Tiger Global judgment, TRC and Principal Purpose Test. India and Mauritius first signed and enforced the treaty on 1 April, 1983. It’s provisions for capital gains provided taxing rights on such transactions to the country of residence of the seller instead of the source country (majorly India). Since Mauritius did not tax capital gains, the sellers did not have to pay any tax in either country. This benefit along with other favorable conditions made Mauritius a leading route for Foreign Direct Investments (FDI) and portfolio investments into India."
+  },
+  {
+   "id": "775fd02b754c2685",
+   "title": "SEZ Online-GSTN Integration: Manual Invoice Endorsement Discontinued for DTA Supplies to SEZ",
+   "link": "https://taxguru.in/goods-and-service-tax/sez-online-gstn-integration-manual-invoice-endorsement-discontinued-dta-supplies-sez.html",
+   "source": "TaxGuru GST",
+   "category": "Indirect Tax",
+   "published": "2026-11-27T13:48:08Z",
+   "summary": "SEZ Online integrates with GSTN, ending manual invoice endorsements for DTA supplies to SEZ and enabling electronic verification of GST refund claims. Summary: The Department of Commerce, SEZ Division, through letter K-43022/239/2025-SEZ dated 25 November 2026, has informed Development Commissioners about the integration of SEZ Online with the Goods and Services Tax Network (GSTN). The integration enables electronic transmission of approved invoices relating to supplies from the Domestic Tariff Area (DTA) to Special Economic Zone (SEZ) entities."
+  },
+  {
+   "id": "f4807b3eccc10dc4",
+   "title": "Auction of State Government Securities",
+   "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64060",
+   "source": "RBI Press Releases",
+   "category": "Markets",
+   "published": "2026-11-27T13:30:00Z",
+   "summary": "The following State Governments have offered to sell stock by way of auction, for an aggregate amount of ₹21,200 Crore (Face Value). Sr No State/UT Amount to be raised (₹ Crore) Additional Borrowing (Greenshoe) Option (₹ Crore) Tenor (Year) Type of Auction 1. Andhra Pradesh 1000 - Re-issue of 7.51% SGS 2036, issued on July 15, 2026 Price 1000 - Re-issue of 7.64% SGS 2056, issued on August 12, 2026 Price 2. Delhi 500 - 09 Yield 1000 - Re-issue of 8.12% Delhi SGS 2041, issued on November 04, 2026 Price 3."
   },
   {
    "id": "5e9db54242821e7b",
@@ -128,31 +137,31 @@
    "summary": "Press Releases - Reserve Bank of India"
   },
   {
-   "id": "3144d920642dc225",
-   "title": "An iPhone for 10g gold, a car for 100g: This entrepreneur wants you to rethink how you measure wealth",
-   "link": "https://www.livemint.com/money/an-iphone-for-10g-gold-a-car-for-100g-this-entrepreneur-wants-you-to-rethink-how-you-measure-wealth-11795781101894.html",
-   "source": "Mint Money",
-   "category": "Business",
-   "published": "2026-11-27T12:54:57Z",
-   "summary": "Enterprenuer Prem Soni has shared a way to measure wealth using grams of gold instead of rupees. His framework links everyday purchases, from smartphones and holidays to cars and homes, to specific amounts of gold, sparking a discussion about savings and spending."
-  },
-  {
    "id": "620462a4514d2459",
    "title": "Ims import of goods related - ITC / Input - GST",
    "link": "https://www.caclubindia.com/forum/ims-import-of-goods-related-616309.asp",
    "source": "CAclubindia",
    "category": "Indirect Tax",
    "published": "2026-11-27T12:47:00Z",
-   "summary": ""
+   "summary": "Some Bills of Entry from June 2026 and September 2026 are appearing in GSTR 2B and based on these we have claimed the IGST Input Tax Credit ITC in our GSTR 3B However this data is not reflecting under the Import of Goods section in the IMS Invoice Management System Could this be an issue - GST ITC / Input"
   },
   {
-   "id": "d5769050de92636a",
+   "id": "7000766f45b9ff49",
+   "title": "GlaxoSmithKline Pharmaceuticals Receives Rs 3.19 Crore GST Demand for Alleged Non-Payment on Export of Services",
+   "link": "https://studycafe.in/glaxosmithkline-pharmaceuticals-receives-rs-3-19-crore-gst-demand-for-alleged-non-payment-on-export-of-services-427907.html",
+   "source": "StudyCafe",
+   "category": "Indirect Tax",
+   "published": "2026-11-27T12:41:01Z",
+   "summary": "GlaxoSmithKline Pharmaceuticals has received a Rs 3.19 crore GST demand over alleged non-payment of GST on export of services, but expects no financial impact. GlaxoSmithKline Pharmaceuticals Limited , on Thursday , November 26, 2026, informed the stock exchanges that it has received a demand order of Rs 3.19 crore from the Maharashtra Goods and Services Tax ( GST ) Department ."
+  },
+  {
+   "id": "e07c120efd82cfaa",
    "title": "Chartered Accountant: Financial Reporting & Compliance Jobs",
-   "link": "https://www.caclubindia.com/jobs/chartered-accountant-financial-reporting-amp-compliance-22483.asp?utm_source=user&utm_medium=slider&utm_campaign=jobs",
+   "link": "https://www.caclubindia.com/jobs/chartered-accountant-financial-reporting-amp-compliance-22483.asp?utm_source=articles&utm_medium=slider&utm_campaign=jobs",
    "source": "CAclubindia",
    "category": "Accounting",
    "published": "2026-11-27T12:06:09Z",
-   "summary": ""
+   "summary": "Seeking a CA with 3-5 years' experience in financial reporting & compliance. Apply now for a full-time role in Gurgaon with CP Consultancy Services. Quick Summary CP Consultancy Services is looking for a qualified Chartered Accountant (CA) with 3-5 years of post-qualification experience. The role focuses on financial reporting and compliance, requiring strong knowledge of Ind AS, statutory audits, and tax regulations. Proficiency in Tally, ERP systems, and Excel is essential, with experience in FMCG/startups and Big 5 audits being advantageous."
   },
   {
    "id": "094de567219e0251",
@@ -164,31 +173,13 @@
    "summary": "Reserve Bank of India announces the auction of Government of India Treasury Bills as per the following details: Sr. No. Treasury Bill Notified Amount (₹ crore) Auction Date Settlement Date 1 91-Day 8,000 December 02, 2026 (Wednesday) December 03, 2026 (Thursday) 2 182-Day 8,000 3 364-Day 7,000 Total 23,000 The sale will be subject to the terms and conditions specified in the General Notification F.No.4(2)-B(W&M)/2018 dated March 26, 2025 , issued by Government of India, as amended from time to time."
   },
   {
-   "id": "6ed92d436490bde7",
-   "title": "Reserve Bank of India (White Label ATM Operators) Directions, 2026",
-   "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13762&Mode=0",
-   "source": "RBI Notifications",
-   "category": "Business",
-   "published": "2026-11-27T12:00:00Z",
-   "summary": "Notifications - Reserve Bank of India"
-  },
-  {
-   "id": "6b91cd6008a6fd99",
-   "title": "Reserve Bank of India (Cash Withdrawal Transactions through Automated Teller Machines and Point of Sale Terminals) Directions, 2026",
-   "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13761&Mode=0",
-   "source": "RBI Notifications",
-   "category": "Business",
-   "published": "2026-11-27T12:00:00Z",
-   "summary": "Notifications - Reserve Bank of India"
-  },
-  {
    "id": "7adcd6e503ec8aeb",
    "title": "Senior Citizen Tax Rates For Tax Year 2026-27: With Example on Different Income Levels",
    "link": "https://www.caclubindia.com/articles/senior-citizen-tax-rates-for-tax-year-202627-with-example-on-different-income-levels-56688.asp",
    "source": "CAclubindia",
    "category": "Business",
    "published": "2026-11-27T11:55:31Z",
-   "summary": ""
+   "summary": "Senior citizens in India can pay tax under two systems: the New Regime and the Old Regime.For Tax Year 2026–27, the New Regime has the same slabs for ever This guide compares the two in simple steps, so you can pick the one that saves you more tax. Tax Year 2026–27 is the same period as FY 2026–27 (AY 2027–28) under the older terminology. Tax is progressive, so each rate applies only to the income inside its band. A 4% Health and Education Cess is added on top, and a surcharge applies at higher incomes."
   },
   {
    "id": "fe7be63941d6fc4b",
@@ -197,7 +188,7 @@
    "source": "StudyCafe",
    "category": "Accounting",
    "published": "2026-11-27T11:36:06Z",
-   "summary": "The ICAI Disciplinary Committee found CA not guilty of professional misconduct in the Sarvodaya Hospital forensic audit dispute and ordered the closure of disciplinary proceedings. The Institute of Chartered Accountants of India ( ICAI ) Disciplinary Committee has found a Chartered Accountant (CA) named Naman Gyanchand Pipara not guilty of misconduct under Item (7) of Part I of the Second Schedule to the Chartered Accountants Act, 1949 , and ordered the closure of the disciplinary proceedings, thereby clearing charges of professional misconduct from the respondent CA. The dispute began when the respondent, CA."
+   "summary": ""
   },
   {
    "id": "aa7d661b55669ad8",
@@ -207,6 +198,15 @@
    "category": "Indirect Tax",
    "published": "2026-11-27T11:30:00Z",
    "summary": "CESTAT New Delhi sets aside penalties on a customs broker, ruling no knowledge of export overvaluation was proven. Learn more about this significant ruling. Brief : A customs broker filed export shipping bills for an exporter whose goods were later found overvalued, and penalties under sections 114(iii) and 114AA of the Customs Act, 1962 were imposed on the broker and upheld by the Commissioner (Appeals). The Tribunal held that the Revenue had brought no evidence that the broker knew of the overvaluation, and no proceedings had been initiated against the broker under the Customs Brokers Licensing Regulations, 2018."
+  },
+  {
+   "id": "4aedfc606c67c82e",
+   "title": "India–UK Trade Deal Scotch Whisky Industry Faces Customs Classification Dispute Over Bulk Imports",
+   "link": "https://aabkaritimes.com/2026/11/india-uk-trade-deal-scotch-whisky-industry-faces-customs-classification/",
+   "source": "Aabkari Times",
+   "category": "Indirect Tax",
+   "published": "2026-11-27T11:14:04Z",
+   "summary": "New Delhi: A customs classification dispute involving bulk Scotch whisky imports has emerged as a key challenge for the industry following the India–UK trade agreement, with questions being raised over the tariff concessions available to different categories of imported whisky."
   },
   {
    "id": "233d3734f037007e",
@@ -245,6 +245,15 @@
    "summary": ""
   },
   {
+   "id": "4530d639cabead0e",
+   "title": "CBI Lucknow Court Awards 3-Year Jail Term to Former Income Tax Inspector in Rs 60 Lakh Bribery Case",
+   "link": "https://studycafe.in/cbi-lucknow-court-awards-3-year-jail-term-to-former-income-tax-inspector-in-rs-60-lakh-bribery-case-427897.html",
+   "source": "StudyCafe",
+   "category": "Direct Tax",
+   "published": "2026-11-27T06:19:59Z",
+   "summary": "A CBI Court has sentenced former Income Tax Inspector to 3 years' imprisonment and imposed a fine of Rs 50,000 for demanding a Rs 60 lakh bribe. The Central Bureau of Investigation ( CBI ) Court, Lucknow, has convicted and sentenced the accused, Dharmsheel Agarwal, who is the former Inspector of Income Tax, Lucknow, in relation to a bribery case of Rs 60 lakh, to three years' imprisonment . Additionally, a penalty of Rs 50,000 has been imposed. The action was taken on November 25, 2026."
+  },
+  {
    "id": "097557c4dae30551",
    "title": "CBDT Grants Tax Exemption to Regional Air Connectivity Fund Trust for FY 2025-26 to FY 2029-30",
    "link": "https://blog.saginfotech.com/cbdt-grants-tax-exemption-regional-air-connectivity-fund-trust-fy-2025-26-to-fy-2029-30",
@@ -254,215 +263,206 @@
    "summary": "The Central Board of Direct Taxes (CBDT) has notified an income tax exemption for a period of five years (from the financial year 2025-26 to 2029-30) to the 'Regional Air Connectivity Fund Trust' (PAN: AADTR1130P), which was established by the Central Government. Under the Income-tax Act, 1961, and the Income-tax Act, 2025, this exemption, issued"
   },
   {
-   "id": "750e1c6c8b93d69d",
+   "id": "1de54bce3ca53cef",
    "title": "Rahul Madan takes charge as IBBI Chairperson",
-   "link": "https://cfo.economictimes.indiatimes.com/news/leadership/rahul-madan-takes-charge-as-ibbi-chairperson/136208181",
+   "link": "https://cfo.economictimes.indiatimes.com/amp/news/leadership/rahul-madan-takes-charge-as-ibbi-chairperson/136208181",
    "source": "cfo.economictimes.indiatimes.com",
    "category": "Regulatory",
    "published": "2026-11-27T03:37:23Z",
-   "summary": "Prior to the new role, Madan served as the Managing Director of the Indian Institute of Insolvency Professionals of ICAI (IIIPI) for over six years. Insolvency and Bankruptcy Board of India ( IBBI ) on Thursday said Rahul Madan has taken charge as the Chairperson ."
-  },
-  {
-   "id": "34a234109815eacd",
-   "title": "Employee sells coconut after office hours and earns Rs 1.17 crore cash; Income Tax Dept treats it as unexp",
-   "link": "https://m.economictimes.com/wealth/tax/employee-sells-coconut-after-office-hours-and-earns-rs-1-17-crore-cash-income-tax-dept-treats-it-as-unexplained-cash-she-wins-relief-in-itat-chennai/articleshow/136191059.cms",
-   "source": "The Economic Times",
-   "category": "Direct Tax",
-   "published": "2026-11-27T01:30:00Z",
-   "summary": "Rs 25 lakh salary, coconut business after office and Rs 1.17-crore cash: Woman employee wins income tax case in ITAT Chennai"
+   "summary": "Rahul Madan has officially assumed the role of Chairperson of the Insolvency and Bankruptcy Board of India (IBBI), succeeding Ravi Mital. With over 24 years of experience in the banking and financial services sector, Madan aims to enhance the implementation of the Insolvency and Bankruptcy Code."
   }
  ],
  "breaking": [
   {
-   "id": "99d6266998fe77a4",
-   "title": "RBI reduces minimum daily CRR maintenance requirement to 90% from December 1",
-   "link": "https://ddnews.gov.in/en/rbi-reduces-minimum-daily-crr-maintenance-requirement-to-90-from-december-1/",
-   "source": "DD News",
+   "id": "1bf9b9463fae8031",
+   "title": "RBI eases daily CRR rule to 90% as India's banks run short of cash",
+   "link": "https://startupfortune.com/rbi-eases-daily-crr-rule-to-90-as-indias-banks-run-short-of-cash/",
+   "source": "Startup Fortune",
    "category": "Regulatory",
-   "published": "2026-11-27T13:10:04Z",
+   "published": "2026-11-27T14:51:50Z",
+   "summary": "The RBI will lower banks' daily CRR floor from 99% to 90% from December 1, after liquidity turned to deficit and call money topped the MSF rate. this.classList.remove('sf-copied'),1500)\" aria-label=\"Copy link\"> Calmer overnight rates are what lenders stand to gain ahead of December's tax bill. They shouldn't expect fresh money, because the new rule changes only when their cash has to be there. Borrowing from another bank overnight cost 5.76% on average on Thursday, November 26, according to the Reserve Bank of India's money market data."
+  },
+  {
+   "id": "be6e880142ad8baf",
+   "title": "SEBI opens non-agricultural commodity derivatives to FPIs",
+   "link": "https://newsonair.gov.in/sebi-opens-non-agricultural-commodity-derivatives-to-fpis/",
+   "source": "News On AIR",
+   "category": "Regulatory",
+   "published": "2026-11-27T14:51:09Z",
+   "summary": "The Securities and Exchange Board of India – SEBI has permitted foreign portfolio investors (FPIs) to participate in physically (non-cash) settled non-agricultural commodity derivative contracts. In a circular issued today, SEBI said the move is aimed at deepening institutional participation and enhancing liquidity in the commodity derivatives segment. Currently, FPIs are permitted to participate in the commodity derivatives segment of recognised stock exchanges only through cash-settled non-agricultural commodity derivative contracts. The new framework, will however allow FPIs to trade in non-cash settled non-agricultural commodity derivatives, excluding options in goods, subject to specified safeguards."
+  },
+  {
+   "id": "5d4149f7c68fb149",
+   "title": "Ananya Birla-led Svatantra Microfin gets Sebi observations for ₹3,000-crore IPO",
+   "link": "https://www.fortuneindia.com/markets/ananya-birla-led-svatantra-microfin-gets-sebi-observations-for-3000-crore-ipo/172753",
+   "source": "Fortune India",
+   "category": "Regulatory",
+   "published": "2026-11-27T14:50:57Z",
+   "summary": "Svatantra Microfin, led by Ananya Birla, moves closer to its ₹3,000-crore IPO as Sebi grants observations. The microfinance giant plans to strengthen its capital base and expand its operations with this public offering. Ananya Birla-led Svatantra Microfin has received observations from the Securities and Exchange Board of India (Sebi) for its proposed ₹3,000-crore initial public offering (IPO), taking the microfinance lender a step closer to its public listing. Sebi issued its observations on November 27, according to the regulator’s weekly update on the processing status of draft offer documents."
+  },
+  {
+   "id": "51ed3cafc5fe56f7",
+   "title": "RBI Card Payment Directions 2026 Replace 25 Old Circulars",
+   "link": "https://bfsi.eletsonline.com/rbi-card-payment-directions/",
+   "source": "Elets BFSI",
+   "category": "Regulatory",
+   "published": "2026-11-27T14:48:39Z",
+   "summary": "RBI has merged 25 circulars on card security, tokenisation, card controls and debit card MDR into one set of card payment directions, effective at once. 4 min Follow Facebook LinkedIn Instagram By BFSI Network · 27 November 2026 · News The Reserve Bank of India (RBI) on 27 November 2026 issued the Reserve Bank of India (Digital Payments – Card-based Transaction) Directions, 2026, folding 25 earlier circulars on debit, credit and prepaid card payments into one rulebook. The directions take effect immediately and apply to all payment system providers and participants, banks and non-banks alike."
+  },
+  {
+   "id": "1f864c0a3a58db2f",
+   "title": "RBI Governor pegs AI’s potential economic value to MSMEs at $685 billion, urges faster adoption",
+   "link": "https://www.thehindu.com/business/Industry/rbi-governor-pegs-ais-potential-economic-value-to-msmes-at-685-billion-urges-faster-adoption/article71751516.ece",
+   "source": "The Hindu",
+   "category": "Regulatory",
+   "published": "2026-11-27T14:36:18Z",
+   "summary": "RBI chief cites AI's $490-685B potential for India's MSMEs, urges rapid adoption with practical steps and supportive finance. Artificial intelligence (AI) adoption could unlock economic value of $490-685 billion for India’s micro, small and medium enterprises (MSMEs), but with only around 15% of the country’s small businesses currently using the technology, the sector risks missing out on substantial productivity gains, Reserve Bank of India (RBI) Governor Sanjay Malhotra said on Friday. Speaking at the SME Finance and Investment Summit in Mumbai, Mr."
+  },
+  {
+   "id": "c12333d20b2e5bba",
+   "title": "Mini targets over 70% sales growth in India in 2026, eyes 15-20% EV share",
+   "link": "https://www.business-standard.com/industry/auto/mini-targets-over-70-sales-growth-in-india-in-2026-eyes-15-20-ev-share-126112701230_1.html",
+   "source": "Business Standard",
+   "category": "Economy",
+   "published": "2026-11-27T14:35:59Z",
+   "summary": "Mini launches its new electric Cooper SE and three Paul Smith special editions, with anticipated benefits of the India-UK free trade agreement already factored into pricing"
+  },
+  {
+   "id": "2248f794c6427d2d",
+   "title": "SEBI extends deadline for Tata Steel's 26% open offer statement in APL Apollo to December 8 - CNBC TV18",
+   "link": "https://www.linkedin.com/posts/cnbc-tv18_sebi-extends-deadline-for-tata-steels-26-activity-7532088656992440320-ifal",
+   "source": "LinkedIn",
+   "category": "Regulatory",
+   "published": "2026-11-27T14:31:15Z",
    "summary": ""
   },
   {
-   "id": "271335afd958df95",
-   "title": "Why is RBI bringing its gold back to India? The big shift decoded",
-   "link": "https://economictimes.indiatimes.com/news/videos/why-is-rbi-bringing-its-gold-back-to-india-the-big-shift-decoded/videoshow/136223278.cms",
-   "source": "The Economic Times",
-   "category": "Regulatory",
-   "published": "2026-11-27T12:53:00Z",
-   "summary": "Gold prices may be falling, but central banks around the world are continuing to buy gold. This unusual trend highlights the growing importance of gold as a safe-haven asset amid global economic uncertainty and changing financial strategies.At the same time, the Reserve Bank of India (RBI) is bringing more of India's gold reserves back to the country. While global central banks are increasing their gold holdings, India is also strengthening control over its gold reserves, reflecting a significant shift in the global financial landscape."
-  },
-  {
-   "id": "f4cbc5b7be2cdbff",
-   "title": "RBI eases daily CRR maintenance to 90% from 99% as liquidity tightens",
-   "link": "https://www.moneycontrol.com/news/business/banks/rbi-eases-daily-crr-maintenance-to-90-from-99-as-liquidity-tightens-14090465.html",
-   "source": "Moneycontrol.com",
-   "category": "Regulatory",
-   "published": "2026-11-27T12:47:31Z",
-   "summary": "Banking system liquidity has swung from a surplus of Rs 11.16 lakh crore in September to a deficit in November, prompting the central bank to restore flexibility in banks' daily reserve management. The liquidity deficit widened to Rs 47,641.20 crore on November 26 from Rs 32,216 crore a day earlier, according to RBI data. The weighted average call rate (WACR) stood at 5.76 percent on November 27, above the RBI's marginal standing facility (MSF) rate of 5.75 percent. The pressure was also evident in the central bank's liquidity operations on November 27."
-  },
-  {
-   "id": "f95d2f8d36d3dbc9",
-   "title": "RBI lowers minimum daily CRR maintenance requirement from 99% to 90%",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/rbi-lowers-minimum-daily-crr-maintenance-requirement-from-99-to-90/articleshow/136222881.cms?utm_source=newsletter&utm_medium=email&utm_campaign=amp_rss",
-   "source": "The Times of India",
-   "category": "Regulatory",
-   "published": "2026-11-27T12:45:00Z",
-   "summary": "NEW DELHI: The RBI has cut the required cash reserve ratio requirement from 99% to 90%, effective from the fortnight beginning December 1, 2026."
-  },
-  {
-   "id": "a9023b4d788f2526",
-   "title": "SEBI allows FPIs to trade in physically settled commodity derivatives, puts in place risk safeguards",
-   "link": "https://www.moneycontrol.com/news/business/markets/sebi-allows-fpis-to-trade-in-physically-settled-commodity-derivatives-puts-in-place-risk-safeguards-14090472.html",
-   "source": "Moneycontrol.com",
-   "category": "Regulatory",
-   "published": "2026-11-27T12:43:31Z",
-   "summary": "The circular will come into effect from June 1, 2027, giving market infrastructure institutions time to put the necessary systems and operational arrangements in place. Market regulator SEBI has allowed foreign portfolio investors (FPIs) to participate in physically settled non-agricultural commodity derivatives, a move aimed at deepening institutional participation and improving market liquidity. The relaxation comes with a risk-management framework to ensure that foreign investors exit their positions before the delivery period begins. Under the revised framework, FPIs can trade in non-agricultural commodity derivative contracts, except options in goods, and indices comprising such derivatives."
-  },
-  {
-   "id": "fd0ef54bd2f61a65",
-   "title": "India’s forex reserves fall by $4.44 billion to $700.90 billion, RBI data shows",
-   "link": "https://www.thehindubusinessline.com/markets/forex/indias-forex-reserves-fall-by-444-billion-to-70090-billion-rbi-data-shows/article71750664.ece",
+   "id": "785da746c6d1e362",
+   "title": "RBI pushes faster MSME loans and cash-flow-based digital lending",
+   "link": "https://www.thehindubusinessline.com/companies/msme/rbi-pushes-banks-to-accelerate-msme-loans-promote-cash-flow-based-lending/article71751394.ece",
    "source": "BusinessLine",
    "category": "Regulatory",
-   "published": "2026-11-27T12:40:42Z",
-   "summary": "India's forex reserves fell $4.44 billion to $700.90 billion in the week ended November 20, with gold reserves declining by $4.10 billion. In the previous week, the overall kitty had dropped by USD 14.205 billion to USD 705.342 billion. The reserves had touched an all-time high of USD 785.706 billion during the week ended September 4, driven by a heavy flow of currency as part of a special concessional swap for deposits from the diaspora through which banks raised a record USD 133 billion, but have been on a decline ever since."
+   "published": "2026-11-27T14:25:52Z",
+   "summary": "RBI Deputy Governor Swaminathan J urges banks to speed up MSME loans, expand digital lending and TReDS adoption, and reduce collateral dependence. The 31st meeting of the Standing Advisory Committee (SAC) to review the flow of credit to micro, small and medium enterprises (MSMEs) took place in Kolkata on November 27, 2026. Reserve Bank of India (RBI) Deputy Governor Swaminathan J chaired the session, which focused on accelerating credit sanctions and reducing collateral dependence for small businesses. According to the RBI, the Deputy Governor recognised the role of MSMEs in India’s economy and development goals during the deliberations."
   },
   {
-   "id": "0bd2d714735432c0",
-   "title": "CBDT Notifies 1% and 3% Transfer Pricing Tolerance Limits for AY 2026–27",
-   "link": "https://taxguru.in/income-tax/cbdt-notifies-1-percent-3-percent-transfer-pricing-tolerance-limits-ay-2026-27.html",
-   "source": "TaxGuru",
-   "category": "Direct Tax",
-   "published": "2026-11-27T12:38:50Z",
-   "summary": "CBDT Notification 153/2026 sets AY 2026–27 arm’s length price tolerance at 1% of the actual price for wholesale trading and 3% for all other cases. Summary : The Central Government issued Notification No. 153/2026 (S.O. 6385(E)) on 25 November 2026, making the Income-tax (Removal of Difficulties) Order, 2026 under sections 535(1) and 535(2) of the Income-tax Act, 2025 . The Order took effect on publication in the Official Gazette and addresses difficulties in determining the arm’s length price for assessments relating to the year ended 31 March 2026, the previous year relevant to AY 2026–27 ."
-  },
-  {
-   "id": "8e91d74bfa29099d",
-   "title": "SEBI clarifies 65-year age limit for stock exchange MDs remains unchanged",
-   "link": "https://www.thehindubusinessline.com/markets/sebi-clarifies-65-year-age-limit-for-stock-exchange-mds-remains-unchanged/article71750657.ece",
-   "source": "BusinessLine",
+   "id": "119a3a5d8b7a1c84",
+   "title": "RBI lowers banks' daily CRR maintenance requirement to 90% from 99%",
+   "link": "https://bfsi.economictimes.indiatimes.com/articles/rbi-lowers-banks-daily-crr-maintenance-requirement-to-90-from-99/136225656",
+   "source": "bfsi.economictimes.indiatimes.com",
    "category": "Regulatory",
-   "published": "2026-11-27T12:38:07Z",
-   "summary": "SEBI says the 65-year age limit for MII managing directors remains unchanged, while proposing shorter tenures and a cumulative 12-year cap across institutions. The Securities and Exchange Board of India (SEBI) on Friday refuted certain media reports suggesting that the market regulator has proposed a change in the maximum age limit of managing directors (MDs) of Market Infrastructure Institutions (MIIs), including stock exchanges, clearing corporations and depositories, clarifying that the existing age limit of 65 years remains unchanged under its proposals."
+   "published": "2026-11-27T14:25:13Z",
+   "summary": "The Reserve Bank of India (RBI) has announced a reduction in the daily cash reserve ratio (CRR) maintenance requirement from 99% to 90%, effective December 1, 2026, following a significant shift in banking system liquidity."
   },
   {
-   "id": "649c7e6ec35ee15c",
-   "title": "India central bank cuts reserve ratio maintenance to 90% from 99%",
-   "link": "https://www.reuters.com/world/india/india-central-bank-cuts-reserve-ratio-maintenance-90-99-2026-11-27/",
-   "source": "Reuters",
-   "category": "Business",
-   "published": "2026-11-27T12:37:43Z",
+   "id": "1f8040646caec1f2",
+   "title": "RBI advisory committee calls for faster MSME credit flow at Kolkata meeting",
+   "link": "https://tradersunion.com/news/central-banks/show/4444682-rbi-msme-loan-flow-kolkata-meeting/",
+   "source": "Traders Union",
+   "category": "Regulatory",
+   "published": "2026-11-27T14:22:05Z",
    "summary": ""
   },
   {
-   "id": "26de3ba166ffaf20",
-   "title": "RBI Governor Sanjay Malhotra said AI could generate Rs 45-63 lakh crore (approximately $490-685 billion) in economic value for India's micro, small and medium enterprises (MSMEs). Speaking at the SME Finance & Investment Summit, he noted that AI adop",
-   "link": "https://www.instagram.com/p/DgPsNuCEZEw/",
-   "source": "Instagram",
+   "id": "51913e9891971a38",
+   "title": "RBI reduces daily minimum CRR maintenance requirement for banks to 90%",
+   "link": "https://newsonair.gov.in/rbi-reduces-daily-minimum-crr-maintenance-requirement-for-banks-to-90/",
+   "source": "News On AIR",
    "category": "Regulatory",
-   "published": "2026-11-27T12:34:21Z",
-   "summary": ""
+   "published": "2026-11-27T14:16:37Z",
+   "summary": "Amid a liquidity crunch in the banking system, the Reserve Bank has reduced the minimum daily maintenance of cash reserve ratio – CRR from 99 percent to 90 percent. In a notification issued today, RBI said the decision has been taken on the basis of an assessment of current and evolving macroeconomic situation and liquidity conditions. It added that the decision will be effective from the fortnight beginning 1st December 2026."
   },
   {
-   "id": "6d9192b4f43e8de3",
-   "title": "Aadhaar, SBI Card, Pension, RBI: 6 key financial changes to track in December 2026",
-   "link": "https://www.cnbctv18.com/photos/personal-finance/aadhaar-sbi-card-pension-rbi-6-key-financial-changes-to-track-in-december-2026-20043175.htm",
-   "source": "CNBC TV18",
-   "category": "Regulatory",
-   "published": "2026-11-27T12:19:37Z",
-   "summary": "Explore key financial updates taking effect in December, including revised SBI Card fees, new SEBI margin rules, Aadhaar updates, and RBI policy decisions."
-  },
-  {
-   "id": "f0b65f37c8ca919f",
-   "title": "Only 20-30% of eligible Indian exports use FTA benefits: RBI Governor",
-   "link": "https://www.business-standard.com/economy/news/india-exports-fta-benefits-msmes-sanjay-malhotra-rbi-126112700520_1.html",
+   "id": "5f6dae6bd72ab0d1",
+   "title": "RBI urges banks to expedite MSME lending, reduce reliance on collateral",
+   "link": "https://www.business-standard.com/economy/news/rbi-urges-banks-to-expedite-msme-lending-reduce-reliance-on-collateral-126112701194_1.html",
    "source": "Business Standard",
    "category": "Regulatory",
-   "published": "2026-11-27T12:18:33Z",
-   "summary": "Sanjay Malhotra urged MSMEs to look beyond domestic markets, saying better use of trade agreements, higher productivity and formalisation could support the sector's next phase of growth"
+   "published": "2026-11-27T14:16:06Z",
+   "summary": "The central bank has called for greater use of digital lending channels, expansion of receivables financing, and early identification and resolution of stress among MSME borrowers"
   },
   {
-   "id": "8ef6ad8b6799d9f4",
-   "title": "SAT Holds Madhav Power Liable For ₹1 Crore SEBI Penalty On Merged Entity Despite Subsequent Demerger",
-   "link": "https://www.livelawbiz.com/securities-law/sat/securities-appellate-tribunal-madhav-power-liable-for-shankeshwar-metals-1-crore-sebi-penalty-despite-subsequent-demerger-560312",
+   "id": "3e2895ea6ac456cb",
+   "title": "SEBI Allows FPIs To Trade In Physically Settled Non-Agricultural Commodity Derivatives From June 2027",
+   "link": "https://www.livelawbiz.com/securities-law/sebi/securities-and-exchange-board-of-india-allows-fpi-trade-physically-settled-non-agricultural-commodity-derivatives-560333",
    "source": "LiveLawBiz",
    "category": "Regulatory",
-   "published": "2026-11-27T12:17:11Z",
-   "summary": "The Securities Appellate Tribunal (SAT) has held Madhav Power Private Limited liable to discharge a ₹1 crore penalty imposed by the Securities and Exchange Board of India (SEBI) on Shankeshwar Metals..."
+   "published": "2026-11-27T14:09:18Z",
+   "summary": "The Securities and Exchange Board of India (SEBI) has permitted Foreign Portfolio Investors (FPIs) to participate in non-cash-settled (physically settled) non-agricultural commodity derivative..."
   },
   {
-   "id": "e668edb4949e5ca5",
-   "title": "RBI cuts CRR maintenance requirement for banks back to 90% from Dec 1",
-   "link": "https://www.business-standard.com/finance/news/rbi-cuts-crr-maintenance-requirement-for-banks-back-to-90-from-dec-1-126112700971_1.html",
+   "id": "9168c2601612a983",
+   "title": "Callable or Puttable? Why RBI Should Revisit the Language of Bulk Fixed Deposits",
+   "link": "https://taxguru.in/rbi/callable-puttable-rbi-revisit-language-bulk-fixed-deposits.html",
+   "source": "TaxGuru",
+   "category": "Regulatory",
+   "published": "2026-11-27T14:08:51Z",
+   "summary": "RBIs callable and non-callable FD terminology differs from bond-market conventions. Explore depositor rights and the case for clearer banking terminology. Callable or Puttable? Why RBI Should Revisit the Language of Bulk Fixed Deposits When financial terminology reverses who holds the right, it is time to question a recently established local convention which is at variance with Global scenario. Everyone who has invested in a bulk bank fixed deposit (FD) understands two basic things: the interest the deposit will earn and the period for which the money will remain invested."
+  },
+  {
+   "id": "924941534d5bcb30",
+   "title": "Svatantra Microfin gets SEBI nod to proceed with ₹3,000 crore IPO",
+   "link": "https://www.tradingview.com/news/moodys:d7785032d0322:0-svatantra-microfin-gets-sebi-nod-to-proceed-with-3-000-crore-ipo/",
+   "source": "TradingView",
+   "category": "Regulatory",
+   "published": "2026-11-27T14:06:20Z",
+   "summary": "Svatantra Microfin Ltd, the non-banking financial company led by Ananya Birla, has received observations from the Securities and Exchange Board of India (SEBI) for its proposed initial public offering (IPO). Besides, seven other companies — Sterlite Electric Ltd, Gaurik Fashions Ltd, Emerald Jewel…"
+  },
+  {
+   "id": "7cafca9cba5a5c74",
+   "title": "System-Driven Disclosures under SAST Regulations: When Is Manual Disclosure Still Required?",
+   "link": "https://taxguru.in/sebi/system-driven-disclosures-sast-regulations-manual-disclosure-required.html",
+   "source": "TaxGuru",
+   "category": "Regulatory",
+   "published": "2026-11-27T14:06:00Z",
+   "summary": "SEBI’s Ultracab order highlights mandatory manual disclosures under Regulation 29 for aggregate PAC shareholding despite System Driven Disclosures. Summary: SEBI’s adjudication order dated August 7, 2026, in the matter of Ultracab (India) Limited highlights the continuing obligation of promoters and persons acting in concert (PACs) to make manual disclosures under Regulation 29 of the SEBI SAST Regulations, 2011 , notwithstanding the introduction of System Driven Disclosures (SDD). The matter involved a decline in promoter and promoter-group shareholding from 62.12% in June 2023 to 27.90% in December 2023, with twelve instances of disclosure threshold breaches."
+  },
+  {
+   "id": "4e6903dff4dac6d8",
+   "title": "RBI eases daily CRR requirement to 90% from 99%. What does it mean?",
+   "link": "https://www.indiatoday.in/business/story/rbi-eases-daily-crr-requirement-to-90-from-99-what-does-it-mean-3048503-2026-11-27",
+   "source": "India Today",
+   "category": "Regulatory",
+   "published": "2026-11-27T14:00:33Z",
+   "summary": "In a notification issued on November 27, the central bank said the decision was taken after assessing the current and evolving economic situation and liquidity conditions. \"On the basis of an assessment of the current and evolving macroeconomic situation and liquidity conditions, it has been decided to reduce the minimum daily maintenance of the cash reserve ratio (CRR) from 99% of the requirement to 90% effective from the fortnight beginning December 1, 2026,\" the RBI said. WHY HAS RBI EASED THE CRR REQUIREMENT? The move comes at a time when banking system liquidity has shifted from surplus to deficit."
+  },
+  {
+   "id": "c1a5861f4c98f9e8",
+   "title": "Credai seeks affordable housing reforms, tax relief ahead of FY28 Budget",
+   "link": "https://www.business-standard.com/budget/news/credai-seeks-affordable-housing-reforms-tax-relief-ahead-of-fy28-budget-126112701164_1.html",
    "source": "Business Standard",
-   "category": "Regulatory",
-   "published": "2026-11-27T12:14:18Z",
-   "summary": "RBI cuts minimum daily CRR maintenance requirement for banks to 90% from 99% amid tightening liquidity conditions"
+   "category": "Direct Tax",
+   "published": "2026-11-27T13:58:21Z",
+   "summary": "The real estate industry body has proposed a uniform definition of affordable housing, enhanced home loan tax benefits, and lower capital gains tax on land and buildings"
   },
   {
-   "id": "eac5102b389d6196",
-   "title": "Ananya Birla-led Svatantra Microfin gets SEBI nod for Rs 3,000-crore IPO",
-   "link": "https://www.moneycontrol.com/news/business/banks/ananya-birla-led-svatantra-microfin-gets-sebi-observations-for-rs-3-000-crore-ipo-14090462.html/amp",
-   "source": "Moneycontrol.com",
+   "id": "f57f77ef6d438325",
+   "title": "SEBI Advises Against Grey Market Premium Publication for IPOs: Investor Protection and Compliance",
+   "link": "https://taxguru.in/sebi/sebi-advises-against-grey-market-premium-publication-ipos-investor-protection-compliance.html",
+   "source": "TaxGuru",
    "category": "Regulatory",
-   "published": "2026-11-27T12:07:13Z",
-   "summary": "Issue comprises a fresh issue of Rs 1,500 crore and an offer for sale of an equal amount; proceeds will be used to strengthen the lender's capital base. Svatantra Microfin is the second-largest non-banking financial company-microfinance institution (NBFC-MFI) in India by microfinance assets under management (AUM), as of March 31, 2026. Its microfinance AUM grew at a compound annual growth rate of 20.87 percent between FY24 and FY26, reaching Rs 21,093 crore at the end of March 2026, compared with Rs 14,438 crore in March 2024."
+   "published": "2026-11-27T13:56:56Z",
+   "summary": "SEBI’s November 23, 2026 advisory cautions against IPO Grey Market Premium publication, highlighting investor risks and intermediary obligations. Summary: The Securities and Exchange Board of India (SEBI), through Press Release No. 75/2026 dated November 23, 2026, has issued an advisory concerning the publication, circulation and dissemination of unregulated Pre-Listing Premium, commonly known as Grey Market Premium (GMP), for upcoming Initial Public Offers (IPOs). SEBI has observed that GMP figures are increasingly circulated through websites, digital platforms, newspapers, social media and certain registered intermediaries, often creating expectations regarding listing prices and investment returns."
   },
   {
-   "id": "b95ef14375654846",
-   "title": "Stockal case: SEBI flags failure to file action report on investor complaints",
-   "link": "https://www.moneycontrol.com/news/business/stockal-case-sebi-flags-failure-to-file-action-report-on-investor-complaints-14090459.html/amp",
-   "source": "Moneycontrol.com",
+   "id": "88fba5f40609eea3",
+   "title": "RBI Guv to MSMEs: Take advantage of the lower tariffs available under India’s FTAs",
+   "link": "https://www.thehindubusinessline.com/economy/rbi-guv-to-msmes-take-advantage-of-the-lower-tariffs-available-under-indias-ftas/article71750841.ece",
+   "source": "BusinessLine",
    "category": "Regulatory",
-   "published": "2026-11-27T12:03:27Z",
-   "summary": "SEBI has informed investors that Stockal failed to submit an Action Taken Report on its SCORES platform within the stipulated 21 days, even as the company says it is negotiating with US broking partner DriveWealth to address losses arising from alleged unauthorised trades in overseas stocks."
-  },
-  {
-   "id": "188d79ff6e1a7fb8",
-   "title": "RBI Loosens Daily CRR Rule As Liquidity Tightens",
-   "link": "https://finimize.com/content/rbi-loosens-daily-crr-rule-as-liquidity-tightens",
-   "source": "Finimize",
-   "category": "Regulatory",
-   "published": "2026-11-27T12:02:26Z",
-   "summary": ""
-  },
-  {
-   "id": "7a25113a373981a7",
-   "title": "TVS Motor forays into cargo tricycles with Armado, eyes overseas markets",
-   "link": "https://www.business-standard.com/companies/news/tvs-motor-forays-into-cargo-tricycles-with-armado-eyes-overseas-markets-126112700940_1.html",
-   "source": "Business Standard",
-   "category": "Business",
-   "published": "2026-11-27T11:56:59Z",
-   "summary": "TVS Motor Company is targeting Africa, Latin America, and Asean markets with its one-tonne cargo tricycle, designed for cargo transportation and first- and last-mile logistics"
-  },
-  {
-   "id": "a16c493679aa2158",
-   "title": "Jet Airways case: Can employees lose PF, gratuity if a company goes bust?",
-   "link": "https://www.business-standard.com/finance/personal-finance/jet-airways-case-can-employees-lose-pf-gratuity-if-a-company-goes-bust-126112700922_1.html",
-   "source": "Business Standard",
-   "category": "Regulatory",
-   "published": "2026-11-27T11:50:44Z",
-   "summary": "NCLAT's order directing payment of pending provident fund and gratuity dues to former Jet Airways employees highlights how insolvency law protects workers' retirement benefits when companies collapse"
-  },
-  {
-   "id": "1737ac1e8b8ad42a",
-   "title": "Diaper maker Nobel Hygiene gets SEBI nod for proposed IPO",
-   "link": "https://www.moneycontrol.com/news/business/diaper-maker-nobel-hygiene-gets-sebi-nod-for-proposed-ipo-14090450.html",
-   "source": "Moneycontrol.com",
-   "category": "Regulatory",
-   "published": "2026-11-27T11:49:51Z",
-   "summary": "The issue comprises a fresh issue of up to Rs.150 crore and an offer for sale (OFS) of up to 15,511,082 equity shares by existing shareholders Nobel Hygiene Limited, India's largest home-grown branded manufacturer of absorbent hygiene products, including diapers, has received approval from the Securities and Exchange Board of India (SEBI) for its proposed initial public offering (IPO). The net proceeds from the fresh issue are proposed to be used for prepayment or repayment of certain outstanding borrowings; investment in its subsidiary, Nobel Hygiene Baroda Private Limited (NHBPL), to part-finance the expansion of production capacity at Halol; setting up…"
+   "published": "2026-11-27T13:56:19Z",
+   "summary": "RBI Governor urges MSMEs to use FTAs’ lower tariffs, modernize finances, and explore diverse funding to scale beyond domestic markets. Reserve Bank of India (RBI) Governor Sanjay Malhotra on Friday exhorted MSMEs (micro, small and medium enterprises) to look beyond domestic markets and take advantage of the lower tariffs available under India’s FTAs (Free Trade Agreements). In his address at the SME Finance & Investment Summit, Malhotra observed that only about 20–30 per cent of eligible Indian exports take advantage of the lower tariffs available under India’s FTAs."
   }
  ],
  "trending": [
   {
-   "id": "bed746ebf04e5c62",
-   "title": "Tata Steel-Apollo deal tests India's reinforced corporate governance rules",
-   "link": "https://www.business-standard.com/companies/news/tata-steel-apollo-deal-tests-india-s-reinforced-corporate-governance-rules-126112700196_1.html",
-   "source": "Bloomberg",
-   "category": "Business",
-   "published": "2026-11-27T04:16:34Z",
-   "summary": "Covered by 13 sources (CNBC TV18, NiftyTrader, LinkedIn…). A proposed deal giving Tata Steel control of APL Apollo has triggered a backlash, wiping over $4 bn off the companies' combined market value and raising questions over minority investor protection"
+   "id": "9793be08f0c82ab8",
+   "title": "Tata Steel-APL Apollo deal under Sebi scrutiny? What Chairman Tuhin Kanta Pandey said on minority shareholders",
+   "link": "https://www.livemint.com/market/tata-steel-apl-apollo-deal-under-sebi-scrutiny-what-chairman-tuhin-kanta-pandey-said-on-minority-shareholders-11795787306824.html",
+   "source": "Mint Markets",
+   "category": "Regulatory",
+   "published": "2026-11-27T14:26:30Z",
+   "summary": "Covered by 10 sources (Business Standard, LinkedIn, CNBC TV18…). Sebi Chairman Tuhin Kanta Pandey said protecting minority shareholders is a priority as the regulator examines Tata Steel’s proposed transaction with APL Apollo. Investors and proxy advisers have questioned the deal’s structure, warning it could shift costs to minority shareholders."
   },
   {
    "id": "b4fdfd702c9f6905",
@@ -471,7 +471,34 @@
    "source": "RBI Notifications",
    "category": "Business",
    "published": "2026-11-27T11:25:00Z",
-   "summary": "Covered by 6 sources (RBI, DD News, LinkedIn…). Notifications - Reserve Bank of India"
+   "summary": "Covered by 8 sources (RBI, bfsi.economictimes.indiatimes.com, News On AIR…). Notifications - Reserve Bank of India"
+  },
+  {
+   "id": "344d56c671dda2b2",
+   "title": "RBI governor urges MSMEs to free-trade deals; flags low AI adoption",
+   "link": "https://www.livemint.com/economy/rbi-governor-msmes-free-trade-deals-exports-ai-adoption-11795763118058.html",
+   "source": "Mint Economy",
+   "category": "Regulatory",
+   "published": "2026-11-27T08:22:14Z",
+   "summary": "Covered by 7 sources (The Hindu, Instagram, News On AIR…). Malhotra said the FTAs would improve market access for small businesses and create opportunities for them to specialize in segments of global value chains. Reserve Bank of India governor Sanjay Malhotra urged micro, small and medium enterprises (MSMEs) to leverage India's free trade agreements to access markets overseas and become part of global value chains. He also urged banks to move beyond regulatory compliance in lending to small businesses and flagged low artificial intelligence adoption by MSMEs."
+  },
+  {
+   "id": "3e9653f3c255e1a2",
+   "title": "Svatantra Microfin gets SEBI nod to proceed with ₹3,000 crore IPO",
+   "link": "https://www.thehindubusinessline.com/markets/svatantra-microfin-gets-sebi-nod-to-proceed-with-3000-crore-ipo/article71750593.ece",
+   "source": "BusinessLine Markets",
+   "category": "Regulatory",
+   "published": "2026-11-27T13:43:37Z",
+   "summary": "Covered by 6 sources (Fortune India, TradingView, CNBC TV18…). Svatantra Microfin gets SEBI nod for a ₹3,000 crore IPO, while several firms receive approvals and others withdraw draft offer documents. The Svatantra Microfin issue totals ₹3,000 crore, split equally between a fresh issue of ₹1,500 crore and an offer for sale of ₹1,500 crore. The company plans to use the fresh issue proceeds to strengthen its Tier I capital base and meet future requirements, including onward lending linked to business growth. The equity shares are proposed to be listed on BSE and the NSE."
+  },
+  {
+   "id": "a1000d7d19c9e71b",
+   "title": "SEBI allows FPIs to trade in physically settled commodity derivatives from June 2027",
+   "link": "https://www.thehindubusinessline.com/markets/commodities/sebi-allows-fpis-to-trade-in-physically-settled-commodity-derivatives-from-june-2027/article71751009.ece",
+   "source": "BusinessLine Markets",
+   "category": "Regulatory",
+   "published": "2026-11-27T13:53:28Z",
+   "summary": "Covered by 5 sources (News On AIR, LiveLawBiz, BusinessLine…). SEBI permits FPIs to trade in physically settled non-agricultural commodity derivatives from June 1, 2027, with safeguards governing positions and delivery. Markets regulator SEBI on Friday permitted foreign portfolio investors (FPIs) to participate in physically settled non-agricultural commodity derivative contracts, a move aimed at deepening institutional participation and enhancing liquidity in the commodity derivatives segment. The new framework, which will come into effect from June 1, 2027, will allow FPIs to trade in non-cash settled non-agricultural commodity derivatives, excluding options in goods, subject to specified safeguards."
   },
   {
    "id": "233d3734f037007e",
@@ -480,25 +507,7 @@
    "source": "ETV Bharat",
    "category": "Regulatory",
    "published": "2026-11-27T10:22:15Z",
-   "summary": "Covered by 5 sources (ETV Bharat, CNBC TV18, Press Trust of India…). Over the past few months, Sebi has taken several measures to ease the compliance burden for FPIs. 3 Min Read New Delhi: Markets regulator Sebi is aiming to reduce the onboarding time for Foreign Portfolio Investors (FPIs) from several months to as little as five business days through digital workflows and system integration, its chairman Tuhin Kanta Pandey said on Friday."
-  },
-  {
-   "id": "cc308cc90204d328",
-   "title": "GST Refund Rules 2026: Major Changes in FORM GST RFD-01 from 1 December 2026",
-   "link": "https://taxguru.in/goods-and-service-tax/gst-refund-rules-2026-major-form-gst-rfd-01-1-december-2026.html",
-   "source": "TaxGuru GST",
-   "category": "Indirect Tax",
-   "published": "2026-11-27T13:00:27Z",
-   "summary": "Covered by 4 sources (TaxGuru, CAclubindia, CNBC TV18…). GSTN revises FORM GST RFD-01 from 1 December 2026 with new refund categories, HSN/SAC reporting, individual JSON validation and revised declarations. The Goods and Services Tax Network (GSTN) is introducing significant changes to the refund application functionality available on the GST Portal through FORM GST RFD-01 with effect from 1 December 2026 . These enhancements are being implemented pursuant to the amendments introduced under Notification No. 05/2026-Central Tax dated 26 October 2026 , amending the Central Goods and Services Tax Rules, 2017."
-  },
-  {
-   "id": "79095806917260d5",
-   "title": "SEBI clarifies 65-year age limit for stock exchange MDs remains unchanged",
-   "link": "https://www.thehindubusinessline.com/markets/sebi-clarifies-65-year-age-limit-for-stock-exchange-mds-remains-unchanged/article71750657.ece",
-   "source": "BusinessLine Markets",
-   "category": "Regulatory",
-   "published": "2026-11-27T12:38:54Z",
-   "summary": "Covered by 4 sources (BusinessLine, CNBC TV18, Business Standard…). SEBI says the 65-year age limit for MII managing directors remains unchanged, while proposing shorter tenures and a cumulative 12-year cap across institutions. The Securities and Exchange Board of India (SEBI) on Friday refuted certain media reports suggesting that the market regulator has proposed a change in the maximum age limit of managing directors (MDs) of Market Infrastructure Institutions (MIIs), including stock exchanges, clearing corporations and depositories, clarifying that the existing age limit of 65 years remains unchanged under its proposals."
+   "summary": "Covered by 5 sources (ETV Bharat, Upstox, Press Trust of India…). Over the past few months, Sebi has taken several measures to ease the compliance burden for FPIs. 3 Min Read New Delhi: Markets regulator Sebi is aiming to reduce the onboarding time for Foreign Portfolio Investors (FPIs) from several months to as little as five business days through digital workflows and system integration, its chairman Tuhin Kanta Pandey said on Friday."
   },
   {
    "id": "dca3f1b52871b9b8",
@@ -516,16 +525,7 @@
    "source": "SME Futures",
    "category": "Economy",
    "published": "2026-11-27T09:29:27Z",
-   "summary": "Covered by 4 sources (SME Futures, CAclubindia, A2Z Taxcorp LLP…)."
-  },
-  {
-   "id": "df4fbaff7b377f60",
-   "title": "Gold prices hover around ₹1.25 lakh: 2027 outlook, key drivers and what investors should do; experts weigh in",
-   "link": "https://www.livemint.com/money/personal-finance/gold-prices-hover-around-1-25-lakh-2027-outlook-key-drivers-and-what-investors-should-do-experts-weigh-in-11795756071676.html",
-   "source": "Mint Money",
-   "category": "Business",
-   "published": "2026-11-27T07:09:12Z",
-   "summary": "Covered by 4 sources (Mint, BusinessLine, Jagran Josh…). Gold prices have recently recovered to around ₹1.25 lakh per 10 grams. Despite near-term pressure from monetary tightening, central bank buying and resilient investment demand continue to support the outlook. Here's what Indian investors should expect in 2027."
+   "summary": "Covered by 4 sources (SME Futures, CAclubindia, Economic Times…)."
   },
   {
    "id": "fed7ff0bb89fb2ef",
@@ -537,23 +537,25 @@
    "summary": "Covered by 4 sources (BusinessLine, Business Standard, Mint…). Urban Company entered the air-conditioner market with Native Ultra and Ultra Air, priced from ₹55,499. The ACs come with a five-year unconditional warranty, including gas refills."
   },
   {
-   "id": "599df2ed06f3e73e",
-   "title": "Mahanadi Coalfields Set for Mumbai Debut After $969 Million IPO",
-   "link": "https://www.livemint.com/market/mahanadi-coalfields-set-for-mumbai-debut-after-969-million-ipo-11795746565861.html",
-   "source": "Mint Markets",
-   "category": "Markets",
-   "published": "2026-11-27T02:29:25Z",
-   "summary": "Covered by 4 sources (BusinessLine, Business Standard, Bloomberg…). Mahanadi Coalfields Ltd., a unit of state-owned Coal India Ltd., is set to start trading Friday after its initial public offering in the first listing since India’s market regulator barred publishing so-called gray-market prices for IPO shares."
+   "id": "104d39387155b41e",
+   "title": "RBI consolidates 25 card payment circulars into one framework; what debit and credit card users should know",
+   "link": "https://www.livemint.com/money/personal-finance/rbi-consolidates-25-card-payment-circulars-into-one-framework-what-debit-and-credit-card-users-should-know-11795785543520.html",
+   "source": "Mint Money",
+   "category": "Regulatory",
+   "published": "2026-11-27T13:43:37Z",
+   "summary": "Covered by 3 sources (Elets BFSI, Mint, Livemint). RBI has consolidated 25 existing circulars on debit, credit and prepaid card transactions into a single framework. The directions cover card security, authentication, tokenisation, card data storage and merchant discount rates."
   },
   {
-   "id": "1f7171e9ea1fb001",
-   "title": "Suvarna Keralam Lottery Results",
-   "link": "https://www.onmanorama.com/news/kerala/2026/11/27/suvarna-keralam-sk-79-lottery-results-kerala-1-crore-first-prize-list-winners-live.html",
-   "source": "Onmanorama",
+   "id": "c635db82ba5fd447",
+   "title": "Ashutosh Ranka",
+   "link": "https://timesofindia.indiatimes.com/india/pakistan-funding-row-cjps-ashutosh-ranka-sends-defamation-notice-to-jitendra-singh-seeks-rs-3-crore/articleshow/136225266.cms",
+   "source": "The Times of India",
    "category": "Business",
-   "published": "2026-11-27T12:30:00Z",
-   "summary": "About 2000+ searches in India. Kerala lottery Suvarna Keralam SK-79 result today 27/11/2026: ₹1 cr first prize for RK 661942 | Check complete list."
+   "published": "2026-11-27T14:10:00Z",
+   "summary": "About 200+ searches in India. 'Pakistan funding' row: CJP's Ashutosh Ranka sends defamation notice to Jitendra Singh, seeks Rs 3 crore."
   }
  ],
- "skipped_sources": []
+ "skipped_sources": [
+  "SEBI (URLError: <urlopen error [Errno -3] Temporary failure in name resolution>)"
+ ]
 }
